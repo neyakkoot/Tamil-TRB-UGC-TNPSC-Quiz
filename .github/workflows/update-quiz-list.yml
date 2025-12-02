@@ -1,0 +1,53 @@
+name: Auto Update quiz-list.json
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "*.json"
+      - "!quiz-list.json"
+
+jobs:
+  update-quiz-list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Generate updated quiz-list.json
+        run: |
+          echo "📘 Generating quiz-list.json..."
+          echo "[" > quiz-list.json
+          FIRST=true
+          for FILE in *.json; do
+            if [ "$FILE" != "quiz-list.json" ]; then
+              TITLE=$(grep -m 1 '"question"' "$FILE" | sed 's/.*"question":[[:space:]]*"\([^"]*\)".*/\1/' | cut -c -60)
+              if [ -z "$TITLE" ]; then
+                TITLE="$FILE"
+              fi
+              if [ "$FIRST" = true ]; then
+                FIRST=false
+              else
+                echo "," >> quiz-list.json
+              fi
+              echo "  {\"file\": \"$FILE\", \"title\": \"$TITLE\"}" >> quiz-list.json
+            fi
+          done
+          echo "]" >> quiz-list.json
+
+      - name: Commit and push updated quiz-list.json
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add quiz-list.json
+          git commit -m "Auto-update quiz-list.json on new quiz upload" || echo "No changes to commit"
+          git push
