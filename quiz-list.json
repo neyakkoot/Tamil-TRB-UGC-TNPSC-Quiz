@@ -1,0 +1,84 @@
+[
+  {
+    "category": "தமிழ்த் தகுதித் தேர்வு (TET)",
+    "quizzes": [
+      { "file": "TET_LAW College_TRB_2025.json", "title": "சட்டக் கல்லூரி_தமிழ்த் தகுதித் தேர்வு_2025" },
+      { "file": "TET_PGTRB_2025.json", "title": "TET_PGTRB_2025" },
+      { "file": "TET Previous Year Question Paper 01.json", "title": "தமிழ்த் தகுதித் தேர்வு" }
+    ]
+  },
+  {
+    "category": "தமிழ்த் தகுதித் தேர்வு (TNPSC- Group IV)",
+    "quizzes": [
+      { "file": "TNPSC-TETquiz-Unit-1.json", "title": "அலகு I: இலக்கணம்" },
+      { "file": "TNPSC-TETquiz-Unit-2.json", "title": "அலகு II: சொல்லகராதி" },
+      { "file": "TNPSC-TETquiz-Unit-3.json", "title": "அலகு III: எழுதும் திறன்" },
+      { "file": "TNPSC-TETquiz-Unit-4.json", "title": "அலகு IV: கலைச் சொற்கள்" },
+      { "file": "TNPSC-TETquiz-Unit-5.json", "title": "அலகு V: வாசித்தல் & மொழிபெயர்ப்பு" },
+      { "file": "TNPSC-TETquiz-Unit-6.json", "title": "அலகு VI: வாசித்தல் & மொழிபெயர்ப்பு" },
+      { "file": "TNPSC-TETquiz-Unit-7.1.json", "title": "அலகு VII.1: இலக்கியம் & தமிழ் அறிஞர்கள்" },
+      { "file": "TNPSC-TETquiz-Unit-7.2.json", "title": "அலகு VII.2: இலக்கியம் & தமிழ் அறிஞர்கள்" }
+    ]
+  },
+  {
+    "category": "பத்தாம் வகுப்பு",
+    "quizzes": [
+      { "file": "10th-quiz-questions-1.json", "title": "பத்தாம் வகுப்பு 1" },
+      { "file": "10th-quiz-questions-2.json", "title": "பத்தாம் வகுப்பு 2" },
+      { "file": "10th-quiz-questions-3.json", "title": "பத்தாம் வகுப்பு 3" },
+      { "file": "10th-quiz-questions-4.json", "title": "பத்தாம் வகுப்பு 4" },
+      { "file": "10th-quiz-questions-5.json", "title": "பத்தாம் வகுப்பு 5" },
+      { "file": "10th-quiz-questions-6.json", "title": "பத்தாம் வகுப்பு 6" },
+      { "file": "10th-quiz-questions-7.json", "title": "பத்தாம் வகுப்பு 7" },
+      { "file": "10th-quiz-questions-8.json", "title": "பத்தாம் வகுப்பு 8" },
+      { "file": "10th-quiz-questions-9.json", "title": "பத்தாம் வகுப்பு 9" },
+      { "file": "10th-quiz-questions-10.json", "title": "பத்தாம் வகுப்பு 10" },
+      { "file": "10th-quiz-questions-11.json", "title": "பத்தாம் வகுப்பு 11" },
+      { "file": "10th-quiz-questions-12.json", "title": "பத்தாம் வகுப்பு 12" }
+    ]
+  },
+  {
+    "category": "ஆறாம் வகுப்பு",
+    "quizzes": [
+      { "file": "6th_Tamil1.json", "title": "ஆறாம் வகுப்பு 1" }
+    ]
+  },
+  {
+    "category": "தமிழ்த் தகவல் களஞ்சியம்",
+    "quizzes": [
+      { "file": "Tamil_Language_Literture-quiz_Mozhi-1.json", "title": "மொழி" },
+      { "file": "Tamil_Language_Literture-quiz_Muchangam-2.json", "title": "முச்சங்கம்" },
+      { "file": "Tamil_Language_Literture-quiz_Sanga Ilakkiyam-3.json", "title": "சங்க இலக்கியங்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Sanga Maruviya-4.json", "title": "சங்க மருவிய இலக்கியங்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Kaappiyam-5.json", "title": "காப்பியங்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Samya Ilakkiyam-6.json", "title": "சமய இலக்கியங்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Grammars-7.json", "title": "இலக்கணங்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Sittrilakkiyam-8.json", "title": "சிற்றிலக்கியங்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Folklore-9.json", "title": "நாட்டுபுறவியல்" },
+      { "file": "Tamil_Language_Literture-quiz_Pirkalap pulavarkal-10.json", "title": "பிற்காலப் புலவர்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Modern Literature-11.json", "title": "இக்கால இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Uraiyar-12.json", "title": "உரையாசிரியர்" },
+      { "file": "Tamil_Language_Literture-quiz_Pirkalath tamizh-13.json", "title": "பிற்காலத் தமிழ் இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Sirukahai Ilakkaiyam-14.json", "title": "சிறுகதை இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Novel Literature-15.json", "title": "நாவல் இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Drama Literature-16.json", "title": "நாடக இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Thalithilakkiyam-17.json", "title": "தலித் இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Katturai Ilakkiyam-18.json", "title": "கட்டுரை இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Kaditha Ilakkiyam-19.json", "title": "கடித இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Vaazhkkai varalaru-20.json", "title": "வாழ்க்கை வரலாற்று இலக்கியங்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Payana Ilakkiyam-21.json", "title": "பயண இலக்கியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Urai-22.json", "title": "உரை" },
+      { "file": "Tamil_Language_Literture-quiz_Urainadai-23.json", "title": "உரைநடை" },
+      { "file": "Tamil_Language_Literture-quiz_Thiranaivu-24.json", "title": "திறனாய்வு" },
+      { "file": "Tamil_Language_Literture-quiz_Feminism-25.json", "title": "பெண்ணியம்" },
+      { "file": "Tamil_Language_Literture-quiz_Journal-26.json", "title": "இதழ்" },
+      { "file": "Tamil_Language_Literture-quiz_Iyakkam-27.json", "title": "இயக்கம்" },
+      { "file": "Tamil_Language_Literture-quiz_Palkalai_Maanadu-28.json", "title": "பல்கலைக்கழகங்கள், மாநாடுகள், விருதுகள்" },
+      { "file": "Tamil_Language_Literture-quiz_Semmozhiththamizh-29.json", "title": "செம்மொழித் தமிழ்" },
+      { "file": "Tamil_Language_Literture-quiz_Archeaology-30.json", "title": "கல்வெட்டுத் தமிழ்" },
+      { "file": "Tamil_Language_Literture-quiz_Sience Tamil-31.json", "title": "அறிவியல் தமிழ்" },
+      { "file": "Tamil_Language_Literture-quiz_Ilakkiya Iyakkangal-32.json", "title": "இலக்கிய இயக்கங்கள்" },
+      { "file": "Tamil_Language_Literture-quiz_Thamizh varalaatru thagavanfkal-33.json", "title": "தமிழ் வரலாற்றுத் தகவல்கள்" }
+    ]
+  }
+]
