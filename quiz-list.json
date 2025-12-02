@@ -1,49 +1,5 @@
 [
   {
-    "category": "தமிழ்த் தகுதித் தேர்வு (TET)",
-    "quizzes": [
-      { "file": "TET_LAW College_TRB_2025.json", "title": "சட்டக் கல்லூரி_தமிழ்த் தகுதித் தேர்வு_2025" },
-      { "file": "TET_PGTRB_2025.json", "title": "TET_PGTRB_2025" },
-      { "file": "TET Previous Year Question Paper 01.json", "title": "தமிழ்த் தகுதித் தேர்வு" }
-    ]
-  },
-  {
-    "category": "தமிழ்த் தகுதித் தேர்வு (TNPSC- Group IV)",
-    "quizzes": [
-      { "file": "TNPSC-TETquiz-Unit-1.json", "title": "அலகு I: இலக்கணம்" },
-      { "file": "TNPSC-TETquiz-Unit-2.json", "title": "அலகு II: சொல்லகராதி" },
-      { "file": "TNPSC-TETquiz-Unit-3.json", "title": "அலகு III: எழுதும் திறன்" },
-      { "file": "TNPSC-TETquiz-Unit-4.json", "title": "அலகு IV: கலைச் சொற்கள்" },
-      { "file": "TNPSC-TETquiz-Unit-5.json", "title": "அலகு V: வாசித்தல் & மொழிபெயர்ப்பு" },
-      { "file": "TNPSC-TETquiz-Unit-6.json", "title": "அலகு VI: வாசித்தல் & மொழிபெயர்ப்பு" },
-      { "file": "TNPSC-TETquiz-Unit-7.1.json", "title": "அலகு VII.1: இலக்கியம் & தமிழ் அறிஞர்கள்" },
-      { "file": "TNPSC-TETquiz-Unit-7.2.json", "title": "அலகு VII.2: இலக்கியம் & தமிழ் அறிஞர்கள்" }
-    ]
-  },
-  {
-    "category": "பத்தாம் வகுப்பு",
-    "quizzes": [
-      { "file": "10th-quiz-questions-1.json", "title": "பத்தாம் வகுப்பு 1" },
-      { "file": "10th-quiz-questions-2.json", "title": "பத்தாம் வகுப்பு 2" },
-      { "file": "10th-quiz-questions-3.json", "title": "பத்தாம் வகுப்பு 3" },
-      { "file": "10th-quiz-questions-4.json", "title": "பத்தாம் வகுப்பு 4" },
-      { "file": "10th-quiz-questions-5.json", "title": "பத்தாம் வகுப்பு 5" },
-      { "file": "10th-quiz-questions-6.json", "title": "பத்தாம் வகுப்பு 6" },
-      { "file": "10th-quiz-questions-7.json", "title": "பத்தாம் வகுப்பு 7" },
-      { "file": "10th-quiz-questions-8.json", "title": "பத்தாம் வகுப்பு 8" },
-      { "file": "10th-quiz-questions-9.json", "title": "பத்தாம் வகுப்பு 9" },
-      { "file": "10th-quiz-questions-10.json", "title": "பத்தாம் வகுப்பு 10" },
-      { "file": "10th-quiz-questions-11.json", "title": "பத்தாம் வகுப்பு 11" },
-      { "file": "10th-quiz-questions-12.json", "title": "பத்தாம் வகுப்பு 12" }
-    ]
-  },
-  {
-    "category": "ஆறாம் வகுப்பு",
-    "quizzes": [
-      { "file": "6th_Tamil1.json", "title": "ஆறாம் வகுப்பு 1" }
-    ]
-  },
-  {
     "category": "தமிழ்த் தகவல் களஞ்சியம்",
     "quizzes": [
       { "file": "Tamil_Language_Literture-quiz_Mozhi-1.json", "title": "மொழி" },
