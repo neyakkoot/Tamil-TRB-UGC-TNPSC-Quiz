@@ -1,0 +1,1102 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "வரலாற்றின் ஒளிக்கதிர்களில் ஒன்றாகக் கருதப்படுவது எது?",
+    "answerOptions": [
+      { "text": "இலக்கிய வரலாறு", "isCorrect": true },
+      { "text": "அரசியல் வரலாறு", "isCorrect": false },
+      { "text": "பொருளாதார வரலாறு", "isCorrect": false },
+      { "text": "புவியியல் வரலாறு", "isCorrect": false }
+    ],
+    "hint": "இது ஒரு சமுதாயத்தின் பண்பாட்டையும் நாகரிகத்தையும் அறிய உதவும்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "\"இலக்கியங்கள் வாழ்க்கையின் எதிரொலிகள்; சமூகத்தின் வளர்ச்சியைக் காட்டும் மைல்கள்\" என்று கூறியவர் யார்?",
+    "answerOptions": [
+      { "text": "புதுமைப்பித்தன்", "isCorrect": true },
+      { "text": "பாரதியார்", "isCorrect": false },
+      { "text": "ஜெயகாந்தன்", "isCorrect": false },
+      { "text": "கல்கி", "isCorrect": false }
+    ],
+    "hint": "இவர் சிறுகதை மன்னன் என்று அழைக்கப்படுபவர்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "இலக்கியம் என்பது மனித மனத்தில் அரும்பி, உணர்ச்சியில் பூத்து எதன் தொகுப்பாக அமைகிறது?",
+    "answerOptions": [
+      { "text": "உணர்வுகளின் தொகுப்பு", "isCorrect": true },
+      { "text": "சொற்களின் தொகுப்பு", "isCorrect": false },
+      { "text": "எழுத்துக்களின் தொகுப்பு", "isCorrect": false },
+      { "text": "வரலாற்றுத் தொகுப்பு", "isCorrect": false }
+    ],
+    "hint": "இது வையத்தின் எட்டுத்திசை மொழிகளிலும் பூத்துச் சொரியும்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "\"கலைஞன் கனவு கண்டான்; _________ பிறந்தது\". இத்தொடரை நிரப்புக.",
+    "answerOptions": [
+      { "text": "இலக்கியம்", "isCorrect": true },
+      { "text": "உலகம்", "isCorrect": false },
+      { "text": "சிற்பம்", "isCorrect": false },
+      { "text": "நாடகம்", "isCorrect": false }
+    ],
+    "hint": "கடவுள் கனவு கண்டால் உலகம் பிறக்கும்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "பழந்தமிழர் நம்பிக்கப்படி சிவபெருமான் வடமொழியைப் பாணினிக்கும், தென்மொழியை யாருக்கும் கற்பித்தார்?",
+    "answerOptions": [
+      { "text": "அகத்தியர்", "isCorrect": true },
+      { "text": "தொல்காப்பியர்", "isCorrect": false },
+      { "text": "நக்கீரர்", "isCorrect": false },
+      { "text": "கபிலர்", "isCorrect": false }
+    ],
+    "hint": "இவர் பொதிகை மலையில் வாழ்ந்தவர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "மொழியின் தோற்றம் குறித்த 'பௌ-வௌ' (Bow-wow) கொள்கையின் அடிப்படை என்ன?",
+    "answerOptions": [
+      { "text": "விலங்குகள் மற்றும் பறவைகளின் ஒலிகள்", "isCorrect": true },
+      { "text": "மனிதனின் உணர்ச்சிகள்", "isCorrect": false },
+      { "text": "இயற்கைப் பொருட்களின் ஒலிகள்", "isCorrect": false },
+      { "text": "உழைப்பின் ஒலிகள்", "isCorrect": false }
+    ],
+    "hint": "இதனை 'விலங்கொலி மொழிக்கொள்கை' என்றும் கூறுவர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "பாப்பன் (Papuan) மக்கள் 'உணவை' எவ்வாறு அழைப்பர்?",
+    "answerOptions": [
+      { "text": "நம்-நம் (num-num)", "isCorrect": true },
+      { "text": "டின்-டின்", "isCorrect": false },
+      { "text": "பௌ-வௌ", "isCorrect": false },
+      { "text": "மியா", "isCorrect": false }
+    ],
+    "hint": "இது சுவையைக் குறிக்கும் ஒலியை ஒத்தது."
+  },
+  {
+    "questionNumber": 8,
+    "question": "எகிப்து மக்கள் பூனையை எவ்வாறு அழைத்தனர்?",
+    "answerOptions": [
+      { "text": "மியா", "isCorrect": true },
+      { "text": "கேட்", "isCorrect": false },
+      { "text": "புஸ்", "isCorrect": false },
+      { "text": "லிலு", "isCorrect": false }
+    ],
+    "hint": "பூனை எழுப்பும் ஒலியே அதன் பெயராக அமைந்தது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "மகிழ்ச்சி, சினம் முதலிய உணர்ச்சிகள் நிரம்பிய காலத்தில் பிறக்கும் ஒலிகளே மொழிக்குக் காரணம் என்பது எக்கோட்பாடு?",
+    "answerOptions": [
+      { "text": "பூ-பூ கொள்கை (Pooh-pooh theory)", "isCorrect": true },
+      { "text": "டிங்-டாங் கொள்கை", "isCorrect": false },
+      { "text": "யோ-ஹி-ஹோ கொள்கை", "isCorrect": false },
+      { "text": "பௌ-வௌ கொள்கை", "isCorrect": false }
+    ],
+    "hint": "இதனை Interjectional theory என்றும் அழைப்பர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "ஒவ்வொரு பொருளுக்கும் இயற்கையாகவே ஒலிக்கும் தன்மை உண்டு என்ற 'டிங்-டாங்' கொள்கையின் மூலவர் யார்?",
+    "answerOptions": [
+      { "text": "மாக்ஸ்முல்லர்", "isCorrect": true },
+      { "text": "நோயர்", "isCorrect": false },
+      { "text": "ஆட்டோ எஸ்பர்சன்", "isCorrect": false },
+      { "text": "தாந்தே", "isCorrect": false }
+    ],
+    "hint": "இவர் பின்னர் இக்கொள்கையைக் கைவிட்டார்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "கடுமையான உழைப்பின் போது ஏற்படும் களைப்பை நீக்க எழுப்பிய ஒலிகளால் மொழி பிறந்தது என்பது எக்கோட்பாடு?",
+    "answerOptions": [
+      { "text": "யோ-ஹி-ஹோ கொள்கை", "isCorrect": true },
+      { "text": "பாட்டு மொழிக்கொள்கை", "isCorrect": false },
+      { "text": "விலங்குமொழிக் கொள்கை", "isCorrect": false },
+      { "text": "பூ-பூ கொள்கை", "isCorrect": false }
+    ],
+    "hint": "ஏலேலோ, ஐலசா போன்ற சொற்கள் இதற்குச் சான்று."
+  },
+  {
+    "questionNumber": 12,
+    "question": "யோ-ஹி-ஹோ கொள்கையை (Yo-he-ho theory) முன்மொழிந்த அறிஞர் யார்?",
+    "answerOptions": [
+      { "text": "நோயர் (Noire)", "isCorrect": true },
+      { "text": "எஸ்பர்சன்", "isCorrect": false },
+      { "text": "கிரியர்சன்", "isCorrect": false },
+      { "text": "கால்டுவெல்", "isCorrect": false }
+    ],
+    "hint": "இவர் உழைக்கும் மக்களின் ஒலியை அடிப்படையாகக் கொண்டார்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "மொழி அறிவினால் பிறக்கவில்லை, இன்பப்பெருக்கினால் (பாடலாக) பிறந்தது என்று கூறியவர் யார்?",
+    "answerOptions": [
+      { "text": "ஆட்டோ எஸ்பர்சன்", "isCorrect": true },
+      { "text": "மாக்ஸ்முல்லர்", "isCorrect": false },
+      { "text": "நோயர்", "isCorrect": false },
+      { "text": "ஸ்காட் எலியட்", "isCorrect": false }
+    ],
+    "hint": "இவர் பாட்டு மொழிக்கொள்கையை வகுத்தவர்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "பாட்டு மொழிக்கொள்கையின் வேறு பெயர் என்ன?",
+    "answerOptions": [
+      { "text": "Lyric theory", "isCorrect": true },
+      { "text": "Ding-dong theory", "isCorrect": false },
+      { "text": "Pooh-pooh theory", "isCorrect": false },
+      { "text": "Contact theory", "isCorrect": false }
+    ],
+    "hint": "கவலையற்ற உள்ளத்தின் இளமையில் பாட்டுப் பொங்கி வழிந்தது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "பழங்கால ஐரோப்பியர்கள் இத்தாலி மொழியை உருவாக்கியதாக யாரை நம்பினர்?",
+    "answerOptions": [
+      { "text": "தாந்தே", "isCorrect": true },
+      { "text": "சாசர்", "isCorrect": false },
+      { "text": "லூதர்", "isCorrect": false },
+      { "text": "பெடெர்சன்", "isCorrect": false }
+    ],
+    "hint": "டிவைன் காமெடி எழுதியவர்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "உலக மொழிக் குடும்பங்களில் 'செமிட்டிக்' (Semitic) இனம் எத்தனையாவது வகையாகக் குறிக்கப்படுகிறது?",
+    "answerOptions": [
+      { "text": "இரண்டாவது", "isCorrect": true },
+      { "text": "முதலாவது", "isCorrect": false },
+      { "text": "மூன்றாவது", "isCorrect": false },
+      { "text": "ஆறாவது", "isCorrect": false }
+    ],
+    "hint": "இந்தோ ஐரோப்பிய இனத்திற்கு அடுத்ததாகக் கூறப்படுவது."
+  },
+  {
+    "questionNumber": 17,
+    "question": "திராவிட மொழிக் குடும்பத்தில் 'திருந்திய மொழிகள்' என்று அழைக்கப்படுபவை எவை?",
+    "answerOptions": [
+      { "text": "தமிழ், தெலுங்கு, மலையாளம், கன்னடம், துளு, குடகு", "isCorrect": true },
+      { "text": "தமிழ், தெலுங்கு, கோந்த், கூய்", "isCorrect": false },
+      { "text": "மலையாளம், கன்னடம், துதவம், கோட்டா", "isCorrect": false },
+      { "text": "தமிழ், இந்தி, சமஸ்கிருதம்", "isCorrect": false }
+    ],
+    "hint": "இலக்கிய வளம் பெற்ற ஆறு மொழிகள்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "கீழ்க்கண்டவற்றுள் 'திருந்தா மொழி' (Uncultivated Language) எது?",
+    "answerOptions": [
+      { "text": "கோட்டா (Kota)", "isCorrect": true },
+      { "text": "தமிழ்", "isCorrect": false },
+      { "text": "தெலுங்கு", "isCorrect": false },
+      { "text": "மலையாளம்", "isCorrect": false }
+    ],
+    "hint": "நீலகிரிப் பகுதியில் பேசப்படும் ஒரு மொழி."
+  },
+  {
+    "questionNumber": 19,
+    "question": "வட இந்தியாவில் (பலுசிஸ்தான் பகுதியில்) வழங்கப்படும் திராவிட மொழி எது?",
+    "answerOptions": [
+      { "text": "பிராகுவி (Brahui)", "isCorrect": true },
+      { "text": "கோந்த்", "isCorrect": false },
+      { "text": "கூய்", "isCorrect": false },
+      { "text": "பர்ஜி", "isCorrect": false }
+    ],
+    "hint": "இது திராவிட மொழிக் குடும்பத்தைச் சேர்ந்த திருந்தா மொழி."
+  },
+  {
+    "questionNumber": 20,
+    "question": "\"இனிமையும் நீர்மையும் தமிழெனல் ஆகும்\" என்று கூறும் நூல் எது?",
+    "answerOptions": [
+      { "text": "பிங்கலந்தை நிகண்டு", "isCorrect": true },
+      { "text": "திவாகர நிகண்டு", "isCorrect": false },
+      { "text": "சூடாமணி நிகண்டு", "isCorrect": false },
+      { "text": "நன்னூல்", "isCorrect": false }
+    ],
+    "hint": "இது தமிழ்ச்சொல்லுக்கு விளக்கம் தரும் நூல்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "\"தமிழ் தழீஇய சாயலவர்\" என்று குறிப்பிடும் காப்பியம் எது?",
+    "answerOptions": [
+      { "text": "சீவக சிந்தாமணி", "isCorrect": true },
+      { "text": "சிலப்பதிகாரம்", "isCorrect": false },
+      { "text": "மணிமேகலை", "isCorrect": false },
+      { "text": "குண்டலகேசி", "isCorrect": false }
+    ],
+    "hint": "திருத்தக்கதேவர் இயற்றிய நூல்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "\"வண்டு தமிழ்ப் பாட்டிசைக்கும் தாமரையே\" என்று பாடியவர் யார்?",
+    "answerOptions": [
+      { "text": "கம்பர்", "isCorrect": true },
+      { "text": "இளங்கோவடிகள்", "isCorrect": false },
+      { "text": "திருவள்ளுவர்", "isCorrect": false },
+      { "text": "சீத்தலைச் சாத்தனார்", "isCorrect": false }
+    ],
+    "hint": "கம்பராமாயணத்தில் இவ்வரி வருகிறது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "திராவிட மொழி ஒப்புமையில் 'கன்னடம்' என்ற சொல் எதனோடு தொடர்புடையது?",
+    "answerOptions": [
+      { "text": "கன்னல் (கரும்பு)", "isCorrect": true },
+      { "text": "கனி", "isCorrect": false },
+      { "text": "கல்", "isCorrect": false },
+      { "text": "கண்", "isCorrect": false }
+    ],
+    "hint": "இனிமைக்குச் சான்றாகக் கரும்பைச் சொல்வர்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "திராவிட மொழி ஒப்புமையில் 'தெலுங்கு' (தெனுகு) என்ற சொல் எதனோடு தொடர்புடையது?",
+    "answerOptions": [
+      { "text": "தேன்", "isCorrect": true },
+      { "text": "தெளிவு", "isCorrect": false },
+      { "text": "தெற்கு", "isCorrect": false },
+      { "text": "தேக்கு", "isCorrect": false }
+    ],
+    "hint": "இனிமையான ஒரு திரவ உணவுப் பொருள்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "மனித குலம் தோன்றிய பழமையான நிலம் 'குமரிக்கண்டம்' என்று கருதியவர் யார்?",
+    "answerOptions": [
+      { "text": "ஸ்காட் எலியட்", "isCorrect": true },
+      { "text": "மாக்ஸ்முல்லர்", "isCorrect": false },
+      { "text": "கால்டுவெல்", "isCorrect": false },
+      { "text": "ஜி.யு. போப்", "isCorrect": false }
+    ],
+    "hint": "டாக்டர் கிரியர்சன் மற்றும் பெர்குசன் ஆகியோரும் இக்கருத்தைக் கொண்டிருந்தனர்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "\"கல்தோன்றி மண்தோன்றாக் காலத்தே வாளொடு முன்தோன்றிய மூத்த குடி\" - இவ்வரி இடம்பெற்ற நூல் எது?",
+    "answerOptions": [
+      { "text": "புறப்பொருள் வெண்பாமாலை", "isCorrect": true },
+      { "text": "புறநானூறு", "isCorrect": false },
+      { "text": "தொல்காப்பியம்", "isCorrect": false },
+      { "text": "அகநானூறு", "isCorrect": false }
+    ],
+    "hint": "தமிழரின் வீரத்தையும் தொன்மையையும் இது குறிக்கிறது."
+  },
+  {
+    "questionNumber": 27,
+    "question": "\"தென்றலுடன் பிறந்த பாஷை\" என்று தமிழைப் போற்றியவர் யார்?",
+    "answerOptions": [
+      { "text": "பாரதியார்", "isCorrect": true },
+      { "text": "பாரதிதாசன்", "isCorrect": false },
+      { "text": "கவிமணி", "isCorrect": false },
+      { "text": "நாமக்கல் கவிஞர்", "isCorrect": false }
+    ],
+    "hint": "மகாகவி என்று போற்றப்படுபவர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "\"திங்களொடும் செழும்பரிதி தன்னோடும்... பிறந்த தமிழுடன் பிறந்தோம் நாங்கள்\" - யார் கூற்று?",
+    "answerOptions": [
+      { "text": "பாரதிதாசன்", "isCorrect": true },
+      { "text": "பாரதியார்", "isCorrect": false },
+      { "text": "சுரதா", "isCorrect": false },
+      { "text": "வாணிதாசன்", "isCorrect": false }
+    ],
+    "hint": "பாவேந்தர் என்று அழைக்கப்படுபவர்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "கி.மு. 4000-இல் இருந்த சுமேரியத் தலைநகர் 'ஊர்' (Ur) கட்டுவதற்குத் தமிழகத்திலிருந்து என்ன மரம் சென்றது?",
+    "answerOptions": [
+      { "text": "தேக்கு", "isCorrect": true },
+      { "text": "சந்தனம்", "isCorrect": false },
+      { "text": "அகில்", "isCorrect": false },
+      { "text": "வேம்பு", "isCorrect": false }
+    ],
+    "hint": "இது உறுதியான மரவகை."
+  },
+  {
+    "questionNumber": 30,
+    "question": "சிந்துவெளி நாகரிகம் திராவிட நாகரிகமே என்று கூறிய பாதிரியார் யார்?",
+    "answerOptions": [
+      { "text": "ஹீராஸ் பாதிரியார் (Fr. Heras)", "isCorrect": true },
+      { "text": "ஜி.யு. போப்", "isCorrect": false },
+      { "text": "பெஸ்கி பாதிரியார்", "isCorrect": false },
+      { "text": "கால்டுவெல்", "isCorrect": false }
+    ],
+    "hint": "சிந்துவெளி முத்திரைகளை ஆராய்ந்தவர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "சிந்துவெளி எழுத்துக்கள் தமிழ்ப் பண்பாட்டோடு தொடர்புடையவை என்று அண்மையில் நிறுவியவர் யார்?",
+    "answerOptions": [
+      { "text": "ஐராவதம் மகாதேவன்", "isCorrect": true },
+      { "text": "நீலகண்ட சாஸ்திரி", "isCorrect": false },
+      { "text": "கே.கே. பிள்ளை", "isCorrect": false },
+      { "text": "மயிலை சீனி. வேங்கடசாமி", "isCorrect": false }
+    ],
+    "hint": "சிறந்த கல்வெட்டு ஆராய்ச்சியாளர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "சிந்துவெளி ஆய்வில் ஈடுபட்ட பின்லாந்து நாட்டு அறிஞர் யார்?",
+    "answerOptions": [
+      { "text": "அஸ்கோ பர்போலா", "isCorrect": true },
+      { "text": "மேக்ஸ் முல்லர்", "isCorrect": false },
+      { "text": "ஜான் மார்ஷல்", "isCorrect": false },
+      { "text": "மார்டிமர் வீலர்", "isCorrect": false }
+    ],
+    "hint": "திராவிட வேர்களை ஆராய்ந்தவர்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "சிந்துவெளி முத்திரைகளில் காணப்படும் 'மூன்கண்' என்பது யாரைக் குறிப்பதாக ஹீராஸ் கூறுகிறார்?",
+    "answerOptions": [
+      { "text": "முக்கண்ணன் (சிவன்)", "isCorrect": true },
+      { "text": "முருகன்", "isCorrect": false },
+      { "text": "திருமால்", "isCorrect": false },
+      { "text": "இந்திரன்", "isCorrect": false }
+    ],
+    "hint": "மூன்று கண்களை உடைய தெய்வம்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "பாரதப் போரில் 'பெருஞ்சோறு' அளித்த சேர மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "உதியஞ்சேரல்", "isCorrect": true },
+      { "text": "சேரன் செங்குட்டுவன்", "isCorrect": false },
+      { "text": "இமயவரம்பன்", "isCorrect": false },
+      { "text": "பல்யானைச் செல்கெழு குட்டுவன்", "isCorrect": false }
+    ],
+    "hint": "புறநானூற்றில் முரஞ்சியூர் முடிநாகராயர் இவனைப் பாடியுள்ளார்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "பாண்டவருள் ஒருவரான அருச்சுனன் யாரை மணம் செய்ததாக மகாபாரதம் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "சித்ராங்கதை", "isCorrect": true },
+      { "text": "மீனாட்சி", "isCorrect": false },
+      { "text": "தடாதகை", "isCorrect": false },
+      { "text": "கண்ணகி", "isCorrect": false }
+    ],
+    "hint": "இவர் ஒரு பாண்டிய மன்னன் மகள்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "வான்மீகி இராமாயணத்தில் பாண்டியர்களின் எதைப் பற்றிக் குறிப்பிடப்பட்டுள்ளது?",
+    "answerOptions": [
+      { "text": "கபாடம் (வாயிற்கதவு)", "isCorrect": true },
+      { "text": "முத்து", "isCorrect": false },
+      { "text": "மீன் கொடி", "isCorrect": false },
+      { "text": "தேர்", "isCorrect": false }
+    ],
+    "hint": "சுக்ரீவன் வானரர்களிடம் இதைப் பற்றிக் கூறினான்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "இராமாயணத்தில் அனுமன் சீதையிடம் பேசிய 'மதுரமொழி' எது என்று அறிஞர்கள் கருதுகின்றனர்?",
+    "answerOptions": [
+      { "text": "தமிழ்", "isCorrect": true },
+      { "text": "சமஸ்கிருதம்", "isCorrect": false },
+      { "text": "தெலுங்கு", "isCorrect": false },
+      { "text": "பாளி", "isCorrect": false }
+    ],
+    "hint": "மதுரைமொழி என்பதே மதுரமொழி என்று வழங்கப்பட்டது."
+  },
+  {
+    "questionNumber": 38,
+    "question": "பாரதியாரின் துணையோடு தமிழ் கற்றவர் யார்?",
+    "answerOptions": [
+      { "text": "அரவிந்தர்", "isCorrect": true },
+      { "text": "காந்தி", "isCorrect": false },
+      { "text": "வ.உ.சி", "isCorrect": false },
+      { "text": "தாகூர்", "isCorrect": false }
+    ],
+    "hint": "இவர் புதுச்சேரியில் ஆசிரமம் அமைத்தவர்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "வேத நூல்களில் 'முக்தா' என்று குறிப்பிடப்படுவது எது?",
+    "answerOptions": [
+      { "text": "முத்து", "isCorrect": true },
+      { "text": "பவளம்", "isCorrect": false },
+      { "text": "வைரம்", "isCorrect": false },
+      { "text": "மாணிக்கம்", "isCorrect": false }
+    ],
+    "hint": "இது பாண்டிய நாட்டிற்குச் சிறப்பு வாய்ந்தது."
+  },
+  {
+    "questionNumber": 40,
+    "question": "சாவாத் தீவில் (Java) காணப்படும் தமிழ்ப் பெயர் கொண்ட ஊர் எது?",
+    "answerOptions": [
+      { "text": "மதுரை", "isCorrect": true },
+      { "text": "புகார்", "isCorrect": false },
+      { "text": "வஞ்சி", "isCorrect": false },
+      { "text": "உறையூர்", "isCorrect": false }
+    ],
+    "hint": "இது பாண்டியர்களின் தலைநகரின் பெயர்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "வங்க மாநிலத்தில் காணப்படும் தமிழ்ப் பெயர் கொண்ட ஊர் எது?",
+    "answerOptions": [
+      { "text": "தமிழுக்", "isCorrect": true },
+      { "text": "சேரர்", "isCorrect": false },
+      { "text": "சோழர்", "isCorrect": false },
+      { "text": "பாண்டி", "isCorrect": false }
+    ],
+    "hint": "தமிழோடு தொடர்புடைய பெயர்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "இமயச்சரிவில் 'சோழர்சுரம்' (Chola Pass) என்ற பெயர் வழங்கப்படுகிறது. இது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "சோழர்களின் வருகையை", "isCorrect": true },
+      { "text": "சோழர்களின் தோல்வியை", "isCorrect": false },
+      { "text": "சோழர்களின் வணிகத்தை", "isCorrect": false },
+      { "text": "சோழர்களின் கலையை", "isCorrect": false }
+    ],
+    "hint": "இது ஒரு கணவாய் அல்லது பள்ளத்தாக்கு."
+  },
+  {
+    "questionNumber": 43,
+    "question": "சாணக்கியர் தனது நூலில் தென்னாட்டு முத்துக்களை எவ்வாறு அழைக்கிறார்?",
+    "answerOptions": [
+      { "text": "பாண்ட்ய கவாடகம்", "isCorrect": true },
+      { "text": "தென் முக்தா", "isCorrect": false },
+      { "text": "திராவிட மணி", "isCorrect": false },
+      { "text": "குமரி முத்து", "isCorrect": false }
+    ],
+    "hint": "கி.மு. 4ஆம் நூற்றாண்டில் எழுதப்பட்ட குறிப்பு."
+  },
+  {
+    "questionNumber": 44,
+    "question": "கடலைக் குறிக்கும் தமிழ்ச் சொற்களில் ஒன்று?",
+    "answerOptions": [
+      { "text": "பெளவம்", "isCorrect": true },
+      { "text": "நாவாய்", "isCorrect": false },
+      { "text": "கலம்", "isCorrect": false },
+      { "text": "தோணி", "isCorrect": false }
+    ],
+    "hint": "ஆர்கலி, முந்நீர், புணரி போன்றவையும் கடலைக் குறிக்கும்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "கடலோடும் கலங்களுக்கு (Ships) உரிய தமிழ்ச் சொல் எது?",
+    "answerOptions": [
+      { "text": "நாவாய்", "isCorrect": true },
+      { "text": "பரவை", "isCorrect": false },
+      { "text": "புணரி", "isCorrect": false },
+      { "text": "ஆழி", "isCorrect": false }
+    ],
+    "hint": "ஆங்கிலத்தில் 'Navy' என்ற சொல் இதிலிருந்து வந்திருக்கலாம்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "கிரேக்க மொழியில் 'ஒரைசா' (Oryza) என்பது எந்தத் தமிழ்ச் சொல்லின் திரிபு?",
+    "answerOptions": [
+      { "text": "அரிசி", "isCorrect": true },
+      { "text": "அகில்", "isCorrect": false },
+      { "text": "இஞ்சி", "isCorrect": false },
+      { "text": "ஆரம்", "isCorrect": false }
+    ],
+    "hint": "இது ஒரு தானிய வகை."
+  },
+  {
+    "questionNumber": 47,
+    "question": "கிரேக்க மொழியில் 'ஜிஞ்சர்' (Ginger) என்பது எந்தத் தமிழ்ச் சொல்லின் திரிபு?",
+    "answerOptions": [
+      { "text": "இஞ்சி", "isCorrect": true },
+      { "text": "மஞ்சள்", "isCorrect": false },
+      { "text": "மிளகு", "isCorrect": false },
+      { "text": "ஏலம்", "isCorrect": false }
+    ],
+    "hint": "மருத்துவ குணம் கொண்ட வேர்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "எபிரேய (Hebrew) மொழியில் 'துகி' என்பது எதைக் குறிக்கும்?",
+    "answerOptions": [
+      { "text": "தோகை (மயில்)", "isCorrect": true },
+      { "text": "தந்தம்", "isCorrect": false },
+      { "text": "துணி", "isCorrect": false },
+      { "text": "துடுப்பு", "isCorrect": false }
+    ],
+    "hint": "பைபிளில் 'துகியம்' என்று குறிப்பிடப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 49,
+    "question": "எபிரேய மொழியில் 'அகாலியம்' என்பது எந்தத் தமிழ்ச் சொல்லைக் குறிக்கும்?",
+    "answerOptions": [
+      { "text": "அகில்", "isCorrect": true },
+      { "text": "அகல்", "isCorrect": false },
+      { "text": "ஆழி", "isCorrect": false },
+      { "text": "அரசன்", "isCorrect": false }
+    ],
+    "hint": "வாசனைத் திரவியம்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "சீனக் கதைகளில் 'ஃபூஹி' (Fuhi) என்று குறிப்பிடப்படும் தமிழர் யார்?",
+    "answerOptions": [
+      { "text": "பூழியர் (சேரர்)", "isCorrect": true },
+      { "text": "சோழர்", "isCorrect": false },
+      { "text": "பாண்டியர்", "isCorrect": false },
+      { "text": "பல்லவர்", "isCorrect": false }
+    ],
+    "hint": "இவர்கள் விற்கூட்டத் தலைவர்கள்."
+  },
+  {
+    "questionNumber": 51,
+    "question": "சீனக் கதைகளில் 'ஸ்னௌ ஆங்' (Snou Aung) என்பது யாரைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "சோழர்", "isCorrect": true },
+      { "text": "சேரர்", "isCorrect": false },
+      { "text": "பாண்டியர்", "isCorrect": false },
+      { "text": "சத்தியபுத்திரர்", "isCorrect": false }
+    ],
+    "hint": "பயிர்த்தொழில் தலைவன் என்று வர்ணிக்கப்படுகிறான்."
+  },
+  {
+    "questionNumber": 52,
+    "question": "சீனக் கதைகளில் 'ஹாண்ட்' (Handi) என்பது யாரைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "பாண்டியர்", "isCorrect": true },
+      { "text": "சேரர்", "isCorrect": false },
+      { "text": "சோழர்", "isCorrect": false },
+      { "text": "திரையர்", "isCorrect": false }
+    ],
+    "hint": "நூலாராய்ச்சிக் குழுத்தலைவன்."
+  },
+  {
+    "questionNumber": 53,
+    "question": "கி.மு. 7ஆம் நூற்றாண்டில் அசீரிய மன்னனுக்குத் தமிழ்நாட்டிலிருந்து பரிசளிக்கப்பட்ட விலங்கு எது?",
+    "answerOptions": [
+      { "text": "யானை", "isCorrect": true },
+      { "text": "குதிரை", "isCorrect": false },
+      { "text": "சிங்கம்", "isCorrect": false },
+      { "text": "மான்", "isCorrect": false }
+    ],
+    "hint": "இது வேத நூல்களில் குறிப்பிடப்படாத விலங்கு."
+  },
+  {
+    "questionNumber": 54,
+    "question": "தமிழ்நாட்டில் 'பொன்னைத் தோண்டும் எறும்புகள்' இருப்பதாகக் கூறிய கிரேக்க வரலாற்றாசிரியர் யார்?",
+    "answerOptions": [
+      { "text": "ஹிரோடோடஸ் (Herodotus)", "isCorrect": true },
+      { "text": "மெகஸ்தனிஸ்", "isCorrect": false },
+      { "text": "ஸ்ட்ராபோ", "isCorrect": false },
+      { "text": "தாலமி", "isCorrect": false }
+    ],
+    "hint": "கி.மு. 5ஆம் நூற்றாண்டைச் சேர்ந்தவர்."
+  },
+  {
+    "questionNumber": 55,
+    "question": "பாண்டிய நாடு பெண்ணரசிகளால் ஆளப்பட்டது என்று கூறியவர் யார்?",
+    "answerOptions": [
+      { "text": "மெகஸ்தனிஸ்", "isCorrect": true },
+      { "text": "பிளினி", "isCorrect": false },
+      { "text": "பெரிப்ளுஸ் ஆசிரியர்", "isCorrect": false },
+      { "text": "யுவான்சுவாங்", "isCorrect": false }
+    ],
+    "hint": "சந்திரகுப்த மௌரியன் காலத்தில் வந்தவர்."
+  },
+  {
+    "questionNumber": 56,
+    "question": "மெகஸ்தனிஸ் குறிப்பின்படி பாண்டி நாடு எத்தனை கிராமங்களாகப் பிரிக்கப்பட்டிருந்தது?",
+    "answerOptions": [
+      { "text": "365", "isCorrect": true },
+      { "text": "100", "isCorrect": false },
+      { "text": "50", "isCorrect": false },
+      { "text": "300", "isCorrect": false }
+    ],
+    "hint": "ஆண்டுக்கொருநாள் இறை செலுத்தும் முறை இருந்தது."
+  },
+  {
+    "questionNumber": 57,
+    "question": "சாலமன் மன்னன் (Solomon) தமிழகத்திலிருந்து பெற்ற பொருட்களில் ஒன்று எது?",
+    "answerOptions": [
+      { "text": "மயில்", "isCorrect": true },
+      { "text": "குதிரை", "isCorrect": false },
+      { "text": "பட்டு", "isCorrect": false },
+      { "text": "தேயிலை", "isCorrect": false }
+    ],
+    "hint": "முத்து, பொன், தந்தம் ஆகியவற்றையும் பெற்றான்."
+  },
+  {
+    "questionNumber": 58,
+    "question": "தென்னாட்டு மயில் பாபிலோன் சென்றதாகக் குறிப்பிடும் பௌத்த நூல் எது?",
+    "answerOptions": [
+      { "text": "பவேரு சாதகம்", "isCorrect": true },
+      { "text": "மணிமேகலை", "isCorrect": false },
+      { "text": "தீபவம்சம்", "isCorrect": false },
+      { "text": "மகாவம்சம்", "isCorrect": false }
+    ],
+    "hint": "கி.மு. 5ஆம் நூற்றாண்டைச் சேர்ந்தது."
+  },
+  {
+    "questionNumber": 59,
+    "question": "பைபிளின் பழைய ஏற்பாட்டில் 'ஓபீர்' (Ophir) என்று அழைக்கப்படும் தமிழகத் துறைமுகம் எது?",
+    "answerOptions": [
+      { "text": "உவரி", "isCorrect": true },
+      { "text": "முசிறி", "isCorrect": false },
+      { "text": "தொண்டி", "isCorrect": false },
+      { "text": "கொற்கை", "isCorrect": false }
+    ],
+    "hint": "திருநெல்வேலி மாவட்டத்தில் உள்ளது."
+  },
+  {
+    "questionNumber": 60,
+    "question": "அசோகர் கல்வெட்டில் குறிப்பிடப்படாத தென்னாட்டவர் யார்?",
+    "answerOptions": [
+      { "text": "பல்லவர்", "isCorrect": true },
+      { "text": "சோழர்", "isCorrect": false },
+      { "text": "பாண்டியர்", "isCorrect": false },
+      { "text": "கேரள புத்திரர்", "isCorrect": false }
+    ],
+    "hint": "அசோகர் காலத்தில் பல்லவர்கள் ஆட்சி இல்லை."
+  },
+  {
+    "questionNumber": 61,
+    "question": "\"வம்ப மோரியர்\" என்று மௌரியர்களைக் குறிப்பிட்ட சங்கப் புலவர் யார்?",
+    "answerOptions": [
+      { "text": "மாமூலனார்", "isCorrect": true },
+      { "text": "கபிலர்", "isCorrect": false },
+      { "text": "பரணர்", "isCorrect": false },
+      { "text": "ஔவையார்", "isCorrect": false }
+    ],
+    "hint": "மௌரியர் படையெடுப்பைப் பதிவு செய்தவர்."
+  },
+  {
+    "questionNumber": 62,
+    "question": "பதஞ்சலி முனிவர் தனது மகாபாஷ்யத்தில் தென்னாட்டு _________-ஐக் குறிப்பிடுகிறார்.",
+    "answerOptions": [
+      { "text": "காஞ்சி", "isCorrect": true },
+      { "text": "மதுரை", "isCorrect": false },
+      { "text": "வஞ்சி", "isCorrect": false },
+      { "text": "புகார்", "isCorrect": false }
+    ],
+    "hint": "கி.மு. 150-இல் வாழ்ந்தவர்."
+  },
+  {
+    "questionNumber": 63,
+    "question": "அசோகர் மகன் தமிழ்நாட்டில் கட்டிய புத்த விகாரையைத் தான் கண்டதாகக் கூறிய சீனப் பயணி யார்?",
+    "answerOptions": [
+      { "text": "யுவான்சுவாங்", "isCorrect": true },
+      { "text": "பாகியான்", "isCorrect": false },
+      { "text": "இட்சிங்", "isCorrect": false },
+      { "text": "மெகஸ்தனிஸ்", "isCorrect": false }
+    ],
+    "hint": "இவர் நாளந்தாவில் தங்கியவர்."
+  },
+  {
+    "questionNumber": 64,
+    "question": "இலங்கை மகாவமிசம் 'எலரா' என்று குறிப்பிடும் தமிழ் மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "ஏலேல சிங்கன்", "isCorrect": true },
+      { "text": "கரிகாலன்", "isCorrect": false },
+      { "text": "செங்குட்டுவன்", "isCorrect": false },
+      { "text": "இராஜராஜன்", "isCorrect": false }
+    ],
+    "hint": "கி.மு. 145இல் ஈழத்தை ஆண்ட வணிக அரசன்."
+  },
+  {
+    "questionNumber": 65,
+    "question": "ஏலேல சிங்கனை போரில் வென்ற இலங்கை மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "துட்டகைமுனு", "isCorrect": true },
+      { "text": "தேவநம்பிய தீசன்", "isCorrect": false },
+      { "text": "விஜயன்", "isCorrect": false },
+      { "text": "கஜபாகு", "isCorrect": false }
+    ],
+    "hint": "வாட்போரில் சிங்கனை வென்றான்."
+  },
+  {
+    "questionNumber": 66,
+    "question": "பாண்டிய மன்னன் தூதர்கள் அகஸ்டஸ் சீசரிடம் சென்றதாகக் கூறியவர் யார்?",
+    "answerOptions": [
+      { "text": "ஸ்ட்ராபோ (Strabo)", "isCorrect": true },
+      { "text": "பிளினி", "isCorrect": false },
+      { "text": "தாலமி", "isCorrect": false },
+      { "text": "அரிஸ்டாட்டில்", "isCorrect": false }
+    ],
+    "hint": "ரோமானியப் பேரரசர் காலத்தவர்."
+  },
+  {
+    "questionNumber": 67,
+    "question": "'பெரிப்ளுஸ்' (Periplus) நூலில் தமிழகம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "answerOptions": [
+      { "text": "டமரிகா (Damirica)", "isCorrect": true },
+      { "text": "பாண்டியா", "isCorrect": false },
+      { "text": "திராவிடா", "isCorrect": false },
+      { "text": "சோழா", "isCorrect": false }
+    ],
+    "hint": "கி.பி. 60-இல் எழுதப்பட்ட நூல்."
+  },
+  {
+    "questionNumber": 68,
+    "question": "பெரிப்ளுஸ் நூலில் 'திண்டிஸ்' (Tyndis) என்று குறிப்பிடப்படும் ஊர் எது?",
+    "answerOptions": [
+      { "text": "தொண்டி", "isCorrect": true },
+      { "text": "முசிறி", "isCorrect": false },
+      { "text": "கொற்கை", "isCorrect": false },
+      { "text": "காவிரிப்பூம்பட்டினம்", "isCorrect": false }
+    ],
+    "hint": "இது சேர நாட்டுத் துறைமுகம்."
+  },
+  {
+    "questionNumber": 69,
+    "question": "புத்த சாதகக் கதைகளில் 'சேர நாடு' எவ்வாறு அழைக்கப்படுகிறது?",
+    "answerOptions": [
+      { "text": "சேரி", "isCorrect": true },
+      { "text": "கேரளா", "isCorrect": false },
+      { "text": "மலையமா", "isCorrect": false },
+      { "text": "வஞ்சி", "isCorrect": false }
+    ],
+    "hint": "போதிசத்துவர் கவேரபட்டினம் சென்றதாகக் கூறுகிறது."
+  },
+  {
+    "questionNumber": 70,
+    "question": "\"யவனர் தந்த வினைமாண் நன்கலம்\" என்று பாடிய நூல் எது?",
+    "answerOptions": [
+      { "text": "அகநானூறு", "isCorrect": true },
+      { "text": "புறநானூறு", "isCorrect": false },
+      { "text": "நற்றிணை", "isCorrect": false },
+      { "text": "குறுந்தொகை", "isCorrect": false }
+    ],
+    "hint": "பொன்னோடு வந்து கறியொடு பெயரும்."
+  },
+  {
+    "questionNumber": 71,
+    "question": "\"யவன ரியற்றிய வினைமாண் பாவை\" - இடம்பெறும் நூல் எது?",
+    "answerOptions": [
+      { "text": "நெடுநல்வாடை", "isCorrect": true },
+      { "text": "முல்லைப்பாட்டு", "isCorrect": false },
+      { "text": "குறிஞ்சிப்பாட்டு", "isCorrect": false },
+      { "text": "பட்டினப்பாலை", "isCorrect": false }
+    ],
+    "hint": "நக்கீரர் இயற்றியது."
+  },
+  {
+    "questionNumber": 72,
+    "question": "சிலப்பதிகாரத்தில் யவனர்கள் எங்கு காவல் காத்தனர்?",
+    "answerOptions": [
+      { "text": "கடிமதில் வாயில்", "isCorrect": true },
+      { "text": "அரண்மனை உள்ளே", "isCorrect": false },
+      { "text": "தேர் வீதி", "isCorrect": false },
+      { "text": "துறைமுகம்", "isCorrect": false }
+    ],
+    "hint": "அடல்வாள் யவனர் என்று சிலம்பு கூறுகிறது."
+  },
+  {
+    "questionNumber": 73,
+    "question": "தாலமி (Ptolemy) தனது நூலில் 'கரூர்'-ஐ எவ்வாறு குறிப்பிடுகிறார்?",
+    "answerOptions": [
+      { "text": "Karoura", "isCorrect": true },
+      { "text": "Khaveris", "isCorrect": false },
+      { "text": "Korkkoi", "isCorrect": false },
+      { "text": "Madoura", "isCorrect": false }
+    ],
+    "hint": "கி.பி. 150-இல் எழுதப்பட்ட நூல்."
+  },
+  {
+    "questionNumber": 74,
+    "question": "தாலமி 'உறையூர்'-ஐ எவ்வாறு குறிப்பிடுகிறார்?",
+    "answerOptions": [
+      { "text": "Orthoura", "isCorrect": true },
+      { "text": "Soreti", "isCorrect": false },
+      { "text": "Aioi", "isCorrect": false },
+      { "text": "Batoi", "isCorrect": false }
+    ],
+    "hint": "சோழர்களின் தலைநகர்."
+  },
+  {
+    "questionNumber": 75,
+    "question": "ரோம் நாட்டின் செல்வம் தமிழ்நாட்டு வாணிகத்தால் கரைவதைக் கண்டு வருந்தியவர் யார்?",
+    "answerOptions": [
+      { "text": "பிளினி (Pliny)", "isCorrect": true },
+      { "text": "டைபீரியஸ்", "isCorrect": false },
+      { "text": "நீரோ", "isCorrect": false },
+      { "text": "அகஸ்டஸ்", "isCorrect": false }
+    ],
+    "hint": "ஆண்டுதோறும் பல லட்சம் பவுன் வீணாகிறதே என்றார்."
+  },
+  {
+    "questionNumber": 76,
+    "question": "பிளினியின் கூற்றுப்படி, ரோமிலிருந்து தமிழகப் பொருட்களுக்காக ஆண்டுக்கு எவ்வளவு தொகை செலவானது?",
+    "answerOptions": [
+      { "text": "5½ கோடி செஸ்டர்ஸ்கள்", "isCorrect": true },
+      { "text": "10 கோடி செஸ்டர்ஸ்கள்", "isCorrect": false },
+      { "text": "1 கோடி செஸ்டர்ஸ்கள்", "isCorrect": false },
+      { "text": "50 லட்சம் செஸ்டர்ஸ்கள்", "isCorrect": false }
+    ],
+    "hint": "இது சுமார் 4,86,979 ஆங்கிலப் பொன்னுக்குச் சமம்."
+  },
+  {
+    "questionNumber": 77,
+    "question": "\"சிந்துவெளி மக்கள் திராவிட மொழியையே பேசினர்\" என்று உறுதியாகக் கூறியவர் யார்?",
+    "answerOptions": [
+      { "text": "Fr. Heras", "isCorrect": true },
+      { "text": "Marshall", "isCorrect": false },
+      { "text": "Wheeler", "isCorrect": false },
+      { "text": "Cunningham", "isCorrect": false }
+    ],
+    "hint": "மொகஞ்சதாரோ மக்கள் திராவிடர்கள் என்று கூறினார்."
+  },
+  {
+    "questionNumber": 78,
+    "question": "வி.ஆர்.ஆர். தீட்சிதர் (V.R.R. Dikishitar) தமிழின் பழமையான அடுக்குகளில் எதைக் காண முடியும் என்கிறார்?",
+    "answerOptions": [
+      { "text": "இரும்புக்காலப் பண்பாடு", "isCorrect": true },
+      { "text": "செம்புக்காலப் பண்பாடு", "isCorrect": false },
+      { "text": "வெண்கலப் பண்பாடு", "isCorrect": false },
+      { "text": "நவீன காலப் பண்பாடு", "isCorrect": false }
+    ],
+    "hint": "புதிய கற்காலப் பண்பாட்டையும் (Neolithic) உள்ளடக்கியது."
+  },
+  {
+    "questionNumber": 79,
+    "question": "ரோமானியப் பேரரசன் டைபீரியஸ் (Tiberius) எதைக் கட்டுப்படுத்தத் துடித்தான்?",
+    "answerOptions": [
+      { "text": "பட்டு வணிகத்தை", "isCorrect": true },
+      { "text": "மிளகு வணிகத்தை", "isCorrect": false },
+      { "text": "முத்து வணிகத்தை", "isCorrect": false },
+      { "text": "யானை வணிகத்தை", "isCorrect": false }
+    ],
+    "hint": "ரோம் நாட்டுப் பொருள் போவதைக் கண்டு வருந்தினான்."
+  },
+  {
+    "questionNumber": 80,
+    "question": "சங்க இலக்கியத்தில் 'யவனர்' தந்ததாகக் குறிப்பிடப்படும் பொருட்களில் ஒன்று?",
+    "answerOptions": [
+      { "text": "தண்கமழ் தேறல் (மது)", "isCorrect": true },
+      { "text": "பட்டு", "isCorrect": false },
+      { "text": "அரிசி", "isCorrect": false },
+      { "text": "மிளகு", "isCorrect": false }
+    ],
+    "hint": "புறநானூற்றில் குறிப்பிடப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 81,
+    "question": "எகிப்து மொழியில் 'யாறு' (Y'or) என்பது எந்தத் தமிழ்ச் சொல்லைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "ஆறு", "isCorrect": true },
+      { "text": "ஏறு", "isCorrect": false },
+      { "text": "சோறு", "isCorrect": false },
+      { "text": "சேறு", "isCorrect": false }
+    ],
+    "hint": "நீர் ஓடும் வழி."
+  },
+  {
+    "questionNumber": 82,
+    "question": "கிரேக்க மொழியில் 'நங்கூரம்' எவ்வாறு அழைக்கப்படுகிறது?",
+    "answerOptions": [
+      { "text": "Anchor", "isCorrect": true },
+      { "text": "Naw", "isCorrect": false },
+      { "text": "Oriya", "isCorrect": false },
+      { "text": "Paleo", "isCorrect": false }
+    ],
+    "hint": "கப்பலை நிறுத்த உதவுவது."
+  },
+  {
+    "questionNumber": 83,
+    "question": "கிரேக்க மொழியில் 'பழைய' என்பதைக் குறிக்கும் சொல் எது?",
+    "answerOptions": [
+      { "text": "Paleo", "isCorrect": true },
+      { "text": "Neo", "isCorrect": false },
+      { "text": "Meso", "isCorrect": false },
+      { "text": "Litho", "isCorrect": false }
+    ],
+    "hint": "Paleolithic என்றால் பழைய கற்காலம்."
+  },
+  {
+    "questionNumber": 84,
+    "question": "எகிப்து மொழியில் 'ரெட்' என்பது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "இரட்டை", "isCorrect": true },
+      { "text": "சிவப்பு", "isCorrect": false },
+      { "text": "ரத்தம்", "isCorrect": false },
+      { "text": "இரவு", "isCorrect": false }
+    ],
+    "hint": "எண்ணிக்கையைக் குறிக்கும் சொல்."
+  },
+  {
+    "questionNumber": 85,
+    "question": "வடமொழியில் (Sanskrit) வழங்கும் 'தாண்டவம்' என்ற சொல் எம்மொழியிலிருந்து சென்றது?",
+    "answerOptions": [
+      { "text": "தமிழ்", "isCorrect": true },
+      { "text": "தெலுங்கு", "isCorrect": false },
+      { "text": "கன்னடம்", "isCorrect": false },
+      { "text": "பாலி", "isCorrect": false }
+    ],
+    "hint": "சிவபெருமானின் நடனம்."
+  },
+  {
+    "questionNumber": 86,
+    "question": "வடமொழியில் வழங்கும் 'மயூரம்' என்ற சொல் எதனோடு தொடர்புடையது?",
+    "answerOptions": [
+      { "text": "மயில்", "isCorrect": true },
+      { "text": "குயில்", "isCorrect": false },
+      { "text": "கிளி", "isCorrect": false },
+      { "text": "மான்", "isCorrect": false }
+    ],
+    "hint": "இது தமிழ்ச்சொல் கலப்பால் உருவானது."
+  },
+  {
+    "questionNumber": 87,
+    "question": "ரிக் வேதத்தில் 'கதலி' என்று குறிப்பிடப்படுவது எது?",
+    "answerOptions": [
+      { "text": "வாழை", "isCorrect": true },
+      { "text": "பலா", "isCorrect": false },
+      { "text": "மா", "isCorrect": false },
+      { "text": "தென்னை", "isCorrect": false }
+    ],
+    "hint": "முக்கனிகளுள் ஒன்று."
+  },
+  {
+    "questionNumber": 88,
+    "question": "ரிக் வேதத்தில் 'தாம்பூல' என்பது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "தம்பல பாகு", "isCorrect": true },
+      { "text": "வெற்றிலை", "isCorrect": false },
+      { "text": "பாக்கு", "isCorrect": false },
+      { "text": "சுண்ணாம்பு", "isCorrect": false }
+    ],
+    "hint": "வாயில் போடும் ஒரு பொருள்."
+  },
+  {
+    "questionNumber": 89,
+    "question": "அலெக்சாண்டிரியாவைச் சேர்ந்த தத்துவஞானி பிலான் (Philon) எதைக் கண்டு வருந்தினார்?",
+    "answerOptions": [
+      { "text": "ரோமானிய நாகரிகத்தின் இழிந்த போக்கு", "isCorrect": true },
+      { "text": "இந்திய தத்துவங்கள்", "isCorrect": false },
+      { "text": "கிரேக்கக் கலை", "isCorrect": false },
+      { "text": "எகிப்திய பிரமிடுகள்", "isCorrect": false }
+    ],
+    "hint": "விலையுயர்ந்த பொருட்களை வாங்குவதைக் கண்டித்தார்."
+  },
+  {
+    "questionNumber": 90,
+    "question": "கார்த்தியாயனர் இயற்றிய நூல் எது?",
+    "answerOptions": [
+      { "text": "பாணீனிய வார்த்திகம்", "isCorrect": true },
+      { "text": "அர்த்தசாஸ்திரம்", "isCorrect": false },
+      { "text": "மகாபாஷ்யம்", "isCorrect": false },
+      { "text": "அஷ்டாத்யாயி", "isCorrect": false }
+    ],
+    "hint": "கி.மு. 350-இல் எழுதப்பட்டது, சோழ பாண்டியர்களைக் குறிக்கிறது."
+  },
+  {
+    "questionNumber": 91,
+    "question": "பிளினி (Pliny) எழுதிய நூல் எது?",
+    "answerOptions": [
+      { "text": "இயற்கை வரலாறு (Natural History)", "isCorrect": true },
+      { "text": "இண்டிகா", "isCorrect": false },
+      { "text": "பூகோளம்", "isCorrect": false },
+      { "text": "செங்கடல் செலவு", "isCorrect": false }
+    ],
+    "hint": "கி.பி. 70-இல் எழுதப்பட்டது."
+  },
+  {
+    "questionNumber": 92,
+    "question": "குமரிக்கண்டம் இருந்த போது கடலில் மூழ்கிக் கிடந்த மலை எது என்று கருதப்படுகிறது?",
+    "answerOptions": [
+      { "text": "இமயம்", "isCorrect": true },
+      { "text": "விந்திய மலை", "isCorrect": false },
+      { "text": "சாத்பூரா", "isCorrect": false },
+      { "text": "ஆரவல்லி", "isCorrect": false }
+    ],
+    "hint": "குமரிக்கண்டம் நிலப்பரப்பாக இருந்த போது இது கடலுக்குள் இருந்தது."
+  },
+  {
+    "questionNumber": 93,
+    "question": "யார் வடமொழியைப் பாணினிக்கும், தென்மொழியை அகத்தியர்க்கும் கற்பித்ததாகப் புராணம் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "சிவபெருமான்", "isCorrect": true },
+      { "text": "திருமால்", "isCorrect": false },
+      { "text": "பிரம்மன்", "isCorrect": false },
+      { "text": "இந்திரன்", "isCorrect": false }
+    ],
+    "hint": "இது தமிழர்களின் தொன்நம்பிக்கை."
+  },
+  {
+    "questionNumber": 94,
+    "question": "மொழியின் தோற்றத்தில் 'இயற்கை ஒலி' (Onomatopoeic) கொள்கைக்கு வழங்கும் வேறு பெயர்?",
+    "answerOptions": [
+      { "text": "பௌ-வௌ கொள்கை", "isCorrect": true },
+      { "text": "பூ-பூ கொள்கை", "isCorrect": false },
+      { "text": "டிங்-டாங் கொள்கை", "isCorrect": false },
+      { "text": "பாட்டு மொழிக் கொள்கை", "isCorrect": false }
+    ],
+    "hint": "Bow-wow theory."
+  },
+  {
+    "questionNumber": 95,
+    "question": "அகஸ்டஸ் சீசரிடம் தூது அனுப்பிய பாண்டிய மன்னன் பற்றி எழுதியவர்?",
+    "answerOptions": [
+      { "text": "ஸ்ட்ராபோ", "isCorrect": true },
+      { "text": "தாலமி", "isCorrect": false },
+      { "text": "பிளினி", "isCorrect": false },
+      { "text": "பெரிப்ளுஸ்", "isCorrect": false }
+    ],
+    "hint": "கி.மு. காலத்தில் வாழ்ந்த ரோமானிய எழுத்தாளர்."
+  },
+  {
+    "questionNumber": 96,
+    "question": "சங்க இலக்கியம் குறிப்பிடும் 'வம்ப மோரியர்' என்பதில் 'வம்ப' என்பதன் பொருள்?",
+    "answerOptions": [
+      { "text": "புதிய", "isCorrect": true },
+      { "text": "பழைய", "isCorrect": false },
+      { "text": "வீர", "isCorrect": false },
+      { "text": "கொடிய", "isCorrect": false }
+    ],
+    "hint": "புதிதாக வந்த மௌரியர்கள் என்று பொருள்."
+  },
+  {
+    "questionNumber": 97,
+    "question": "இலங்கையில் 'துட்டகைமுனு' (Duttagamani) யாரை வென்றான்?",
+    "answerOptions": [
+      { "text": "ஏலேல சிங்கன்", "isCorrect": true },
+      { "text": "கரிகாலன்", "isCorrect": false },
+      { "text": "ராஜராஜன்", "isCorrect": false },
+      { "text": "குலோத்துங்கன்", "isCorrect": false }
+    ],
+    "hint": "தமிழ் வணிக மன்னன்."
+  },
+  {
+    "questionNumber": 98,
+    "question": "ஹீப்ரு, கிரேக்கம் போன்ற மொழிகள் எத்தனையாவது வகையைச் சேர்ந்தவை?",
+    "answerOptions": [
+      { "text": "செம்மொழிகள் (Classical Languages)", "isCorrect": true },
+      { "text": "வட்டார மொழிகள்", "isCorrect": false },
+      { "text": "பழங்குடி மொழிகள்", "isCorrect": false },
+      { "text": "செயற்கை மொழிகள்", "isCorrect": false }
+    ],
+    "hint": "இவை உலகின் உயர்தனிச் செம்மொழிகள்."
+  },
+  {
+    "questionNumber": 99,
+    "question": "\"கடவுள் கனவு கண்டார்; உலகம் பிறந்தது\" - இது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "படைப்பு", "isCorrect": true },
+      { "text": "அழிப்பு", "isCorrect": false },
+      { "text": "காத்தல்", "isCorrect": false },
+      { "text": "மறைத்தல்", "isCorrect": false }
+    ],
+    "hint": "இலக்கியத் தோற்றத்தை விளக்கப் பயன்படும் உவமை."
+  },
+  {
+    "questionNumber": 100,
+    "question": "தமிழ்மொழி தோன்றி வளர்ந்த விதம் குறித்துக் கூறப்படுவது யாது?",
+    "answerOptions": [
+      { "text": "பல்லாயிரம் ஆண்டு பண்பட்டு வளர்ந்த கலை", "isCorrect": true },
+      { "text": "திடீரெனத் தோன்றியது", "isCorrect": false },
+      { "text": "ஒருவரால் உருவாக்கப்பட்டது", "isCorrect": false },
+      { "text": "மாற்றமில்லாதது", "isCorrect": false }
+    ],
+    "hint": "இது மனித முயற்சியில் தட்டுத் தடுமாறி வளர்ந்தது."
+  }
+]
