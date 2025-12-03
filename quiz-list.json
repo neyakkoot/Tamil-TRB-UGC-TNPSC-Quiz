@@ -40,8 +40,8 @@
   {
     "category": "தமிழ் இலக்கிய வரலாறு 1",
     "quizzes": [
-      { "file": "Tamil_ilakkiya_varalaru_1.json", "title": "மொழி" },
-      { "file": "Tamil_ilakkiya_varalaru_2.json", "title": "முச்சங்கம்" },
+      { "file": "Tamil_ilakkiya_varalaru_1.json", "title": "மொழித் தோற்றமும் தமிழின் சிறப்பும்" },
+      { "file": "Tamil_ilakkiya_varalaru_2.json", "title": "தமிழின் தனிச் சிறப்புகள்" },
       { "file": "Tamil_ilakkiya_varalaru_3.json", "title": "சங்க இலக்கியங்கள்" },
       { "file": "Tamil_ilakkiya_varalaru_4.json", "title": "சங்க மருவிய இலக்கியங்கள்" },
       { "file": "Tamil_ilakkiya_varalaru_5.json", "title": "காப்பியங்கள்" },
