@@ -59,7 +59,7 @@
       { "file": "Tamil_ilakkiya_varalaru_17.json", "title": "தலித் இலக்கியம்" },
       { "file": "Tamil_ilakkiya_varalaru_18.json", "title": "கட்டுரை இலக்கியம்" },
       { "file": "Tamil_ilakkiya_varalaru_19.json", "title": "கடித இலக்கியம்" },
-      { "file": "Tamil_ilakkiya_varalaru_20.json", "title": "வாழ்க்கை வரலாற்று இலக்கியங்கள்" },
+      { "file": "Tamil_ilakkiya_varalaru_20.json", "title": "வாழ்க்கை வரலாற்­று இலக்கியங்கள்" },
       { "file": "Tamil_ilakkiya_varalaru_21.json", "title": "பயண இலக்கியம்" },
       { "file": "Tamil_ilakkiya_varalaru_22.json", "title": "உரை" },
       { "file": "Tamil_ilakkiya_varalaru_23.json", "title": "உரைநடை" },
@@ -69,10 +69,10 @@
       { "file": "Tamil_ilakkiya_varalaru_27.json", "title": "இயக்கம்" },
       { "file": "Tamil_ilakkiya_varalaru_28.json", "title": "பல்கலைக்கழகங்கள், மாநாடுகள், விருதுகள்" },
       { "file": "Tamil_ilakkiya_varalaru_29.json", "title": "செம்மொழித் தமிழ்" },
-      { "file": "Tamil_ilakkiya_varalaru_30.json", "title": "கல்வெட்டுத் தமிழ்" },
-      { "file": "Tamil_ilakkiya_varalaru_31.json", "title": "அறிவியல் தமிழ்" },
-      { "file": "Tamil_ilakkiya_varalaru_32.json", "title": "இலக்கிய இயக்கங்கள்" },
-      { "file": "Tamil_ilakkiya_varalaru_33.json", "title": "தமிழ் வரலாற்றுத் தகவல்கள்" }
+      { "file": "Tamil_ilakkiya_varalarு_30.json", "title": "கல்வெட்டுத் தமிழ்" },
+      { "file": "Tamil_ilakkiya_varalarு_31.json", "title": "அறிவியல் தமிழ்" },
+      { "file": "Tamil_ilakkiya_varalarு_32.json", "title": "இலக்கிய இயக்கங்கள்" },
+      { "file": "Tamil_ilakkiya_varalarு_33.json", "title": "தமிழ் வரலாற்றுத் தகவல்கள்" }
     ]
   }
 ]
