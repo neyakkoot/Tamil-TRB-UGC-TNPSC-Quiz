@@ -1,0 +1,1402 @@
+[
+    {
+      "questionNumber": 51,
+      "question": "ஓவியம் எப்படி பின்னணியைத் துறந்து வாழ இயலாதோ, அதுபோல இலக்கிய வரலாறும் எதிலின்றி இயங்காது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "அரசர்களின்றி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "நாட்டு மக்களின்றி",
+          "rationale": "ஓவியம் பின்னணியைத் துறந்து வாழ இயலாதது போல, இலக்கிய வரலாறு நாட்டு மக்களின்றி இயங்காது என்று நூல் கூறுகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "இலக்கணமின்றி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "புலவர்களின்றி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மக்களின் வாழ்க்கையிலிருந்தே இலக்கியம் முகிழ்க்கிறது."
+    },
+    {
+      "questionNumber": 52,
+      "question": "எஸ்.டி. சற்குணர் (S.D. Sargunar) எழுதிய விரிவுரை நூலின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கிறித்தவமும் தமிழும் (Lecture on Christianity and Tamil)",
+          "rationale": "அடிக்குறிப்பில் எஸ்.டி. சற்குணர் எழுதிய நூலாக இது குறிப்பிடப்பட்டுள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "தமிழர் வரலாறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "திராவிட மொழிகள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஐரோப்பிய இலக்கியம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது சமயம் மற்றும் மொழி தொடர்புடைய ஆங்கில நூல்."
+    },
+    {
+      "questionNumber": 53,
+      "question": "ஹட்சன் (W.H. Hudson) எழுதிய இலக்கியம் தொடர்பான நூலின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "The Study of Poetry",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "An Introduction to the study of Literature",
+          "rationale": "ஹட்சன் எழுதிய நூல் 'An Introduction to the study of Literature' ஆகும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "Literary Criticism",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "History of English",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது இலக்கிய ஆய்விற்கான ஓர் அறிமுக நூல்."
+    },
+    {
+      "questionNumber": 54,
+      "question": "'Pre-historic India' (வரலாற்றுக்கு முற்பட்ட இந்தியா) என்ற நூலின் ஆசிரியர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "வி.ஆர்.ஆர். தீட்சிதர் (V.R.R. Dikshitar)",
+          "rationale": "அடிக்குறிப்பில் வி.ஆர்.ஆர். தீட்சிதர் இந்நூலின் ஆசிரியராகக் குறிப்பிடப்பட்டுள்ளார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "நீலகண்ட சாஸ்திரி",
+          "rationale": "இவர் தென்னிந்திய வரலாறு எழுதியவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "பி.டி. சீனிவாச ஐயங்கார்",
+          "rationale": "இவர் தமிழர் வரலாறு எழுதியவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "கிருஷ்ணசாமி ஐயங்கார்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பக்கம் 19-இல் அடிக்குறிப்பில் இவர் பெயர் உள்ளது."
+    },
+    {
+      "questionNumber": 55,
+      "question": "லெமூரியா கண்டம் அழிந்த செய்தியைத் தெரிவிக்கும் உரைநூல் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தொல்காப்பிய உரை",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "இறையனார் களவியலுரை",
+          "rationale": "சிலப்பதிகாரம், புறநானூறு மற்றும் 'இறையனார் களவியலுரை' ஆகிய நூல்கள் இச்செய்தியைத் தெரிவிக்கின்றன.",
+          "isCorrect": true
+        },
+        {
+          "text": "நன்னூல் உரை",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "யாப்பருங்கல விருத்தி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது நக்கீரரால் உரை காணப்பட்டதாகக் கூறப்படும் நூல்."
+    },
+    {
+      "questionNumber": 56,
+      "question": "எந்த மேற்கத்திய அறிஞர் 'மனித நாகரிகத்தின் தொட்டில்' என்று லெமூரியாவைக் குறிப்பிட்டார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "ஸ்காட்டு எலியட்டு",
+          "rationale": "ஸ்காட்டு எலியட்டு 'இழந்த லெமூரியா' நூலில் இவ்வாறு குறிப்பிட்டுள்ளார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "டார்வின்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஹெகல்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பிளாட்டோ",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இவர் 'இழந்த லெமூரியா' நூலின் ஆசிரியர்."
+    },
+    {
+      "questionNumber": 57,
+      "question": "ஹீராஸ் பாதிரியார் (Rev. H. Heras) எழுதிய நூலின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Studies in Proto-Indo-Mediterranean Culture",
+          "rationale": "அடிக்குறிப்பில் ஹீராஸ் பாதிரியார் எழுதிய நூலாக இது குறிப்பிடப்பட்டுள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "The Dravidian Lineage",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "Indus Valley Civilization",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ancient Tamil Culture",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது சிந்துவெளி மற்றும் மத்திய தரைக்கடல் கலாச்சாரம் பற்றிய ஆய்வு."
+    },
+    {
+      "questionNumber": 58,
+      "question": "'சந்தல்' (Sandal) என்ற ஆங்கிலச் சொல் எம்மொழிச் சொல்லிலிருந்து பிறந்தது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இந்தி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "தமிழ் (சந்தனம்)",
+          "rationale": "தமிழ்நாட்டின் சந்தனம் ஆங்கிலத்தில் 'சந்தல்' ஆனது.",
+          "isCorrect": true
+        },
+        {
+          "text": "சமஸ்கிருதம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "தெலுங்கு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது நறுமணம் வீசும் மரக்கட்டை."
+    },
+    {
+      "questionNumber": 59,
+      "question": "'கறுவாய்' (Cinnamon) என்பது கிரேக்க மொழியில் எவ்வாறு அழைக்கப்பட்டது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கற்பியன் (Karpion)",
+          "rationale": "தமிழில் கறுவாய் என்பது கிரேக்கத்தில் 'கற்பியன்' என்று வழங்கப்பட்டது.",
+          "isCorrect": true
+        },
+        {
+          "text": "சினமன்",
+          "rationale": "இது ஆங்கிலச் சொல்.",
+          "isCorrect": false
+        },
+        {
+          "text": "காசியா",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கராம்பு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது பட்டையாகப் பயன்படும் நறுமணப் பொருள்."
+    },
+    {
+      "questionNumber": 60,
+      "question": "உரோமை வல்லரசர் அகஸ்ற்றசின் காலத்தைச் சார்ந்தவரின் விவரணம் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "ஸ்டிராபோவின் விவரணம்",
+          "rationale": "அகஸ்ற்றசின் காலத்தைச் சார்ந்த ஸ்டிராபோவின் விவரணம் கிடைத்துள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "மார்க்கோபோலோ குறிப்பு",
+          "rationale": "இவர் பிற்காலத்தவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "யுவான் சுவாங் குறிப்பு",
+          "rationale": "இவர் சீனப் பயணி, பிற்காலத்தவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "மெகஸ்தனிஸ் குறிப்பு",
+          "rationale": "இவர் மௌரியர் காலத்தவர்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இவர் ஒரு கிரேக்க புவியியலாளர் மற்றும் வரலாற்றாசிரியர்."
+    },
+    {
+      "questionNumber": 61,
+      "question": "டாக்டர் கே.கே. பிள்ளை அவர்கள் எழுதிய வரலாற்று நூலின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தமிழக வரலாறு - மக்களும் பண்பாடும்",
+          "rationale": "இதுவும் அவர் எழுதியதுதான், ஆனால் இப்பகுதியில் குறிப்பிடப்படவில்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "தென்னிந்திய வரலாறு",
+          "rationale": "அடிக்குறிப்பில் 'டாக்டர் கே.கே. பிள்ளை, தென்னிந்திய வரலாறு' என்று குறிப்பிடப்பட்டுள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "இந்திய வரலாறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "சோழர் வரலாறு",
+          "rationale": "இது நீலகண்ட சாஸ்திரியின் நூல்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பக்கம் 21-இல் அடிக்குறிப்பில் உள்ளது."
+    },
+    {
+      "questionNumber": 62,
+      "question": "சைரக்யூசில் (Syracuse) உரோமரது முற்றுகையை எதிர்க்கப் பலவகை எந்திரங்களைக் கண்டுபிடித்தவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "பிதாகரஸ்",
+          "rationale": "இவர் கணித மேதை.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஆர்க்கிமிடீஸ்",
+          "rationale": "ஆர்க்கிமிடீஸ் கண்டுபிடித்த எந்திரங்களே தமிழ்நாட்டில் 'யவனப் பொறிகள்' எனப்பட்டன.",
+          "isCorrect": true
+        },
+        {
+          "text": "அரிஸ்டாட்டில்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "சாக்ரடீஸ்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மிதக்கும் தத்துவத்தைக் கண்டறிந்தவர்."
+    },
+    {
+      "questionNumber": 63,
+      "question": "யவனப் பொறிகள் தமிழ்நாட்டில் எங்கு இடம்பெற்றிருந்தன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கோயில்களில்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கோட்டைச் சுவர்களில்",
+          "rationale": "யவனப் பொறிகள் தமிழ்நாட்டுக் கோட்டையில் இடம்பெற்று விளங்கின என்று நூல் கூறுகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "துறைமுகங்களில்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "அரண்மனைகளில்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பாதுகாப்புக்காக அமைக்கப்பட்ட இடம்."
+    },
+    {
+      "questionNumber": 64,
+      "question": "எந்த வடமொழி வேதத்தில் 'மூத்தம்' (முத்து) போன்ற தமிழ்ச் சொற்கள் இடம்பெற்றுள்ளன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "யஜுர் வேதம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "சாம வேதம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "இருக்கு வேதம் (Rig Veda)",
+          "rationale": "மிகப் பழமையான இருக்கு வேதத்தில் முத்து போன்ற தமிழ்ச் சொற்கள் இடம்பெற்றுள்ளன.",
+          "isCorrect": true
+        },
+        {
+          "text": "அதர்வண வேதம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது நான்கு வேதங்களில் முதலாவது."
+    },
+    {
+      "questionNumber": 65,
+      "question": "பி.டி. சீனிவாச ஐயங்கார் எழுதிய நூலின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "History of the Tamils",
+          "rationale": "அடிக்குறிப்பில் P.T. Srinivasa Iyengar எழுதியதாக 'History of the Tamils' குறிப்பிடப்பட்டுள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "History of South India",
+          "rationale": "இது நீலகண்ட சாஸ்திரி எழுதியது.",
+          "isCorrect": false
+        },
+        {
+          "text": "The Tamils 1800 Years Ago",
+          "rationale": "இது கனகசபை பிள்ளை எழுதியது.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamil Studies",
+          "rationale": "இது சீனிவாச ஐயங்காரின் மற்றொரு நூல் (ஆனால் இங்கு குறிப்பிடப்படவில்லை).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பக்கம் 22-இல் அடிக்குறிப்பில் உள்ளது."
+    },
+    {
+      "questionNumber": 66,
+      "question": "எந்த ஆண்டு பிளினி (Pliny) இந்தியாவின் தங்கம் உறிஞ்சப்படுவது குறித்து வருந்திக் கூறினார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கி.பி. 70",
+          "rationale": "அடிக்குறிப்பில் 'Pliny complained In 70 A.D.' என்று உள்ளது (உரைப்பகுதியில் 77 எனக் குறிப்பிடப்பட்டிருந்தாலும், அடிக்குறிப்பு 70 என்கிறது).",
+          "isCorrect": true
+        },
+        {
+          "text": "கி.பி. 50",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கி.பி. 90",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கி.பி. 20",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது கி.பி. முதலாம் நூற்றாண்டு."
+    },
+    {
+      "questionNumber": 67,
+      "question": "பேராசிரியர் கே.ஏ. நீலகண்ட சாஸ்திரி (K.A. Nilakanta Sastri) எழுதிய நூலின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "A History of South India",
+          "rationale": "அடிக்குறிப்பில் K.A. Nilakanta Sastri எழுதியதாக இந்நூல் குறிப்பிடப்பட்டுள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "The Cholas",
+          "rationale": "இதுவும் அவர் நூல்தான், ஆனால் இங்கு குறிப்பிடப்படவில்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pandyan Kingdom",
+          "rationale": "இதுவும் அவர் நூல்தான்.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sangam Age",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "தென்னிந்திய வரலாற்றைக் கூறும் ஆங்கில நூல்."
+    },
+    {
+      "questionNumber": 68,
+      "question": "'தமிழா நினைத்துப் பார்' என்ற நூலின் ஆசிரியர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தெ.பொ. மீனாட்சிசுந்தரனார்",
+          "rationale": "அடிக்குறிப்பில் பேராசிரியர் தெ.பொ. மீனாட்சிசுந்தரனார் எழுதியதாக இந்நூல் குறிப்பிடப்பட்டுள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "மு. வரதராசனார்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "திரு.வி.க.",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பாரதிதாசன்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இவர் பன்மொழிப் புலவர் என்று அழைக்கப்படுபவர்."
+    },
+    {
+      "questionNumber": 69,
+      "question": "யவனர்கள் எந்தப் பொருட்களைத் தங்களின் கைவண்ணத்தால் அமைத்தனர்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "மண்பாண்டங்கள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "புலித்தொடர் சங்கிலி மற்றும் பாவை விளக்கு",
+          "rationale": "யவனர்களின் கைவண்ணத்தால் புலித்தொடர் சங்கிலியும் பாவை விளக்கும் அமைக்கப்பட்டன.",
+          "isCorrect": true
+        },
+        {
+          "text": "தேர்கள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "வாள்கள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இவை அலங்காரப் பொருட்கள்."
+    },
+    {
+      "questionNumber": 70,
+      "question": "சாணக்கியரின் 'அர்த்தசாஸ்திரம்' நூலில் தென்னாட்டுப் பொருட்களாக எவை குறிப்பிடப்படுகின்றன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சங்கு, வைரம், மாணிக்கம், முத்து",
+          "rationale": "சாணக்கியர் தென்னாடு சங்கு, வைரம், மாணிக்கம், முத்து, பொன்னணிகள் ஆகியவற்றைக் கொண்டிருந்தது என்கிறார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "கோதுமை, பார்லி",
+          "rationale": "இவை வடநாட்டுப் பயிர்கள்.",
+          "isCorrect": false
+        },
+        {
+          "text": "பட்டு, பீங்கான்",
+          "rationale": "இவை சீனப் பொருட்கள்.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஈயம், துத்தநாகம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இவை கடலிலும் மலையிலும் கிடைக்கும் விலை உயர்ந்த பொருட்கள்."
+    },
+    {
+      "questionNumber": 71,
+      "question": "'சொல்லில் உயர்வு தமிழ்ச் சொல்லே' என்று பாராட்டியவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "பாரதியார்",
+          "rationale": "பாரதியார் 'சொல்லில் உயர்வு தமிழ்ச் சொல்லே' என்று பாராட்டியுள்ளார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "பாரதிதாசன்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கவிமணி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கண்ணதாசன்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இவர் தேசிய கவி."
+    },
+    {
+      "questionNumber": 72,
+      "question": "'திரமிளம்' என்ற சொல்லிலிருந்தே 'தமிழ்' பிறந்தது என்ற கருத்தை ஏற்றுக்கொண்டவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கால்டுவெல்",
+          "rationale": "இக்கருத்து கால்டுவெலுக்கு உடன்பாடானது என்று நூல் கூறுகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "தேவநேயப் பாவாணர்",
+          "rationale": "இவர் தமிழை மூலமாகக் கொண்டவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "பரிதிமாற் கலைஞர்",
+          "rationale": "இவர் தமிழைத் தனிமொழி என நிறுவியவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "மறைமலை அடிகள்",
+          "rationale": "இவர் தனித்தமிழ் இயக்கம் கண்டவர்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "திராவிட மொழிகளின் ஒப்பிலக்கணம் எழுதியவர்."
+    },
+    {
+      "questionNumber": 73,
+      "question": "பெரும்பாலான மொழி நூலார் கருத்துப்படி எந்தச் சொல்லிலிருந்து திராவிடம் தோன்றியது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சமஸ்கிருதம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "தமிழ்",
+          "rationale": "தமிழ் என்ற பழஞ்சொல்லிலிருந்தே திரமிளம், திராவிடம் தோன்றியிருக்க வேண்டும் என்பது பலர் கருத்து.",
+          "isCorrect": true
+        },
+        {
+          "text": "தெலுங்கு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "மலையாளம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இதுவே மூலச் சொல்."
+    },
+    {
+      "questionNumber": 74,
+      "question": "'பாலேய் தமிழ்' என்று தமிழைச் சிறப்பிக்கும் நூல் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "திருவாய்மொழி",
+          "rationale": "திருவாய்மொழியில் 'பாலேய் தமிழ்' என்ற தொடர் வருகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "தேவாரம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "திருவாசகம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "நாலாயிர திவ்ய பிரபந்தம்",
+          "rationale": "திருவாய்மொழி இதன் ஒரு பகுதி என்றாலும், நூல் குறிப்பாகத் திருவாய்மொழி எனக் கொடுக்கப்பட்டுள்ளது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது நம்மாழ்வார் இயற்றியது."
+    },
+    {
+      "questionNumber": 75,
+      "question": "'தமிழெனும் இனிய தீஞ்சொற் றையல்' என்று தமிழை வர்ணிக்கும் காப்பியம் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சிலப்பதிகாரம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "மணிமேகலை",
+          "rationale": "மணிமேகலையில் இவ்வரி இடம் பெற்றுள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "குண்டலகேசி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "வளையாபதி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "சீத்தலைச் சாத்தனார் இயற்றியது."
+    },
+    {
+      "questionNumber": 76,
+      "question": "ராமாயணத்தின் எந்தப் பகுதியில் (காண்டம்) அனுமன் சீதையிடம் பேசியது பற்றிய குறிப்பு உள்ளது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சுந்தர காண்டம்",
+          "rationale": "சுந்தர காண்டம் சுருக்கம் 30, சுலோகம் 43-இல் இக்குறிப்பு உள்ளதாகக் கூறப்படுகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "யுத்த காண்டம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பால காண்டம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "அயோத்யா காண்டம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "அனுமன் கடலைத் தாண்டிச் சென்ற பகுதி."
+    },
+    {
+      "questionNumber": 77,
+      "question": "மகாவித்துவான் ரா. ராகவையங்கார் எழுதிய நூலின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தமிழ் வரலாறு",
+          "rationale": "அவர் 'தமிழ் வரலாறு' என்ற நூலை எழுதியுள்ளார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "சேது நாட்டு வரலாறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பாண்டியர் வரலாறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "சோழர் வரலாறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பக்கம் 25-இல் குறிப்பிடப்பட்டுள்ளது."
+    },
+    {
+      "questionNumber": 78,
+      "question": "திரு. வி.கோ. சூரியநாராயண சாஸ்திரியார் (பரிதிமாற் கலைஞர்) எழுதிய நூலின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தமிழ்மொழி வரலாறு",
+          "rationale": "அடிக்குறிப்பில் 'தமிழ்மொழி வரலாறு' நூலின் ஆசிரியர் சூரியநாராயண சாஸ்திரியார் என்று உள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "நாடகவியல்",
+          "rationale": "இதுவும் அவர் நூல், ஆனால் இங்கு குறிப்பிடப்படவில்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "தனிப்பாசுரத் தொகை",
+          "rationale": "இதுவும் அவர் நூல்.",
+          "isCorrect": false
+        },
+        {
+          "text": "மதிவாணன்",
+          "rationale": "இதுவும் அவர் நூல்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பக்கம் 25-இல் அடிக்குறிப்பில் உள்ளது."
+    },
+    {
+      "questionNumber": 79,
+      "question": "'என்றுமுள தென்றமிழை' என்று பாண்டிய மன்னர்கள் வளர்த்ததாகக் கூறும் நூல் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கம்ப ராமாயணம்",
+          "rationale": "கம்பர் 'என்றுமுள தென்றமிழ்' என்று குறிப்பிட்டுள்ளார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "வால்மீகி இராமாயணம்",
+          "rationale": "இது வடமொழி நூல்.",
+          "isCorrect": false
+        },
+        {
+          "text": "வில்லி பாரதம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பெரிய புராணம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "கம்பர் இயற்றியது."
+    },
+    {
+      "questionNumber": 80,
+      "question": "பாண்டியர் பற்றி மகாபாரதத்தில் யார் குறிப்பிடுகிறார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "வியாச முனிவர்",
+          "rationale": "வியாச முனிவர் மகாபாரதத்தில் தமிழ்நாட்டின் சிறப்பையும் பாண்டிய அரசையும் பற்றிக் கூறுகிறார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "வால்மீகி",
+          "rationale": "இவர் இராமாயணம் இயற்றியவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "காளிதாசர்",
+          "rationale": "இவர் சாகுந்தலம் இயற்றியவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "பாணர்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மகாபாரதத்தை இயற்றியவர்."
+    },
+    {
+      "questionNumber": 81,
+      "question": "உலக இலக்கிய மொழிகள் (Classic languages) என்று டேவிஸ் எம்மொழிகளைக் குறிப்பிடுகிறார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தமிழ், தெலுங்கு, கன்னடம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "வடமொழி, எபிரேயம், கிரேக்கம்",
+          "rationale": "வடமொழி (Sanskrit), எபிரேயம் (Hebrew), கிரேக்கம் (Greek) ஆகியவற்றை கிளாசிக் மொழிகள் என்கிறார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "ஆங்கிலம், ஜெர்மன், பிரெஞ்சு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "லத்தீன், அரபு, சீனம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இந்த மூன்று மொழிகளிலும் தமிழ்ச் சொற்கள் உள்ளன."
+    },
+    {
+      "questionNumber": 82,
+      "question": "சுமேரிய மொழி தமிழோடு ஒப்பிடும்போது எப்படிப்பட்டது என்று கருதப்படுகின்றது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "மூத்த மொழி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "இளமையான பிற்பட்ட மொழி",
+          "rationale": "தமிழை நோக்க சுமேரிய மொழி இளமையான பிற்பட்ட மொழியாகவே கருதப்படுகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "சமகால மொழி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "தொடர்பில்லாத மொழி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "ரெவ. எஸ். ஞானப்பிரகாசர் கூற்று."
+    },
+    {
+      "questionNumber": 83,
+      "question": "சிந்துவெளி நாகரிகம் எந்த நாகரிகத்திற்கு இணையான திராவிட நாகரிகம் என்று அறிஞர்கள் துணிகின்றனர்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சுமேரிய நாகரிகம்",
+          "rationale": "சுமேரிய நாகரிகத்திற்கு இணையான திராவிட நாகரிகம் என்று கருதப்படுகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "எகிப்து நாகரிகம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "சீன நாகரிகம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "மாயன் நாகரிகம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மெசபடோமியா பகுதியில் அமைந்தது."
+    },
+    {
+      "questionNumber": 84,
+      "question": "லெமூரியா நிலப்பகுதி எந்தப் பேராழியால் (கடல்கோள்) அழிந்தது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "எரிமலை வெடிப்பு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கடல் கோள் (Tsunami/Deluge)",
+          "rationale": "கடல் கோளால் அப்பகுதி அழிந்தது.",
+          "isCorrect": true
+        },
+        {
+          "text": "நிலநடுக்கம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பஞ்சம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "சிலப்பதிகாரத்தில் 'கொள்ள' என்ற சொல் வருகிறது."
+    },
+    {
+      "questionNumber": 85,
+      "question": "தமிழர்கள் வெளிநாடுகளுக்குச் சென்று குடியேறக் காரணம் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "போர்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கடல்கோள்",
+          "rationale": "கடல்கோளால் நிலம் அழிந்ததால் அவர்கள் உலகின் பல்வேறு இடங்களுக்குச் சென்று குடியேறினர்.",
+          "isCorrect": true
+        },
+        {
+          "text": "வணிகம்",
+          "rationale": "வணிகத்திற்காகச் சென்றாலும், குடியேற்றத்திற்கு முக்கிய காரணம் நில அழிவு.",
+          "isCorrect": false
+        },
+        {
+          "text": "சுற்றுலா",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "வாழ்விடம் அழிந்ததால்."
+    },
+    {
+      "questionNumber": 86,
+      "question": "தென்னிந்தியாவிலேயே தமிழர்கள் முதன்முதலில் தங்கி வாழ்ந்திருக்க வேண்டும் என்பதை எது காட்டுகிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "அவர்களது கருமை நிறம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "அவர்களது கடல் பயணம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "லெமூரியா கண்ட அழிவும் இடப்பெயர்வும்",
+          "rationale": "லெமூரியா அழிந்த பின் அங்கிருந்து பரவியதால் தென்னிந்தியாவே முதல் இருப்பிடம் எனத் தெரிகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "வேதக் குறிப்புகள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "புவியியல் அமைப்பு."
+    },
+    {
+      "questionNumber": 87,
+      "question": "தமிழர்கள் எப்போது நல்ல அரசியல் அமைப்பையும் சமுதாய ஒருமைப்பாட்டையும் பெற்றிருந்தனர்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "பிற நாட்டினர் நாகரிக நிலையை எட்டாத காலத்திலேயே",
+          "rationale": "பிற நாட்டினர் நாகரிக நிலையை எட்டாத காலத்திலேயே தமிழர்கள் இச்சிறப்புகளைப் பெற்றிருந்தனர்.",
+          "isCorrect": true
+        },
+        {
+          "text": "ஆங்கிலேயர் வருகைக்குப் பின்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "முகலாயர் வருகைக்குப் பின்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கி.பி. 10ஆம் நூற்றாண்டில்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மிகப் பழங்காலம்."
+    },
+    {
+      "questionNumber": 88,
+      "question": "'தொப்பம்', 'மிதவை', 'கட்டுமரம்' ஆகியவை எதைக் குறிக்கும் சொற்கள்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "வீடு வகைகள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "மரக்கலத்தின் வேறு பெயர்கள்",
+          "rationale": "இவை மரக்கலம் அல்லது படகின் வேறு பெயர்கள்.",
+          "isCorrect": true
+        },
+        {
+          "text": "உணவு வகைகள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஆடை வகைகள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "நீரில் பயணம் செய்ய உதவுபவை."
+    },
+    {
+      "questionNumber": 89,
+      "question": "எந்த நூலில் தமிழ்மொழி, சீனம் போன்ற மொழிகளே இன்றும் பேச்சு வழக்கிலும் இலக்கிய வழக்கிலும் உள்ளன எனக் கூறப்பட்டுள்ளது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "மொழி வரலாறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "தமிழ் இலக்கிய வரலாறு",
+          "rationale": "வழங்கப்பட்ட ஆவணமான 'தமிழ் இலக்கிய வரலாறு' நூலில் இக்கருத்து உள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "உலக வரலாறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "புவியியல்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது நீங்கள் படித்துக்கொண்டிருக்கும் ஆவணம்."
+    },
+    {
+      "questionNumber": 90,
+      "question": "வடமொழி, இலத்தீன் போன்ற மொழிகள் இன்று எந்த நிலையில் உள்ளன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "பேச்சு வழக்கில் உள்ளன",
+          "rationale": "இல்லை, அவை பேச்சு வழக்கை இழந்துவிட்டன.",
+          "isCorrect": false
+        },
+        {
+          "text": "பேச்சு வழக்கு இழந்து மொழியளவில் நின்றுவிட்டன",
+          "rationale": "வரலாற்றுப் பழமை வாய்ந்த இம்மொழிகள் பேச்சு வழக்கு இழந்துவிட்டன.",
+          "isCorrect": true
+        },
+        {
+          "text": "முற்றிலும் அழிந்துவிட்டன",
+          "rationale": "இலக்கிய அளவில் உள்ளன.",
+          "isCorrect": false
+        },
+        {
+          "text": "புதிய வடிவம் பெற்றுள்ளன",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இவற்றை 'Dead Languages' (பேச்சு வழக்கில் இல்லாதவை) என்பர்."
+    },
+    {
+      "questionNumber": 91,
+      "question": "ரெவ. எஸ். ஞானப்பிரகாசர் (Rev. S. Gnanapragasar) அவர்களின் கூற்று எந்தத் தலைப்பின் கீழ் வருகிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தமிழின் பழமையும் சிறப்பும்",
+          "rationale": "ஆம், ஆவணத்தில் 'பழமையும் சிறப்பும்' என்ற தலைப்பின் கீழ் இது வருகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "சங்க இலக்கியம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "நீதி நூல்கள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பக்தி இலக்கியம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "சுமேரிய மொழி பற்றிய குறிப்பு."
+    },
+    {
+      "questionNumber": 92,
+      "question": "ஹீராஸ் பாதிரியார் எதன் அடிப்படையில் தமிழ் மிகப்பழமையானது என்கிறார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சிந்துவெளி நாகரிக மக்கள் பேசிய திராவிட மொழி",
+          "rationale": "மொகஞ்சதாரோ மக்கள் பேசிய திராவிட மொழியில் பல தமிழ்ச் சொற்கள் உள்ளதால் தமிழ் பழமையானது என்கிறார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "வேதங்கள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கல்வெட்டுகள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "நாணயங்கள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மொகஞ்சதாரோ தொடர்பானது."
+    },
+    {
+      "questionNumber": 93,
+      "question": "'பப்பியிலிருந்து' (Papyrus?) என்ற சொல் எதைக் குறிப்பதாக இருக்கலாம்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "காகிதம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "திப்பிலி (Pepper/Pippali)",
+          "rationale": "ஆவணத்தில் 'பப்பியிலிருந்து' 'பெப்பரி' (Peppari) வந்ததாகக் குறிப்பிடப்பட்டுள்ளது (இது திப்பிலியைக் குறிக்கலாம்).",
+          "isCorrect": true
+        },
+        {
+          "text": "பருத்தி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பட்டு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இது மிளகு போன்ற ஒரு பொருள்."
+    },
+    {
+      "questionNumber": 94,
+      "question": "எந்த வெளிநாட்டுப் பயணியின் குறிப்புகள் சங்க நூல்களின் கருத்துகளுக்கு மிகப் பொருத்தமாக உள்ளன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "மெகஸ்தனிஸ்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஸ்டிராபோ, பிளினி, தாலமி",
+          "rationale": "இவர்களின் குறிப்புகள் சங்க நூல்களுடன் பொருந்துகின்றன.",
+          "isCorrect": true
+        },
+        {
+          "text": "வாஸ்கோடகாமா",
+          "rationale": "இவர் மிகப்பிற்காலத்தவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "கொலம்பஸ்",
+          "rationale": "இவர் அமெரிக்கா சென்றவர்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "உரோமைப் பேரரசு காலத்தவர்கள்."
+    },
+    {
+      "questionNumber": 95,
+      "question": "'நன்னீர்ப் பஃறுளி மணலினும் பலவே' என்று வாழ்த்திய நூல் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சிலப்பதிகாரம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "புறநானூறு",
+          "rationale": "புறநானூற்றில் 'நன்னீர்ப் பஃறுளி மணலினும் பலவே' என்ற வரி உள்ளது (பாண்டியனை வாழ்த்துவது).",
+          "isCorrect": true
+        },
+        {
+          "text": "அகநானூறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கலித்தொகை",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பாடல் 9:10-11."
+    },
+    {
+      "questionNumber": 96,
+      "question": "மேக்ஸ் முல்லர் (Max Muller) தமிழைப் பற்றி என்ன கூறினார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "அது ஒரு வட்டார மொழி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "மிகவும் பண்பட்ட மொழி",
+          "rationale": "'தமிழே மிகவும் பண்பட்ட மொழி' என்று அவர் பாராட்டினார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "கடினமான மொழி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "இறந்த மொழி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மொழி நூலறிஞர்."
+    },
+    {
+      "questionNumber": 97,
+      "question": "எந்த நூலில் 'தமிழ்' என்ற சொல் 'இனிமை' என்ற பொருளில் கையாளப்பட்டுள்ளது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "பிங்கலந்தை",
+          "rationale": "ஆம், பிங்கலந்தை நிகண்டில் இது உள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "நன்னூல்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "தொல்காப்பியம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "யாப்பருங்கலம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "ஒரு நிகண்டு நூல்."
+    },
+    {
+      "questionNumber": 98,
+      "question": "உரோம் பேரரசுடன் நடைபெற்ற வாணிகம் பற்றி அறிய உதவும் முக்கிய சான்று எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "அரிக்கமேடு அகழ்வாராய்ச்சி",
+          "rationale": "அரிக்கமேடு அகழ்வாராய்ச்சி உரோமக் குடியிருப்புகளையும் வாணிகத்தையும் உறுதி செய்கிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "தாஜ்மகால்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "செங்கோட்டை",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "எல்லோரா குகைகள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "புதுச்சேரிக்கு அருகில் உள்ளது."
+    },
+    {
+      "questionNumber": 99,
+      "question": "வடநாட்டவர்கள் குதிரை மற்றும் எப்பொருட்களை வாணிகப் பொருட்களாகக் கொண்டிருந்தனர்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தங்கம், வெள்ளி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "கம்பள ஆடை, தோல்",
+          "rationale": "வடநாடு கம்பள ஆடை, தோல், குதிரை ஆகிய எளிய பொருட்களையே கொண்டிருந்தது.",
+          "isCorrect": true
+        },
+        {
+          "text": "பட்டு, நறுமணப் பொருட்கள்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "முத்து, பவளம்",
+          "rationale": "இவை தென்னாட்டுப் பொருட்கள்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "சாணக்கியர் கூற்று."
+    },
+    {
+      "questionNumber": 100,
+      "question": "மொத்தத்தில் 'தமிழ் இலக்கிய வரலாறு' நூலின் இப்பகுதி (பக். 18-27) எதை வலியுறுத்துகிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தமிழின் தற்கால நிலை",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "தமிழின் பழமையும் சிறப்பும்",
+          "rationale": "இப்பகுதி தமிழின் தொன்மை, இலக்கிய வளம், வணிகச் சிறப்பு ஆகியவற்றை வலியுறுத்துகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "திரைப்பட வரலாறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "அறிவியல் வளர்ச்சி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பாடத்தின் தலைப்பு."
+    }
+]
