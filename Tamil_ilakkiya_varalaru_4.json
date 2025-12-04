@@ -1,0 +1,2802 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "முதல் சங்கம் நிலவியதாகக் கூறப்படும் ஆண்டுகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3700",
+        "rationale": "இது இடைச்சங்கம் நிலவிய ஆண்டுகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4440",
+        "rationale": "அட்டவணையில் முதல் சங்கம் 4440 ஆண்டுகள் நிலவியதாகக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1850",
+        "rationale": "இது கடைச்சங்கம் நிலவிய ஆண்டுகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "5000",
+        "rationale": "இது தவறான தகவல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்காயிரத்து நானூறுக்கும் மேல்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "முதல் சங்கத்தில் இருந்த புலவர்களின் எண்ணிக்கை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "59",
+        "rationale": "இது இடைச்சங்கப் புலவர்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "49",
+        "rationale": "இது கடைச்சங்கப் புலவர்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "4449",
+        "rationale": "இது முதல் சங்க உறுப்பினர்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "549",
+        "rationale": "முதல் சங்கத்தில் 549 புலவர்கள் இருந்தனர்.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "ஐந்நூற்று ஐம்பதுக்கு ஒன்று குறைவு."
+  },
+  {
+    "questionNumber": 3,
+    "question": "இடைச்சங்கத்தில் இயற்றப்பட்ட நூல்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பரிபாடல்",
+        "rationale": "இது முதல் மற்றும் கடைச்சங்க நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாபுராணம்",
+        "rationale": "மாபுராணம், பூதபுராணம் ஆகியவை இடைச்சங்க நூல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "இது பதினெண் கீழ்க்கணக்கு நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "இது ஐம்பெருங்காப்பியங்களில் ஒன்று.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புராணம் என முடியும் நூல்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "கடைச்சங்கத்தை ஆதரித்த பாண்டிய மன்னர்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "89",
+        "rationale": "இது முதல் சங்க மன்னர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "59",
+        "rationale": "இது இடைச்சங்க மன்னர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "49",
+        "rationale": "முடத்திருமாறன் முதல் உக்கிரப் பெருவழுதி வரை 49 மன்னர்கள் ஆதரித்தனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐம்பதுக்கு ஒன்று குறைவு."
+  },
+  {
+    "questionNumber": 5,
+    "question": "தொல்காப்பிய எழுத்ததிகாரத்தில் 'பிறப்பியல்' எத்தனையாவது இயல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்றாவது",
+        "rationale": "நூல் மரபு, மொழி மரபு ஆகியவற்றை அடுத்து பிறப்பியல் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முதலாவது",
+        "rationale": "முதல் இயல் நூல் மரபு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்தாவது",
+        "rationale": "ஐந்தாவது இயல் தொகை மரபு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பதாவது",
+        "rationale": "ஒன்பதாவது குற்றியலுகரப் புணரியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்துக்களின் பிறப்பைக் கூறும் இயல்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "தொல்காப்பியத்தில் 'வேற்றுமையியல்' அமைந்துள்ள அதிகாரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்ததிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்லதிகாரம்",
+        "rationale": "சொல்லதிகாரத்தில் கிளவியாக்கத்திற்கு அடுத்து வேற்றுமையியல் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருளதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொற்களின் வேற்றுமை உருபுகளைப் பற்றியது."
+  },
+  {
+    "questionNumber": 7,
+    "question": "தொல்காப்பியச் சொல்லதிகாரத்தில் உள்ள நூற்பாக்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "483",
+        "rationale": "இது எழுத்ததிகார நூற்பாக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "664",
+        "rationale": "இது பொருளதிகார நூற்பாக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "463",
+        "rationale": "சொல்லதிகாரத்தில் 463 நூற்பாக்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "1610",
+        "rationale": "மொத்த நூற்பாக்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்ததிகாரத்தை விடக் குறைவு."
+  },
+  {
+    "questionNumber": 8,
+    "question": "தொல்காப்பியப் பொருளதிகாரத்தில் 'களவியல்' எத்தனையாவது இயல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒன்று",
+        "rationale": "முதல் இயல் அகத்திணையியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "அகத்திணை, புறத்திணை ஆகியவற்றை அடுத்து மூன்றாவதாகக் களவியல் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "ஐந்தாவது பொருளியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "ஏழாவது உவமவியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காதல் வாழ்வின் தொடக்கம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "தொல்காப்பியத்தில் 'செய்யுளியல்' எந்த அதிகாரத்தில் உள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருளதிகாரம்",
+        "rationale": "செய்யுளியல் பொருளதிகாரத்தில் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சொல்லதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்ததிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இலக்கிய வடிவங்களைப் பற்றியது."
+  },
+  {
+    "questionNumber": 10,
+    "question": "நற்றிணைப் பாடல்களின் சிற்றெல்லை மற்றும் பேரெல்லை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3 அடி - 6 அடி",
+        "rationale": "இது ஐங்குறுநூறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "4 அடி - 8 அடி",
+        "rationale": "இது குறுந்தொகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "9 அடி - 12 அடி",
+        "rationale": "நற்றிணை 9 அடி முதல் 12 அடி வரை உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "13 அடி - 31 அடி",
+        "rationale": "இது அகநானூறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒன்பதில் தொடங்கி பனிரெண்டில் முடியும்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "ஐங்குறுநூற்றின் சிற்றெல்லை மற்றும் பேரெல்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3 அடி - 6 அடி",
+        "rationale": "ஐங்குறுநூறு மிகக் குறுகிய அடிகளைக் கொண்டது (3-6).",
+        "isCorrect": true
+      },
+      {
+        "text": "4 அடி - 8 அடி",
+        "rationale": "இது குறுந்தொகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "13 அடி - 31 அடி",
+        "rationale": "இது அகநானூறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "9 அடி - 12 அடி",
+        "rationale": "இது நற்றிணை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூன்றும் ஆறும்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "குறுந்தொகை கடவுள் வாழ்த்து பாடியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாரதம் பாடிய பெருந்தேவனார்",
+        "rationale": "எட்டுத்தொகை நூல்களுக்குப் பொதுவான கடவுள் வாழ்த்து பாடியவர் இவரே.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாரதம் பாடியவர்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "அகநானூற்றைத் தொகுத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருத்திர சன்மர்",
+        "rationale": "மதுரை உப்பூரிகுடி கிழார் மகனார் உருத்திர சன்மர் அகநானூற்றைத் தொகுத்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூரிக்கோ",
+        "rationale": "இவர் குறுந்தொகை தொகுத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூடலூர் கிழார்",
+        "rationale": "இவர் ஐங்குறுநூறு தொகுத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "இவர் கலித்தொகை ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மதுரை உப்பூரிகுடி கிழார் மகன்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "அகநானூற்றைத் தொகுப்பித்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாண்டியன் உக்கிரப் பெருவழுதி",
+        "rationale": "அகநானூற்றைத் தொகுப்பித்தவர் பாண்டியன் உக்கிரப் பெருவழுதி.",
+        "isCorrect": true
+      },
+      {
+        "text": "பன்னாடு தந்த பாண்டியன்",
+        "rationale": "இவர் நற்றிணை தொகுப்பித்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரல் இரும்பொறை",
+        "rationale": "இவர் ஐங்குறுநூறு தொகுப்பித்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உக்கிரமான பெயர் கொண்ட பாண்டியர்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "பதிற்றுப்பத்து எந்தத் தெய்வத்தை முதன்மையாகக் கொண்டது (பிற்சேர்க்கை)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "அட்டவணையில் 'புறம் 80 + சிவன் 1' எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்றவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முக்கண்ணன்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "எட்டுத்தொகை நூல்களுள் காலத்தால் பிந்தையது எதுவாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கலித்தொகை மற்றும் பரிபாடல்",
+        "rationale": "இவை பிற்பட்ட நூல்களாகக் கருதப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறுந்தொகை",
+        "rationale": "இது முற்பட்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நற்றிணை",
+        "rationale": "இது முற்பட்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறநானூறு",
+        "rationale": "இது முற்பட்டது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இசையோடு பாடக்கூடிய நூல்கள்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "எட்டுத்தொகையில் 'நற்றிணை' எவ்வகை நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகம்",
+        "rationale": "நற்றிணை அகப்பொருள் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகம் புறம்",
+        "rationale": "பரிபாடல் மட்டுமே அகம் புறம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காதல் பற்றியது."
+  },
+  {
+    "questionNumber": 18,
+    "question": "திருமுருகாற்றுப்படையின் அடியளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "317",
+        "rationale": "திருமுருகாற்றுப்படை 317 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "248",
+        "rationale": "இது பொருநராற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "269",
+        "rationale": "இது சிறுபாணாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "இது பெரும்பாணாற்றுப்படை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முந்நூற்றுப் பதினேழு."
+  },
+  {
+    "questionNumber": 19,
+    "question": "பொருநராற்றுப்படையின் அடியளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "248",
+        "rationale": "பொருநராற்றுப்படை 248 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "317",
+        "rationale": "இது திருமுருகாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "103",
+        "rationale": "இது முல்லைப்பாட்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "188",
+        "rationale": "இது நெடுநல்வாடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருநூற்று ஐம்பதுக்கு இரண்டு குறைவு."
+  },
+  {
+    "questionNumber": 20,
+    "question": "சிறுபாணாற்றுப்படையின் அடியளவு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "269",
+        "rationale": "சிறுபாணாற்றுப்படை 269 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "500",
+        "rationale": "இது பெரும்பாணாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "583",
+        "rationale": "இது மலைபடுகடாம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "782",
+        "rationale": "இது மதுரைக்காஞ்சி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருநூற்று அறுபத்து ஒன்பது."
+  },
+  {
+    "questionNumber": 21,
+    "question": "பெரும்பாணாற்றுப்படையின் அடியளவு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "500",
+        "rationale": "பெரும்பாணாற்றுப்படை சரியாக 500 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "269",
+        "rationale": "இது சிறுபாணாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "103",
+        "rationale": "இது முல்லைப்பாட்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "301",
+        "rationale": "இது பட்டினப்பாலை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐநூறு."
+  },
+  {
+    "questionNumber": 22,
+    "question": "முல்லைப்பாட்டைப் பாடியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நப்பூதனார்",
+        "rationale": "காவிரிப்பூம்பட்டினத்துப் பொன் வாணிகனார் மகனார் நப்பூதனார் முல்லைப்பாட்டைப் பாடியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாங்குடி மருதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொன் வாணிகனார் மகன்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "மதுரைக்காஞ்சியின் அடியளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "782",
+        "rationale": "பத்துப்பாட்டில் மிகப்பெரிய நூலான மதுரைக்காஞ்சி 782 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "583",
+        "rationale": "இது மலைபடுகடாம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "இது பெரும்பாணாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "317",
+        "rationale": "இது திருமுருகாற்றுப்படை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுநூறுக்கும் மேல்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "நெடுநல்வாடையின் அடியளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "188",
+        "rationale": "நெடுநல்வாடை 188 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "103",
+        "rationale": "இது முல்லைப்பாட்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "261",
+        "rationale": "இது குறிஞ்சிப்பாட்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "248",
+        "rationale": "இது பொருநராற்றுப்படை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று எண்பத்து எட்டு."
+  },
+  {
+    "questionNumber": 25,
+    "question": "குறிஞ்சிப்பாட்டின் அடியளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "261",
+        "rationale": "குறிஞ்சிப்பாட்டு 261 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "188",
+        "rationale": "இது நெடுநல்வாடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "301",
+        "rationale": "இது பட்டினப்பாலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "583",
+        "rationale": "இது மலைபடுகடாம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பூக்களை அடுக்கிச் சொல்லும் நூல்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "மலைபடுகடாமின் அடியளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "583",
+        "rationale": "மலைபடுகடாம் 583 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "782",
+        "rationale": "இது மதுரைக்காஞ்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "இது பெரும்பாணாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "301",
+        "rationale": "இது பட்டினப்பாலை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐநூற்று எண்பத்து மூன்று."
+  },
+  {
+    "questionNumber": 27,
+    "question": "மதுரைக்காஞ்சியின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தலையாலங்கானத்துச் செரு வென்ற பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "மதுரைக்காஞ்சியின் தலைவன் பாண்டியன் நெடுஞ்செழியன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளந்திரையன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தலையாலங்கானப் போர் வெற்றியாளர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "மலைபடுகடாமின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னன் சேய் நன்னன்",
+        "rationale": "பல்குன்றக் கோட்டத்துச் செங்கண்மாந்து வேள் நன்னன் சேய் நன்னன் மலைபடுகடாமின் தலைவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குமரவேள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெடுஞ்செழியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நன்னன் என்ற பெயர் வரும்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "நாலடியார் பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "400",
+        "rationale": "நாலடியார் 400 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1330",
+        "rationale": "இது திருக்குறள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வேளாண் வேதம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "இன்னா நாற்பது பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "40",
+        "rationale": "பெயரிலேயே உள்ளது போல் 40 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாற்பது."
+  },
+  {
+    "questionNumber": 31,
+    "question": "இனியவை நாற்பதின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "இனியவை நாற்பதை இயற்றியவர் பூதஞ்சேந்தனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் இன்னா நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "இவர் திரிகடுகம் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளம்பி நாகனார்",
+        "rationale": "இவர் நான்மணிக்கடிகை ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பூதம் என்ற பெயர் கொண்டவர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "முதுமொழிக்காஞ்சி நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரைக்கூடலூர் கிழார்",
+        "rationale": "முதுமொழிக்காஞ்சியை இயற்றியவர் மதுரைக்கூடலூர் கிழார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்றுறையரையனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காரியாசான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கூடலூர் கிழார்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஐந்திணை ஐம்பது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாறன் பொறையனார்",
+        "rationale": "ஐந்திணை ஐம்பதை இயற்றியவர் மாறன் பொறையனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கண்ணன் சேந்தனார்",
+        "rationale": "இவர் திணைமொழி ஐம்பது ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூவாதியார்",
+        "rationale": "இவர் ஐந்திணை எழுபது ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "இவர் திணைமாலை நூற்றைம்பது ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொறையனார்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "திணைமொழி ஐம்பது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்ணன் சேந்தனார்",
+        "rationale": "திணைமொழி ஐம்பதை இயற்றியவர் கண்ணன் சேந்தனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாறன் பொறையனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூவாதியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புல்லங்காடனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணன்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "ஐந்திணை எழுபது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூவாதியார்",
+        "rationale": "ஐந்திணை எழுபதை இயற்றியவர் மூவாதியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கண்ணன் சேந்தனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காரியாசான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூவாதியார்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "திணைமாலை நூற்றைம்பது நூலின் பாடல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "153",
+        "rationale": "பெயர் நூற்றைம்பது என்றாலும், இதில் 153 பாடல்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "150",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்றைம்பத்து மூன்று."
+  },
+  {
+    "questionNumber": 37,
+    "question": "சம்பந்தர் பாடியதாகக் கூறப்படும் பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "16,000",
+        "rationale": "திருஞானசம்பந்தர் 16,000 பதிகங்களைப் பாடியதாகக் கூறப்படுகிறது (கிடைத்தவை 4213).",
+        "isCorrect": true
+      },
+      {
+        "text": "49,000",
+        "rationale": "இது அப்பர் பாடியதாகக் கூறப்படுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "3,800",
+        "rationale": "இது சுந்தரர் பாடியதாகக் கூறப்படுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "3,000",
+        "rationale": "இது திருமூலர் பாடியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதினாறாயிரம்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "சுந்தரர் பாடியதில் கிடைத்த பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1,026",
+        "rationale": "சுந்தரர் பாடிய 3800 பாடல்களில் 1026 பாடல்கள் கிடைத்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "3,066",
+        "rationale": "இது அப்பர் பாடல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4,213",
+        "rationale": "இது சம்பந்தர் பாடல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆயிரத்து இருபத்தாறு."
+  },
+  {
+    "questionNumber": 39,
+    "question": "திருவிசைப்பாவில் திருமாளிகைத்தேவர் பாடிய பதிகங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4",
+        "rationale": "திருமாளிகைத்தேவர் 4 பதிகங்களைப் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "இது கருவூர்த்தேவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "இது பூந்துருத்தி காடநம்பி.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "இது வேணாட்டடிகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்கு."
+  },
+  {
+    "questionNumber": 40,
+    "question": "கருவூர்த்தேவர் பாடிய பதிகங்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10",
+        "rationale": "கருவூர்த்தேவர் 10 பதிகங்களைப் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்து."
+  },
+  {
+    "questionNumber": 41,
+    "question": "கண்டராதித்தர் பாடிய பதிகத்தின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கோயில் மின்னாருருவம்",
+        "rationale": "கண்டராதித்தர் 'கோயில் மின்னாருருவம்' எனும் பதிகத்தைப் பாடினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருப்பல்லாண்டு",
+        "rationale": "இது சேந்தனார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமுகப்பாசுரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமந்திரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கோயில் எனத் தொடங்கும்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "சேதிராயர் பாடிய பதிகம் எந்த ஊர் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தில்லை",
+        "rationale": "சேதிராயர் தில்லை (சிதம்பரம்) குறித்து ஒரு பதிகம் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவாரூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிதம்பரம்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "திருவாலவாயுடையார் பாடிய பாசுரம் யாருக்காக எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாணபத்திரர் பொருட்டு சேரமானுக்கு",
+        "rationale": "திருவாலவாயுடையார் (சிவன்) பாணபத்திரருக்காக சேரமான் பெருமாளுக்கு எழுதிய திருமுகப்பாசுரம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாணிக்கவாசகருக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுந்தரருக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சம்பந்தருக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாணபத்திரர்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "கல்லாடதேவ நாயனார் இயற்றிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கண்ணப்பர் திருமறம்",
+        "rationale": "கல்லாடதேவ நாயனார் திருக்கண்ணப்பர் திருமறம் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மும்மணிக்கோவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவந்தாதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவுலா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணப்பரைப் பற்றியது."
+  },
+  {
+    "questionNumber": 45,
+    "question": "நக்கீரதேவ நாயனார் இயற்றிய 'கயிலை பாதி காளத்தி பாதி' நூல் எந்த வகையைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அந்தாதி",
+        "rationale": "நூலின் பெயரே 'கயிலை பாதி காளத்தி பாதி அந்தாதி' ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உலா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அந்தாதி."
+  },
+  {
+    "questionNumber": 46,
+    "question": "கபிலதேவ நாயனார் இயற்றிய அந்தாதி நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவபெருமான் திருவந்தாதி",
+        "rationale": "கபிலதேவ நாயனார் சிவபெருமான் திருவந்தாதி, இரட்டை மணிமாலை ஆகியவற்றை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொன்வண்ணத்து அந்தாதி",
+        "rationale": "இது சேரமான் பெருமாள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருத்தொண்டர் திருவந்தாதி",
+        "rationale": "இது நம்பியாண்டார் நம்பி.",
+        "isCorrect": false
+      },
+      {
+        "text": "அற்புதத் திருவந்தாதி",
+        "rationale": "இது காரைக்கால் அம்மையார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிவபெருமானைப் பற்றிய அந்தாதி."
+  },
+  {
+    "questionNumber": 47,
+    "question": "சேரமான் பெருமாள் நாயனார் இயற்றிய உலா நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கயிலாய ஞான உலா",
+        "rationale": "சேரமான் பெருமாள் ஆதி உலா எனப்படும் திருக்கயிலாய ஞான உலாவை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூவருலா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குலோத்துங்கன் உலா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விக்கிரமசோழன் உலா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆதி உலா."
+  },
+  {
+    "questionNumber": 48,
+    "question": "பட்டினத்தடிகள் இயற்றிய 'மும்மணிக்கோவை' நூல்கள் எந்த ஊர் இறைவனைப் பற்றியவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கழுமலம் மற்றும் திருவிடைமருதூர்",
+        "rationale": "பட்டினத்தடிகள் திருக்கழுமல மும்மணிக்கோவை மற்றும் திருவிடைமருதூர் மும்மணிக்கோவை ஆகியவற்றை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை மற்றும் காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிதம்பரம் மற்றும் திருவாரூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவொற்றியூர் மற்றும் மயிலாப்பூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கழுமலம், இடைமருதூர்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "நம்பியாண்டார் நம்பி இயற்றிய 'ஏகாதச மாலை' எந்தத் திருமுறையில் உள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பதினொன்றாம் திருமுறை",
+        "rationale": "நம்பியாண்டார் நம்பியின் நூல்கள் பதினொன்றாம் திருமுறையில் தொகுக்கப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பத்தாம் திருமுறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பதாம் திருமுறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னிரண்டாம் திருமுறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நம்பியின் நூல்கள் அனைத்தும் இதில் தான் உள்ளன."
+  },
+  {
+    "questionNumber": 50,
+    "question": "நம்பியாண்டார் நம்பி இயற்றிய 'திருத்தொண்டர் திருவந்தாதி' எத்தனை பாடல்களைக் கொண்டது என்று குறிப்பிடப்படவில்லை, ஆனால் இது எதற்கு அடிப்படையாக அமைந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெரியபுராணம்",
+        "rationale": "திருத்தொண்டர் தொகையையும், திருத்தொண்டர் திருவந்தாதியையும் அடியொற்றியே சேக்கிழார் பெரியபுராணம் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கந்தபுராணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவிளையாடல் புராணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாயன்மார்கள் வரலாறு."
+  },
+  {
+    "questionNumber": 51,
+    "question": "திருவுந்தியார் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருவியலூர் உய்யவந்த தேவர்",
+        "rationale": "திருவுந்தியார் நூலை திருவியலூர் உய்யவந்த தேவர் இயற்றினார் (கி.பி. 1148).",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்கடவூர் உய்யவந்த தேவர்",
+        "rationale": "இவர் திருக்களிற்றுப்படியார் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மெய்கண்டார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அருள்நந்தி சிவாசாரியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உய்யவந்த தேவர்."
+  },
+  {
+    "questionNumber": 52,
+    "question": "திருக்களிற்றுப்படியார் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கடவூர் உய்யவந்த தேவர்",
+        "rationale": "திருக்களிற்றுப்படியாரை திருக்கடவூர் உய்யவந்த தேவர் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவியலூர் உய்யவந்த தேவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உமாபதி சிவாசாரியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மெய்கண்டார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடவூர்."
+  },
+  {
+    "questionNumber": 53,
+    "question": "சிவஞான போதம் இயற்றப்பட்ட ஆண்டு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 1235",
+        "rationale": "அட்டவணைப்படி சிவஞான போதம் கி.பி. 1235 இல் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 1148",
+        "rationale": "இது திருவுந்தியார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 1178",
+        "rationale": "இது திருக்களிற்றுப்படியார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 1300",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "13ஆம் நூற்றாண்டின் முற்பகுதி."
+  },
+  {
+    "questionNumber": 54,
+    "question": "சிவஞான சித்தியாரின் 'பரபக்கம்' எத்தனை பாடல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "301",
+        "rationale": "பரபக்கம் 301 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "328",
+        "rationale": "இது சுபக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "55",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முந்நூற்று ஒன்று."
+  },
+  {
+    "questionNumber": 55,
+    "question": "இருபா இருபஃது நூலின் பா வகை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பாவும் ஆசிரியப்பாவும் கலந்தது",
+        "rationale": "வெண்பாவும் ஆசிரியப்பாவும் மாறி மாறி அந்தாதி மரபில் வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விருத்தம் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிவெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாழிசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருவகைப் பா."
+  },
+  {
+    "questionNumber": 56,
+    "question": "உண்மை விளக்கம் நூலில் உள்ள பாடல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "55",
+        "rationale": "உண்மை விளக்கம் 55 வெண்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐம்பத்து ஐந்து."
+  },
+  {
+    "questionNumber": 57,
+    "question": "கொடிக்கவி நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உமாபதி சிவாசாரியார்",
+        "rationale": "கொடிக்கவி, நெஞ்சுவிடுதூது போன்ற நூல்களை உமாபதி சிவாசாரியார் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மெய்கண்டார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அருள்நந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மனவாசகம் கடந்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தில்லையில் கொடியேறப் பாடியவர்."
+  },
+  {
+    "questionNumber": 58,
+    "question": "நெஞ்சு விடுதூது எத்தனை கலிவெண்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "129",
+        "rationale": "நெஞ்சு விடுதூது 129 கலிவெண்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "55",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று இருபத்து ஒன்பது."
+  },
+  {
+    "questionNumber": 59,
+    "question": "பொய்கையாழ்வார் எந்த மலரில் தோன்றியதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாமரைப் பொய்கை",
+        "rationale": "அட்டவணைப்படி பொய்கையாழ்வார் தாமரைப் பொய்கையில் தோன்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குருக்கத்தி",
+        "rationale": "இது பூதத்தாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "செவ்வல்லி",
+        "rationale": "இது பேயாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகிழம்பூ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவர் பெயரிலேயே விடை உள்ளது."
+  },
+  {
+    "questionNumber": 60,
+    "question": "பூதத்தாழ்வார் எந்த ஆயுதத்தின் அவதாரமாகக் கருதப்படுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கதாயுதம்",
+        "rationale": "பூதத்தாழ்வார் கதாயுதத்தின் அவதாரமாகக் கருதப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாஞ்சசன்யம்",
+        "rationale": "இது பொய்கையாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நந்தகம்",
+        "rationale": "இது பேயாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுதர்சனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கதை."
+  },
+  {
+    "questionNumber": 61,
+    "question": "பேயாழ்வார் எந்த மலரில் தோன்றியவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செவ்வல்லி",
+        "rationale": "பேயாழ்வார் செவ்வல்லி மலரில் தோன்றியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குருக்கத்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துளசி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிவப்பு நிற மலர்."
+  },
+  {
+    "questionNumber": 62,
+    "question": "நம்மாழ்வார் எந்த மரத்தடியில் யோகத்தில் ஆழ்ந்திருந்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புளிய மரம்",
+        "rationale": "நம்மாழ்வார் புளிய மரத்தடியில் (திருப்புளி ஆழ்வார்) யோகத்தில் இருந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரச மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆல மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேப்ப மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புளி."
+  },
+  {
+    "questionNumber": 63,
+    "question": "நம்மாழ்வாரின் வேறு பெயர்களில் ஒன்று?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சடகோபன்",
+        "rationale": "அட்டவணையில் 'மாறன், சடகோபன்' போன்றவை குறிப்பிடப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரகாலன்",
+        "rationale": "இது திருமங்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விட்டுசித்தர்",
+        "rationale": "இது பெரியாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விப்ரநாராயணர்",
+        "rationale": "இது தொண்டரடிப்பொடி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சடம் என்ற காற்றை வென்றவர்."
+  },
+  {
+    "questionNumber": 64,
+    "question": "குலசேகர ஆழ்வார் பாடிய வடமொழி நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முகுந்த மாலை",
+        "rationale": "குலசேகர ஆழ்வார் வடமொழியில் முகுந்த மாலையைப் பாடினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஸ்ரீ பாஷ்யம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கீதா பாஷ்யம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஸ்தோத்திர ரத்னம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முகுந்தனைப் போற்றும் மாலை."
+  },
+  {
+    "questionNumber": 65,
+    "question": "பெரியாழ்வாரின் இயற்பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விஷ்ணுசித்தர்",
+        "rationale": "பெரியாழ்வாருக்கு விஷ்ணுசித்தர், பட்டர்பிரான் போன்ற பெயர்கள் உண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாறன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காரி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரகாலன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விஷ்ணுவின் சித்தத்தில் உறைபவர்."
+  },
+  {
+    "questionNumber": 66,
+    "question": "திருமங்கையாழ்வார் பாடிய நூல்களுள் ஒன்று?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குறுந்தாண்டகம்",
+        "rationale": "திருமங்கையாழ்வார் திருக்குறுந்தாண்டகம், நெடுந்தாண்டகம் போன்றவற்றை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவாய்மொழி",
+        "rationale": "இது நம்மாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருப்பாவை",
+        "rationale": "இது ஆண்டாள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமாலை",
+        "rationale": "இது தொண்டரடிப்பொடி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாண்டகம் என முடியும்."
+  },
+  {
+    "questionNumber": 67,
+    "question": "திருமங்கையாழ்வாரின் துணைவியார் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குமுதவல்லி",
+        "rationale": "அட்டவணைப்படி குமுதவல்லி திருமங்கையாழ்வாரின் துணைவியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாசுகி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புனிதவதியார்",
+        "rationale": "இது காரைக்கால் அம்மையார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆண்டாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குமுதம்."
+  },
+  {
+    "questionNumber": 68,
+    "question": "சிலப்பதிகாரத்தில் உள்ள காதைகளின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "30",
+        "rationale": "சிலப்பதிகாரம் 30 காதைகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "13",
+        "rationale": "இது சிந்தாமணி இலம்பகங்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முப்பது."
+  },
+  {
+    "questionNumber": 69,
+    "question": "மணிமேகலை எந்த சமயத்தைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பௌத்தம்",
+        "rationale": "மணிமேகலை ஒரு பௌத்த காப்பியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "சிலப்பதிகாரம், சிந்தாமணி போன்றவை சமணச் சார்புடையவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சைவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புத்தர்."
+  },
+  {
+    "questionNumber": 70,
+    "question": "சீவக சிந்தாமணி நூலின் பா வகை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருத்தம்",
+        "rationale": "சீவக சிந்தாமணி விருத்தப் பாக்களால் ஆனது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "சிலப்பதிகாரம் ஆசிரியப்பாவால் ஆனது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "நாலடியார் வெண்பாவால் ஆனது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விருத்தப்பா."
+  },
+  {
+    "questionNumber": 71,
+    "question": "நீலகேசி நூலில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "894",
+        "rationale": "நீலகேசி 894 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "300",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எண்ணூற்றுத் தொண்ணூற்று நான்கு."
+  },
+  {
+    "questionNumber": 72,
+    "question": "சூளாமணி நூலின் பாடல்கள் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2330",
+        "rationale": "சூளாமணி 2330 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "320",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டாயிரத்துக்கும் மேல்."
+  },
+  {
+    "questionNumber": 73,
+    "question": "யசோதர காவியம் யாரால் இயற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்ணாவலூர் உடையார் வேள்",
+        "rationale": "யசோதர காவியத்தை வெண்ணாவலூர் உடையார் வேள் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தோலாமொழித் தேவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கந்தியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொங்குவேளிர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெண்ணாவலூர்."
+  },
+  {
+    "questionNumber": 74,
+    "question": "பெருங்கதை எந்த மொழியிலிருந்து மொழிபெயர்க்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடமொழி",
+        "rationale": "குணாட்டியார் வடமொழியில் எழுதிய பிருகத் கதையின் தழுவல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிராகிருதம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெலுங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமஸ்கிருதம்."
+  },
+  {
+    "questionNumber": 75,
+    "question": "பெருங்கதையில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "16,230",
+        "rationale": "பெருங்கதை 16,230 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "10,480",
+        "rationale": "இது கம்பராமாயணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4,286",
+        "rationale": "இது பெரியபுராணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "3,000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதினாறாயிரம்."
+  },
+  {
+    "questionNumber": 76,
+    "question": "கம்பராமாயணத்தின் மொத்த பாடல்கள் சுமார் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10,480",
+        "rationale": "கம்பராமாயணம் சுமார் 10,480 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "4,000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "12,000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "16,000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்தாயிரத்து நானூறு."
+  },
+  {
+    "questionNumber": 77,
+    "question": "பெரியபுராணத்தின் மற்றொரு பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருத்தொண்டர் மாக்கதை",
+        "rationale": "பெரியபுராணம் திருத்தொண்டர் மாக்கதை எனவும் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இராமவதாரம்",
+        "rationale": "இது கம்பராமாயணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொங்குவேள் மாக்கதை",
+        "rationale": "இது பெருங்கதை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணிமேகலைத் துறவு",
+        "rationale": "இது மணிமேகலை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொண்டர்களின் கதை."
+  },
+  {
+    "questionNumber": 78,
+    "question": "பெரியபுராணம் எத்தனை சருக்கங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "13",
+        "rationale": "அட்டவணைப்படி பெரியபுராணம் 13 சருக்கங்களைக் கொண்டது (குறிப்பு: பாடலில் 2 உட்பிரிவு என்றுள்ளது, ஆனால் அட்டவணை 13 என்கிறது).",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "64",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதின்மூன்று."
+  },
+  {
+    "questionNumber": 79,
+    "question": "திருவிளையாடல் புராணத்தின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பரஞ்சோதி முனிவர்",
+        "rationale": "திருவிளையாடல் புராணத்தைப் பரஞ்சோதி முனிவர் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கச்சியப்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேக்கிழார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வில்லிபுத்தூரார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பரஞ்சோதி."
+  },
+  {
+    "questionNumber": 80,
+    "question": "நல்லாப்பிள்ளை பாரதம் எத்தனை பாடல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "15,300",
+        "rationale": "நல்லாப்பிள்ளை பாரதம் 15,300 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "4,160",
+        "rationale": "இது வில்லிபாரதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10,000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "2,000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதினைந்தாயிரம்."
+  },
+  {
+    "questionNumber": 81,
+    "question": "வீரசோழியம் எத்தனை அதிகாரங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "வீரசோழியம் எழுத்து, சொல், பொருள், யாப்பு, அணி என 5 அதிகாரங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "rationale": "இது தொல்காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "இது நன்னூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்திலக்கணம்."
+  },
+  {
+    "questionNumber": 82,
+    "question": "இலக்கண விளக்கம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வைத்தியநாத தேசிகர்",
+        "rationale": "இலக்கண விளக்கத்தை வைத்தியநாத தேசிகர் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேசிகர்."
+  },
+  {
+    "questionNumber": 83,
+    "question": "முத்துவீரியம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்துவீர உபாத்தியாயர்",
+        "rationale": "முத்துவீரியத்தை முத்துவீர உபாத்தியாயர் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுவாமிநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரிலேயே ஆசிரியர் பெயர் உள்ளது."
+  },
+  {
+    "questionNumber": 84,
+    "question": "சுவாமிநாதம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுவாமி கவிராயர்",
+        "rationale": "சுவாமிநாதம் சுவாமி கவிராயரால் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுவாமிநாத தேசிகர்",
+        "rationale": "இவர் இலக்கணக்கொத்து ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைத்தியநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிராயர்."
+  },
+  {
+    "questionNumber": 85,
+    "question": "நேமிநாதம் நூலின் வேறு பெயர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சின்னூல்",
+        "rationale": "நேமிநாதம் சின்னூல் எனவும் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேரகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறிய நூல்."
+  },
+  {
+    "questionNumber": 86,
+    "question": "நன்னூல் ஆசிரியர் பவணந்தி முனிவர் எந்த ஊரைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சனகை",
+        "rationale": "பவணந்தி முனிவர் சனகை (சனகாபுரம்) ஊரைச் சேர்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ச எனத் தொடங்கும்."
+  },
+  {
+    "questionNumber": 87,
+    "question": "இலக்கணக் கொத்து நூலில் உள்ள நூற்பாக்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "131",
+        "rationale": "இலக்கணக் கொத்து 131 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "462",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று முப்பத்து ஒன்று."
+  },
+  {
+    "questionNumber": 88,
+    "question": "தமிழ்நெறி விளக்கம் நூலின் ஆசிரியர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "அட்டவணைப்படி ஆசிரியர் பெயர் கிடைக்கவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறையனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நம்பி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறிப்பு இல்லை."
+  },
+  {
+    "questionNumber": 89,
+    "question": "மாறனகப்பொருள் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குருகைப் பெருமாள் கவிராயர்",
+        "rationale": "மாறனகப்பொருளை திருக்குருகைப் பெருமாள் கவிராயர் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நம்பி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறையனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாறன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருக்குருகை."
+  },
+  {
+    "questionNumber": 90,
+    "question": "பன்னிரு படலம் நூலின் நூற்பாக்கள் எத்தனை கிடைத்துள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "90",
+        "rationale": "பன்னிரு படலத்தில் 90 நூற்பாக்கள் மட்டுமே கிடைத்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "361",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொண்ணூறு."
+  },
+  {
+    "questionNumber": 91,
+    "question": "யாப்பருங்கலம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அமிர்தசாகரனார்",
+        "rationale": "யாப்பருங்கலம் அமிர்தசாகரனாரால் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குணவீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அமிர்தம்."
+  },
+  {
+    "questionNumber": 92,
+    "question": "காக்கை பாடினியம் நூலின் நூற்பாக்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "89",
+        "rationale": "காக்கை பாடினியம் 89 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "96",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "44",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எண்பத்து ஒன்பது."
+  },
+  {
+    "questionNumber": 93,
+    "question": "இந்திரகாளியம் எந்த நூற்றாண்டைச் சேர்ந்த நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 10",
+        "rationale": "அட்டவணைப்படி இந்திரகாளியம் கி.பி. 10ஆம் நூற்றாண்டைச் சேர்ந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 12",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 13",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 14",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்தாம் நூற்றாண்டு."
+  },
+  {
+    "questionNumber": 94,
+    "question": "பன்னிரு பாட்டியல் எத்தனை நூற்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "360",
+        "rationale": "பன்னிரு பாட்டியல் 360 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "108",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முந்நூற்று அறுபது."
+  },
+  {
+    "questionNumber": 95,
+    "question": "நவநீதப் பாட்டியல் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நவநீத நாடன்",
+        "rationale": "நவநீதப் பாட்டியலை நவநீத நாடன் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குணவீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரஞ்சோதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைத்தியநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நவநீதம்."
+  },
+  {
+    "questionNumber": 96,
+    "question": "வரையறுத்த பாட்டியல் நூலின் வேறு பெயர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சம்பந்தப் பாட்டியல்",
+        "rationale": "வரையறுத்த பாட்டியல் சம்பந்தப் பாட்டியல் எனவும் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நவநீதப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வச்சணந்தி மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிதம்பரப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சம்பந்தர்."
+  },
+  {
+    "questionNumber": 97,
+    "question": "சிதம்பரப் பாட்டியல் யாரால் இயற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பரஞ்சோதி முனிவர்",
+        "rationale": "சிதம்பரப் பாட்டியலை பரஞ்சோதி முனிவர் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நவநீத நாடன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாப்புவையர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருவிளையாடல் புராணம் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 98,
+    "question": "பிரபந்த மரபியல் எதனை இணைத்துக் கூறுவது புதுமை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ்ப் பெண்ணையும் பாட்டிலக்கணத்தையும்",
+        "rationale": "பிரபந்த மரபியல் தமிழ்ப் பெண்ணையும் பாட்டிலக்கணத்தையும் இணைத்துக் கூறுவது புதுமை.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசையையும் நாடகத்தையும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறத்தையும் பொருளையும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தையும் புறத்தையும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெண்."
+  },
+  {
+    "questionNumber": 99,
+    "question": "தண்டியலங்காரம் எத்தனை இயல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "பொது அணியியல், பொருள் அணியியல், சொல் அணியியல் என 3 இயல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூன்று."
+  },
+  {
+    "questionNumber": 100,
+    "question": "உவமான சங்கிரகம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருவேங்கட ஐயர்",
+        "rationale": "திருவில்லிப்புத்தூர் திருவேங்கட ஐயர் உவமான சங்கிரகத்தை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விசாகப் பெருமாள் ஐயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்துச்சாமி ஐயங்கார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தண்டியாசிரியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருவில்லிப்புத்தூர்."
+  }
+]
