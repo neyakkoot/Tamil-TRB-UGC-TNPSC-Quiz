@@ -1,0 +1,2802 @@
+[
+  {
+    "questionNumber": 201,
+    "question": "இடைச்சங்கத்தில் இருந்த சங்க உறுப்பினர்களின் எண்ணிக்கை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "59",
+        "rationale": "அட்டவணையில் இடைச்சங்க உறுப்பினர்களின் எண்ணிக்கை 59 என்றுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "49",
+        "rationale": "இது கடைச்சங்க உறுப்பினர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "549",
+        "rationale": "இது முதல் சங்க உறுப்பினர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4449",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறுபதுக்கு ஒன்று குறைவு."
+  },
+  {
+    "questionNumber": 202,
+    "question": "முதல் சங்கம் அமைந்திருந்த இடத்தில் ஆட்சி செய்த பாண்டிய மன்னர்கள் யார் முதல் யார் வரை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காய்சின வழுதி முதல் கடுங்கோன் வரை",
+        "rationale": "முதல் சங்கம் காய்சின வழுதி முதல் கடுங்கோன் வரை உள்ள மன்னர்களால் ஆதரிக்கப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்டேர் செழியன் முதல் முடத்திருமாறன் வரை",
+        "rationale": "இது இடைச்சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முடத்திருமாறன் முதல் உக்கிரப் பெருவழுதி வரை",
+        "rationale": "இது கடைச்சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகாலன் முதல் இராசராசன் வரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காய்சின வழுதி."
+  },
+  {
+    "questionNumber": 203,
+    "question": "இடைச்சங்கம் அமைந்திருந்த இடத்தில் ஆட்சி செய்த மன்னர்கள் யார் முதல் யார் வரை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்டேர் செழியன் முதல் முடத்திருமாறன் வரை",
+        "rationale": "இடைச்சங்கம் வெண்டேர் செழியன் முதல் முடத்திருமாறன் வரை உள்ள மன்னர்களால் ஆதரிக்கப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காய்சின வழுதி முதல் கடுங்கோன் வரை",
+        "rationale": "இது முதல் சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உக்கிரப் பெருவழுதி முதல் மாறன் வரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன் செங்குட்டுவன் முதல் இளங்கோ வரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெண்டேர் செழியன்."
+  },
+  {
+    "questionNumber": 204,
+    "question": "தொல்காப்பிய எழுத்ததிகாரத்தில் 'உருபியல்' எத்தனையாவது இயல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்தாவது",
+        "rationale": "தொகை மரபுக்குப் பின் ஐந்தாவதாக உருபியல் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்றாவது",
+        "rationale": "பிறப்பியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழாவது",
+        "rationale": "உயிர்மயங்கியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பதாவது",
+        "rationale": "குற்றியலுகரப் புணரியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொகை மரபுக்கு அடுத்து."
+  },
+  {
+    "questionNumber": 205,
+    "question": "தொல்காப்பியச் சொல்லதிகாரத்தில் 'விளிமரபு' எத்தனையாவது இயல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்காவது",
+        "rationale": "வேற்றுமை மயங்கியலுக்கு அடுத்து நான்காவதாக விளிமரபு வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டாவது",
+        "rationale": "வேற்றுமையியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறாவது",
+        "rationale": "வினையியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டாவது",
+        "rationale": "உரியியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூன்றாவது இயலுக்குப் பின்."
+  },
+  {
+    "questionNumber": 206,
+    "question": "தொல்காப்பியச் சொல்லதிகாரத்தில் 'வினையியல்' எத்தனையாவது இயல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆறாவது",
+        "rationale": "பெயரியலுக்கு அடுத்து ஆறாவதாக வினையியல் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்தாவது",
+        "rationale": "பெயரியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழாவது",
+        "rationale": "இடையியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பதாவது",
+        "rationale": "எச்சவியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரியலுக்கு அடுத்து."
+  },
+  {
+    "questionNumber": 207,
+    "question": "தொல்காப்பியப் பொருளதிகாரத்தில் 'புறத்திணையியல்' எத்தனையாவது இயல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டாவது",
+        "rationale": "அகத்திணையியலுக்கு அடுத்து இரண்டாவதாகப் புறத்திணையியல் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்காவது",
+        "rationale": "கற்பியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்தாவது",
+        "rationale": "பொருளியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டாவது",
+        "rationale": "செய்யுளியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணைக்கு அடுத்து."
+  },
+  {
+    "questionNumber": 208,
+    "question": "அகநானூற்றின் கடவுள் வாழ்த்துப் பாடல் யாரைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "அகநானூற்றின் கடவுள் வாழ்த்து சிவன் பற்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "குறுந்தொகை கடவுள் வாழ்த்து முருகன் பற்றியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்றவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நெடுந்தொகை."
+  },
+  {
+    "questionNumber": 209,
+    "question": "குறுந்தொகையின் கடவுள் வாழ்த்து யாரைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகன்",
+        "rationale": "குறுந்தொகையின் கடவுள் வாழ்த்து முருகன் பற்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குமரவேள்."
+  },
+  {
+    "questionNumber": 210,
+    "question": "நற்றிணையின் கடவுள் வாழ்த்து யாரைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "நற்றிணையின் கடவுள் வாழ்த்து திருமால் பற்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரம்மா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாராயணன்."
+  },
+  {
+    "questionNumber": 211,
+    "question": "ஐங்குறுநூற்றின் கடவுள் வாழ்த்து யாரைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "ஐங்குறுநூற்றின் கடவுள் வாழ்த்து சிவன் பற்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முக்கண்ணன்."
+  },
+  {
+    "questionNumber": 212,
+    "question": "கலித்தொகையின் கடவுள் வாழ்த்து யாரைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "கலித்தொகையின் கடவுள் வாழ்த்து சிவன் பற்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆலமர்ந்தான்."
+  },
+  {
+    "questionNumber": 213,
+    "question": "ஐங்குறுநூறு பாடிய புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "ஐங்குறுநூறு ஐந்து புலவர்களால் பாடப்பட்டது (ஒவ்வொரு திணைக்கும் ஒருவர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்து."
+  },
+  {
+    "questionNumber": 214,
+    "question": "குறுந்தொகையைப் பாடிய புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "205",
+        "rationale": "குறுந்தொகையைப் பாடிய புலவர்களின் எண்ணிக்கை 205.",
+        "isCorrect": true
+      },
+      {
+        "text": "192",
+        "rationale": "இது நற்றிணை.",
+        "isCorrect": false
+      },
+      {
+        "text": "142",
+        "rationale": "இது அகநானூறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "157",
+        "rationale": "இது புறநானூறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருநூற்று ஐந்து."
+  },
+  {
+    "questionNumber": 215,
+    "question": "நற்றிணையைப் பாடிய புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "192",
+        "rationale": "நற்றிணையைப் பாடிய புலவர்களின் எண்ணிக்கை 192.",
+        "isCorrect": true
+      },
+      {
+        "text": "205",
+        "rationale": "இது குறுந்தொகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "142",
+        "rationale": "இது அகநானூறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "157",
+        "rationale": "இது புறநானூறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருநூறுக்கு எட்டு குறைவு."
+  },
+  {
+    "questionNumber": 216,
+    "question": "அகநானூற்றைப் பாடிய புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "142",
+        "rationale": "அகநானூற்றைப் பாடிய புலவர்களின் எண்ணிக்கை 142.",
+        "isCorrect": true
+      },
+      {
+        "text": "192",
+        "rationale": "இது நற்றிணை.",
+        "isCorrect": false
+      },
+      {
+        "text": "157",
+        "rationale": "இது புறநானூறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "205",
+        "rationale": "இது குறுந்தொகை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று நாற்பத்து இரண்டு."
+  },
+  {
+    "questionNumber": 217,
+    "question": "கலித்தொகையைப் பாடிய புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "கலித்தொகை ஐந்து புலவர்களால் பாடப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "13",
+        "rationale": "இது பரிபாடல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "இது பதிற்றுப்பத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "இது பத்துப்பாட்டு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திணைக்கு ஒருவர்."
+  },
+  {
+    "questionNumber": 218,
+    "question": "பரிபாடலைப் பாடிய புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "13",
+        "rationale": "பரிபாடலைப் பாடிய புலவர்களின் எண்ணிக்கை 13.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "கலித்தொகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "பதிற்றுப்பத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "157",
+        "rationale": "புறநானூறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதின்மூன்று."
+  },
+  {
+    "questionNumber": 219,
+    "question": "புறநானூற்றைப் பாடிய புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "157",
+        "rationale": "புறநானூற்றைப் பாடிய புலவர்களின் எண்ணிக்கை 157.",
+        "isCorrect": true
+      },
+      {
+        "text": "142",
+        "rationale": "அகநானூறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "205",
+        "rationale": "குறுந்தொகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "473",
+        "rationale": "எட்டுத்தொகை மொத்த புலவர்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று ஐம்பத்து ஏழு."
+  },
+  {
+    "questionNumber": 220,
+    "question": "பதிற்றுப்பத்தைப் பாடிய புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "8",
+        "rationale": "கிடைத்துள்ள 8 பத்துகளையும் 8 வெவ்வேறு புலவர்கள் பாடியுள்ளனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கிடைத்த பத்துகளின் எண்ணிக்கை."
+  },
+  {
+    "questionNumber": 221,
+    "question": "எட்டுத்தொகை நூல்களின் மொத்தப் பாடல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2381",
+        "rationale": "அட்டவணையில் மொத்தப் பாடல்கள் 2381 எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "2500",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "473",
+        "rationale": "இது மொத்த புலவர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1330",
+        "rationale": "திருக்குறள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டாயிரத்து முன்னூற்று எண்பத்து ஒன்று."
+  },
+  {
+    "questionNumber": 222,
+    "question": "எட்டுத்தொகையைப் பாடிய மொத்த புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "473",
+        "rationale": "அட்டவணையில் மொத்த புலவர்கள் 473 எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "500",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "205",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "157",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நானூற்று எழுபத்து மூன்று."
+  },
+  {
+    "questionNumber": 223,
+    "question": "நற்றிணையின் சிற்றெல்லை அடி என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "9 அடி",
+        "rationale": "நற்றிணை 9 அடி சிற்றெல்லையைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "4 அடி",
+        "rationale": "குறுந்தொகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "3 அடி",
+        "rationale": "ஐங்குறுநூறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "13 அடி",
+        "rationale": "அகநானூறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒன்பது."
+  },
+  {
+    "questionNumber": 224,
+    "question": "அகநானூற்றின் சிற்றெல்லை மற்றும் பேரெல்லை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "13 அடி - 31 அடி",
+        "rationale": "அகநானூறு 13 அடி முதல் 31 அடி வரை உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "9 அடி - 12 அடி",
+        "rationale": "நற்றிணை.",
+        "isCorrect": false
+      },
+      {
+        "text": "4 அடி - 8 அடி",
+        "rationale": "குறுந்தொகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "3 அடி - 6 அடி",
+        "rationale": "ஐங்குறுநூறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதிமூன்றில் தொடங்கி முப்பத்தி ஒன்றில் முடியும்."
+  },
+  {
+    "questionNumber": 225,
+    "question": "குறுந்தொகையின் பேரெல்லை அடி என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "8 அடி",
+        "rationale": "குறுந்தொகை 8 அடி பேரெல்லையைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "12 அடி",
+        "rationale": "நற்றிணை.",
+        "isCorrect": false
+      },
+      {
+        "text": "6 அடி",
+        "rationale": "ஐங்குறுநூறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "31 அடி",
+        "rationale": "அகநானூறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எட்டு."
+  },
+  {
+    "questionNumber": 226,
+    "question": "பரிபாடலில் உதிரிப் பாடல்கள் எத்தனை உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10",
+        "rationale": "அட்டவணையில் 'உதிரி 10' எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "22",
+        "rationale": "கிடைத்த பாடல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "rationale": "பாடிய புலவர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்து."
+  },
+  {
+    "questionNumber": 227,
+    "question": "பத்துப்பாட்டில் 'சிறுபாணாற்றுப்படை' யாரால் பாடப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இடைக்கழிநாட்டு நல்லூர் நத்தத்தனார்",
+        "rationale": "சிறுபாணாற்றுப்படை நத்தத்தனாரால் பாடப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடியலூர் உருத்திரங்கண்ணனார்",
+        "rationale": "பெரும்பாணாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முடத்தாமக் கண்ணியார்",
+        "rationale": "பொருநராற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரனார்",
+        "rationale": "திருமுருகாற்றுப்படை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நத்தத்தனார்."
+  },
+  {
+    "questionNumber": 228,
+    "question": "பெரும்பாணாற்றுப்படையின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொண்டைமான் இளந்திரையன்",
+        "rationale": "பெரும்பாணாற்றுப்படையின் தலைவன் தொண்டைமான் இளந்திரையன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லியக்கோடன்",
+        "rationale": "சிறுபாணாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "பட்டினப்பாலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னன் சேய் நன்னன்",
+        "rationale": "மலைபடுகடாம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காஞ்சி அரசன்."
+  },
+  {
+    "questionNumber": 229,
+    "question": "பட்டினப்பாலையின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோழன் கரிகாற் பெருவளத்தான்",
+        "rationale": "பட்டினப்பாலையின் தலைவன் சோழன் கரிகாற் பெருவளத்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "மதுரைக்காஞ்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லியக்கோடன்",
+        "rationale": "சிறுபாணாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "குமரவேள்",
+        "rationale": "திருமுருகாற்றுப்படை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கல்லணை கட்டியவர்."
+  },
+  {
+    "questionNumber": 230,
+    "question": "மலைபடுகடாம் நூலின் ஆசிரியர் எந்த ஊரைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரணிய முட்டத்துப் பெருங்குன்றூர்",
+        "rationale": "ஆசிரியர் பெயர்: இரணிய முட்டத்துப் பெருங்குன்றூர்ப் பெருங் கௌசிகனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடியலூர்",
+        "rationale": "உருத்திரங்கண்ணனார் ஊர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இடைக்கழிநாடு",
+        "rationale": "நத்தத்தனார் ஊர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெருங்குன்றூர்."
+  },
+  {
+    "questionNumber": 231,
+    "question": "பத்துப்பாட்டில் உள்ள 'ஆற்றுப்படை' நூல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "திருமுருகு, பொருநர், சிறுபாண், பெரும்பாண், மலைபடுகடாம் (கூத்தராற்றுப்படை) என ஐந்து.",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "rationale": "பெயரில் 'ஆற்றுப்படை' என்று வருவது 4, ஆனால் மலைபடுகடாம் சேர்த்து 5.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்து."
+  },
+  {
+    "questionNumber": 232,
+    "question": "பத்துப்பாட்டில் 'அகம்' சார்ந்த நூல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4",
+        "rationale": "முல்லைப்பாட்டு, நெடுநல்வாடை, குறிஞ்சிப்பாட்டு, பட்டினப்பாலை ஆகிய நான்கு நூல்களும் 'அகம்' என்று அட்டவணையில் குறிக்கப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "rationale": "முல்லைப்பாட்டு, குறிஞ்சிப்பாட்டு, பட்டினப்பாலை ஆகிய மூன்றும் அகம் சார்ந்தவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்கு."
+  },
+  {
+    "questionNumber": 233,
+    "question": "பத்துப்பாட்டில் 'புறம்' சார்ந்த நூல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "திருமுருகு, பொருநர், சிறுபாண், பெரும்பாண், மதுரைக்காஞ்சி, மலைபடுகடாம் என ஆறு நூல்கள் 'புறம்' எனக் குறிக்கப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆறு."
+  },
+  {
+    "questionNumber": 234,
+    "question": "திருக்குறளில் உள்ள மொத்த அதிகாரங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "133",
+        "rationale": "திருக்குறள் 133 அதிகாரங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1330",
+        "rationale": "பாடல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "நாலடியார் பாடல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "கீழ்க்கணக்கு நூல்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று முப்பத்து மூன்று."
+  },
+  {
+    "questionNumber": 235,
+    "question": "நான்மணிக்கடிகையில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "101",
+        "rationale": "நான்மணிக்கடிகை 101 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "திரிகடுகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "rationale": "நாலடியார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "rationale": "ஏலாதி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று ஒன்று."
+  },
+  {
+    "questionNumber": 236,
+    "question": "ஆசாரக்கோவையில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100",
+        "rationale": "ஆசாரக்கோவை 100 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "101",
+        "rationale": "நான்மணிக்கடிகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "rationale": "ஏலாதி.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "இன்னா நாற்பது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறு."
+  },
+  {
+    "questionNumber": 237,
+    "question": "பழமொழி நானூறு நூலில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "400",
+        "rationale": "பழமொழி 400 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "திரிகடுகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "300",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நானூறு."
+  },
+  {
+    "questionNumber": 238,
+    "question": "முதுமொழிக்காஞ்சி நூலில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100",
+        "rationale": "முதுமொழிக்காஞ்சி 100 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "80",
+        "rationale": "ஏலாதி.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "இன்னா நாற்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "ஐந்திணை ஐம்பது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறு."
+  },
+  {
+    "questionNumber": 239,
+    "question": "ஏலாதி நூலில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "80",
+        "rationale": "ஏலாதி 80 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "முதுமொழிக்காஞ்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "rationale": "ஐந்திணை எழுபது.",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "rationale": "கைந்நிலை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எண்பது."
+  },
+  {
+    "questionNumber": 240,
+    "question": "கைந்நிலை நூலில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "60",
+        "rationale": "கைந்நிலை 60 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "80",
+        "rationale": "ஏலாதி.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "ஐந்திணை ஐம்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "கார் நாற்பது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறுபது."
+  },
+  {
+    "questionNumber": 241,
+    "question": "பூந்துருத்தி காடநம்பி பாடிய பதிகங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2",
+        "rationale": "பூந்துருத்தி காடநம்பி 2 பதிகங்களைப் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "rationale": "திருமாளிகைத்தேவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "கருவூர்த்தேவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "வேணாட்டடிகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டு."
+  },
+  {
+    "questionNumber": 242,
+    "question": "பூந்துருத்தி காடநம்பி தமிழுக்குத் தந்த பண் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சாளரப்பண்",
+        "rationale": "பூந்துருத்தி காடநம்பி சாளரப்பண் தந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சிப்பண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலையாழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செவ்வழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சாளரம்."
+  },
+  {
+    "questionNumber": 243,
+    "question": "வேணாட்டடிகள் பாடிய பதிகங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1",
+        "rationale": "வேணாட்டடிகள் ஒரு பதிகம் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒன்று."
+  },
+  {
+    "questionNumber": 244,
+    "question": "திருவாலியமுதனார் பாடிய பதிகங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4",
+        "rationale": "திருவாலியமுதனார் 4 பதிகங்களைப் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "புருடோத்தம நம்பி.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "வேணாட்டடிகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "கருவூர்த்தேவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்கு."
+  },
+  {
+    "questionNumber": 245,
+    "question": "புருடோத்தம நம்பி பாடிய பதிகங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2",
+        "rationale": "புருடோத்தம நம்பி 2 பதிகங்களைப் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "rationale": "திருவாலியமுதனார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "சேதிராயர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "கருவூர்த்தேவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டு."
+  },
+  {
+    "questionNumber": 246,
+    "question": "திருவாலவாயுடையார் வாழ்ந்த காலம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 6ம் நூற்றாண்டு",
+        "rationale": "திருவாலவாயுடையார் கி.பி. 6ம் நூற்றாண்டைச் சேர்ந்தவர் என்று குறிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 11ம் நூற்றாண்டு",
+        "rationale": "கபிலதேவ நாயனார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 10ம் நூற்றாண்டு",
+        "rationale": "பட்டினத்தடிகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 5ம் நூற்றாண்டு",
+        "rationale": "காரைக்கால் அம்மையார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆறாம் நூற்றாண்டு."
+  },
+  {
+    "questionNumber": 247,
+    "question": "காரைக்கால் அம்மையார் பாடிய 'திருவாலங்காட்டு மூத்த திருப்பதிகம்' எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2",
+        "rationale": "திருவாலங்காட்டு மூத்த திருப்பதிகம் (2) என அட்டவணையில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "மொத்த நூல்கள் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டு."
+  },
+  {
+    "questionNumber": 248,
+    "question": "நக்கீரதேவ நாயனார் இயற்றிய 'திரு ஈங்கோய்மலை எழுபது' எத்தனையாவது நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்றாவது",
+        "rationale": "பட்டியலில் மூன்றாவதாக உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முதலாவது",
+        "rationale": "திருமுருகாற்றுப்படை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்தாவது",
+        "rationale": "திருவெழுகூற்றிருக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்தாவது",
+        "rationale": "பெருந்தேவபாணி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுபது."
+  },
+  {
+    "questionNumber": 249,
+    "question": "நக்கீரதேவ நாயனார் இயற்றிய நூல்களின் மொத்த எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10",
+        "rationale": "அட்டவணையில் நக்கீரதேவ நாயனார் இயற்றியதாக 10 நூல்கள் பட்டியலிடப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "rationale": "கபிலதேவ நாயனார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "பட்டினத்தடிகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "rationale": "நம்பியாண்டார் நம்பி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்து."
+  },
+  {
+    "questionNumber": 250,
+    "question": "கபிலதேவ நாயனார் வாழ்ந்த காலம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 11ம் நூற்றாண்டு",
+        "rationale": "கபிலதேவ நாயனார் காலம் கி.பி. 11ம் நூற்றாண்டு எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 10ம் நூற்றாண்டு",
+        "rationale": "பரண தேவ நாயனார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 6ம் நூற்றாண்டு",
+        "rationale": "நக்கீரதேவ நாயனார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 7ம் நூற்றாண்டு",
+        "rationale": "அதிரா அடிகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதினொன்று."
+  },
+  {
+    "questionNumber": 251,
+    "question": "அதிரா அடிகள் இயற்றிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூத்த பிள்ளையார் திருமும்மணிக்கோவை",
+        "rationale": "அதிரா அடிகள் மூத்த பிள்ளையார் திருமும்மணிக்கோவையை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவபெருமான் மும்மணிக்கோவை",
+        "rationale": "எம்பெருமானடிகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவாரூர் மும்மணிக்கோவை",
+        "rationale": "சேரமான் பெருமாள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்கழுமல மும்மணிக்கோவை",
+        "rationale": "பட்டினத்தடிகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூத்த பிள்ளையார்."
+  },
+  {
+    "questionNumber": 252,
+    "question": "எம்பெருமானடிகள் இயற்றிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவபெருமான் மும்மணிக்கோவை",
+        "rationale": "எம்பெருமானடிகள் சிவபெருமான் மும்மணிக்கோவையை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூத்த பிள்ளையார் திருமும்மணிக்கோவை",
+        "rationale": "அதிரா அடிகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேத்திர வெண்பா",
+        "rationale": "ஐயடிகள் காடவர்கோன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்கயிலாய ஞான உலா",
+        "rationale": "சேரமான் பெருமாள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மும்மணிக்கோவை."
+  },
+  {
+    "questionNumber": 253,
+    "question": "ஐயடிகள் காடவர்கோன் இயற்றிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேத்திர வெண்பா",
+        "rationale": "ஐயடிகள் காடவர்கோன் சேத்திர வெண்பாவை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மும்மணிக்கோவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவந்தாதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவுலா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெண்பா."
+  },
+  {
+    "questionNumber": 254,
+    "question": "நம்பியாண்டார் நம்பி இயற்றிய நூல்களின் மொத்த எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "9",
+        "rationale": "அட்டவணைப்படி 9 நூல்கள் பெயர்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "பட்டியல் 10 வரை செல்கிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒன்பது."
+  },
+  {
+    "questionNumber": 255,
+    "question": "திருவுந்தியார் எத்தனை தாழிசைகளைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "45",
+        "rationale": "திருவுந்தியார் 45 தாழிசைகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "திருக்களிற்றுப்படியார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "சிவஞான போதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "301",
+        "rationale": "சிவஞான சித்தியார் பரபக்கம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாற்பத்து ஐந்து."
+  },
+  {
+    "questionNumber": 256,
+    "question": "திருக்களிற்றுப்படியார் எத்தனை வெண்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100",
+        "rationale": "திருக்களிற்றுப்படியார் 100 வெண்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "45",
+        "rationale": "திருவுந்தியார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "55",
+        "rationale": "உண்மை விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "சிவஞான போதம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறு."
+  },
+  {
+    "questionNumber": 257,
+    "question": "சிவஞான சித்தியாரின் 'சுபக்கம்' எத்தனை பாடல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "328",
+        "rationale": "சுபக்கம் 328 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "301",
+        "rationale": "பரபக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "திருக்களிற்றுப்படியார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "129",
+        "rationale": "நெஞ்சு விடுதூது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முந்நூற்று இருபத்து எட்டு."
+  },
+  {
+    "questionNumber": 258,
+    "question": "சிவப்பிரகாசம் நூலில் உள்ள விருத்தப் பாக்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100",
+        "rationale": "சிவப்பிரகாசம் 100 விருத்தப் பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "55",
+        "rationale": "உண்மை விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "rationale": "இருபா இருபஃது.",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "rationale": "வினாவெண்பா.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறு."
+  },
+  {
+    "questionNumber": 259,
+    "question": "வினாவெண்பா எத்தனை வெண்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "13",
+        "rationale": "வினாவெண்பா 13 வெண்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "சிவப்பிரகாசம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "55",
+        "rationale": "உண்மை விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "கொடிக்கவி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதின்மூன்று."
+  },
+  {
+    "questionNumber": 260,
+    "question": "கொடிக்கவி எத்தனை வெண்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "கொடிக்கவி 5 வெண்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "13",
+        "rationale": "வினாவெண்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "rationale": "உண்மைநெறி விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "rationale": "இருபா இருபஃது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்து."
+  },
+  {
+    "questionNumber": 261,
+    "question": "உண்மைநெறி விளக்கம் எத்தனை பாடல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "உண்மைநெறி விளக்கம் 6 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "கொடிக்கவி.",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "rationale": "வினாவெண்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "சிவப்பிரகாசம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆறு."
+  },
+  {
+    "questionNumber": 262,
+    "question": "பொய்கையாழ்வார் பிறந்த காலம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 6 அல்லது 8",
+        "rationale": "பொய்கையாழ்வார் காலம் கி.பி. 6 அல்லது கி.பி. 8 எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 9",
+        "rationale": "நம்மாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 7",
+        "rationale": "திருமழிசை ஆழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆறு அல்லது எட்டு."
+  },
+  {
+    "questionNumber": 263,
+    "question": "திருமழிசை ஆழ்வார் பிறந்த ஊர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமழிசை",
+        "rationale": "தொண்டை நாட்டு திருமழிசை எனும் ஊரில் பிறந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயிலாப்பூர்",
+        "rationale": "பேயாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாமல்லபுரம்",
+        "rationale": "பூதத்தாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "பொய்கையாழ்வார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரிலேயே உள்ளது."
+  },
+  {
+    "questionNumber": 264,
+    "question": "நம்மாழ்வார் யாருடைய அவதாரம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆதிசேடன்",
+        "rationale": "நம்மாழ்வார் ஆதிசேடனின் அவதாரமாகக் கருதப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கதாயுதம்",
+        "rationale": "பூதத்தாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாஞ்சசன்யம்",
+        "rationale": "பொய்கையாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நந்தகம்",
+        "rationale": "பேயாழ்வார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாம்பணை."
+  },
+  {
+    "questionNumber": 265,
+    "question": "குலசேகர ஆழ்வாரின் சிறப்புப் பெயர்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொல்லிக்காவலன், கூடல் நாயகன், கோழிக்கோன்",
+        "rationale": "குலசேகர ஆழ்வார் தன்னை கொல்லிக்காவலன், கூடல் நாயகன், கோழிக்கோன் எனக் குறிப்பிடுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விஷ்ணுசித்தர், பட்டர்பிரான்",
+        "rationale": "பெரியாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சடகோபன், மாறன்",
+        "rationale": "நம்மாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரகாலன், கலியன்",
+        "rationale": "திருமங்கையாழ்வார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கொல்லிமலை."
+  },
+  {
+    "questionNumber": 266,
+    "question": "ஆண்டாள் பிறந்த ஊர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஸ்ரீவில்லிபுத்தூர்",
+        "rationale": "ஆண்டாள் ஸ்ரீவில்லிபுத்தூரில் பிறந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவரங்கம்",
+        "rationale": "திருப்பாணாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆழ்வார் திருநகரி",
+        "rationale": "நம்மாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "திருப்பாணாழ்வார் (சில குறிப்புகளில்), ஆனால் அட்டவணையில் திருவரங்கம் என்றுள்ளது திருப்பாணாழ்வாருக்கு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கோவில் கோபுரம்."
+  },
+  {
+    "questionNumber": 267,
+    "question": "திருமங்கையாழ்வார் பிறந்த ஊர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குறையலூர்",
+        "rationale": "திருமங்கையாழ்வார் சோழ நாட்டுத் திருமங்கை நாட்டு திருக்குறையலூரில் பிறந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவரங்கம்",
+        "rationale": "திருப்பாணாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஸ்ரீவில்லிபுத்தூர்",
+        "rationale": "ஆண்டாள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குருகூர்",
+        "rationale": "நம்மாழ்வார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறையலூர்."
+  },
+  {
+    "questionNumber": 268,
+    "question": "சிலப்பதிகாரத்தின் வேறு பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்தமிழ்க் காப்பியம், குடிமக்கள் காப்பியம்",
+        "rationale": "சிலப்பதிகாரம் முத்தமிழ்க் காப்பியம், குடிமக்கள் காப்பியம் எனவும் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மணிமேகலைத் துறவு",
+        "rationale": "மணிமேகலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மனநூல்",
+        "rationale": "சீவக சிந்தாமணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொங்குவேள் மாக்கதை",
+        "rationale": "பெருங்கதை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குடிமக்கள்."
+  },
+  {
+    "questionNumber": 269,
+    "question": "சீவக சிந்தாமணியின் வேறு பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மண நூல்",
+        "rationale": "சீவக சிந்தாமணி 'மண நூல்' என்றும் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "துறவு நூல்",
+        "rationale": "மணிமேகலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "குடிமக்கள் காப்பியம்",
+        "rationale": "சிலப்பதிகாரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல் இசை நாடக நூல்",
+        "rationale": "சிலப்பதிகாரம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமணம்."
+  },
+  {
+    "questionNumber": 270,
+    "question": "சீவக சிந்தாமணியில் உள்ள மொத்த பாடல்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3147",
+        "rationale": "சீவக சிந்தாமணி 3147 விருத்தப் பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "4286",
+        "rationale": "பெரியபுராணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "2330",
+        "rationale": "சூளாமணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "16,230",
+        "rationale": "பெருங்கதை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூவாயிரத்து நூற்று நாற்பத்து ஏழு."
+  },
+  {
+    "questionNumber": 271,
+    "question": "மணிமேகலை எத்தனை காதைகளைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "30",
+        "rationale": "மணிமேகலை 30 காதைகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "13",
+        "rationale": "சிந்தாமணி இலம்பகங்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "சிலப்பதிகார புகார்க்காண்ட காதைகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "rationale": "சிலப்பதிகார வஞ்சிக்காண்ட காதைகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முப்பது."
+  },
+  {
+    "questionNumber": 272,
+    "question": "குண்டலகேசியின் பெயர்க்காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுருள் சுருளாக கேசம் வளர்ந்ததால்",
+        "rationale": "துறவியான போது களைந்த கூந்தல் சுருள் சுருளாக (குண்டலமாக) வளர்ந்ததால் இப்பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீல நிற கேசம் உடையவள்",
+        "rationale": "நீலகேசி.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணிகலன் அணிந்தவள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காதில் குண்டலம் அணிந்தவள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சுருள் முடி."
+  },
+  {
+    "questionNumber": 273,
+    "question": "குண்டலகேசி நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாதகுத்தனார்",
+        "rationale": "குண்டலகேசி நூலின் ஆசிரியர் நாதகுத்தனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தோலாமொழித் தேவர்",
+        "rationale": "சூளாமணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருத்தக்கத் தேவர்",
+        "rationale": "சிந்தாமணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "கந்தியார்",
+        "rationale": "உதயணகுமார காவியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாதர்."
+  },
+  {
+    "questionNumber": 274,
+    "question": "நீலகேசி எந்த மதத்தைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சமணம்",
+        "rationale": "நீலகேசி சமண மதத்தைச் சார்ந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "குண்டலகேசி.",
+        "isCorrect": false
+      },
+      {
+        "text": "சைவம்",
+        "rationale": "பெரியபுராணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "கம்பராமாயணம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குண்டலகேசிக்கு எதிர்ப்பு."
+  },
+  {
+    "questionNumber": 275,
+    "question": "நீலகேசி எத்தனை சருக்கங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10",
+        "rationale": "நீலகேசி 10 சருக்கங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "rationale": "சூளாமணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "யசோதர காவியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "rationale": "உதயணகுமார காவியம் (காண்டங்கள்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்து."
+  },
+  {
+    "questionNumber": 276,
+    "question": "சூளாமணி எந்தக் கதையைக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திவிட்டன், விசயன் கதை",
+        "rationale": "சூளாமணி திவிட்டன், விசயன் கதையைக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உதயணன் கதை",
+        "rationale": "உதயணகுமார காவியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாககுமாரன் கதை",
+        "rationale": "நாககுமார காவியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலகேசி கதை",
+        "rationale": "நீலகேசி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திவிட்டன்."
+  },
+  {
+    "questionNumber": 277,
+    "question": "உதயணகுமார காவியம் எத்தனை காண்டங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "உதயணகுமார காவியம் 6 காண்டங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "யசோதர காவியம் (சருக்கம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "சூளாமணி (சருக்கம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "நீலகேசி (சருக்கம்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆறு."
+  },
+  {
+    "questionNumber": 278,
+    "question": "உதயணகுமார காவியம் எத்தனை பாடல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "369",
+        "rationale": "உதயணகுமார காவியம் 369 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "320",
+        "rationale": "யசோதர காவியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "170",
+        "rationale": "நாககுமார காவியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "894",
+        "rationale": "நீலகேசி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முந்நூற்று அறுபத்து ஒன்பது."
+  },
+  {
+    "questionNumber": 279,
+    "question": "நாககுமார காவியம் எத்தனை சருக்கங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "நாககுமார காவியம் 5 சருக்கங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "நீலகேசி.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "சூளாமணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "rationale": "உதயணகுமார காவியம் (காண்டம்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்து."
+  },
+  {
+    "questionNumber": 280,
+    "question": "பெருங்கதை எத்தனை காண்டங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "பெருங்கதை 5 காண்டங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "rationale": "கம்பராமாயணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "பெரியபுராணம் (சருக்கம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்து."
+  },
+  {
+    "questionNumber": 281,
+    "question": "கம்பராமாயணம் எத்தனை வகையான யாப்புகளைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "8",
+        "rationale": "கம்பராமாயணம் 8 வகை யாப்புகளைக் கொண்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "96",
+        "rationale": "சிற்றிலக்கிய வகைகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எட்டு."
+  },
+  {
+    "questionNumber": 282,
+    "question": "பெரியபுராணத்தின் மொத்த பாடல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4,286",
+        "rationale": "பெரியபுராணம் 4,286 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "3,147",
+        "rationale": "சிந்தாமணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "10,480",
+        "rationale": "கம்பராமாயணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "2,330",
+        "rationale": "சூளாமணி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்காயிரத்து இருநூற்று எண்பத்து ஆறு."
+  },
+  {
+    "questionNumber": 283,
+    "question": "வில்லிபாரதத்தில் வில்லிபுத்தூரார் பாடாத பருவங்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "8",
+        "rationale": "மொத்த பருவங்கள் 18, வில்லி பாடியது 10, எனவே பாடாதவை 8.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "பாடியவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "மொத்தம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொத்தம் பதினெட்டு."
+  },
+  {
+    "questionNumber": 284,
+    "question": "வில்லிபாரதத்தின் மொத்த பாடல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4,160",
+        "rationale": "வில்லிபாரதம் 4,160 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "15,300",
+        "rationale": "நல்லாப்பிள்ளை பாரதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4,286",
+        "rationale": "பெரியபுராணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "3,147",
+        "rationale": "சிந்தாமணி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்காயிரத்து நூற்று அறுபது."
+  },
+  {
+    "questionNumber": 285,
+    "question": "தொல்காப்பியச் சொல்லதிகாரத்திற்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேனாவரையர்",
+        "rationale": "தொல்காப்பியச் சொல்லதிகாரத்திற்குச் சேனாவரையர் உரை எழுதியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பேராசிரியர்",
+        "rationale": "பொருளதிகாரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "மூன்று அதிகாரங்களுக்கும் உரை எழுதியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "பொருளதிகாரம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சேனாவரையர்."
+  },
+  {
+    "questionNumber": 286,
+    "question": "வீரசோழியத்திற்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருந்தேவனார்",
+        "rationale": "வீரசோழியத்திற்குப் பெருந்தேவனார் உரை எழுதியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "நூலாசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தொல்காப்பிய உரை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இறையனார் களவியல் உரை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாரதம் பாடியவர் பெயர் கொண்டவர்."
+  },
+  {
+    "questionNumber": 287,
+    "question": "வீரசோழியம் எத்தனை நூற்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "183",
+        "rationale": "வீரசோழியம் 183 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "941",
+        "rationale": "இலக்கண விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "370",
+        "rationale": "தொன்னூல் விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1,288",
+        "rationale": "முத்துவீரியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று எண்பத்து மூன்று."
+  },
+  {
+    "questionNumber": 288,
+    "question": "இலக்கண விளக்கம் எத்தனை நூற்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "941",
+        "rationale": "இலக்கண விளக்கம் 941 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "183",
+        "rationale": "வீரசோழியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "370",
+        "rationale": "தொன்னூல் விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "462",
+        "rationale": "நன்னூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொள்ளாயிரத்து நாற்பத்து ஒன்று."
+  },
+  {
+    "questionNumber": 289,
+    "question": "தொன்னூல் விளக்கம் எத்தனை நூற்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "370",
+        "rationale": "தொன்னூல் விளக்கம் 370 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "183",
+        "rationale": "வீரசோழியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "941",
+        "rationale": "இலக்கண விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1,288",
+        "rationale": "முத்துவீரியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முந்நூற்று எழுபது."
+  },
+  {
+    "questionNumber": 290,
+    "question": "முத்துவீரியம் எத்தனை நூற்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1,288",
+        "rationale": "முத்துவீரியம் 1,288 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "941",
+        "rationale": "இலக்கண விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "370",
+        "rationale": "தொன்னூல் விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "183",
+        "rationale": "வீரசோழியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆயிரத்து இருநூற்று எண்பத்து எட்டு."
+  },
+  {
+    "questionNumber": 291,
+    "question": "நேமிநாதம் எத்தனை வெண்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "99",
+        "rationale": "நேமிநாதம் 99 வெண்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "462",
+        "rationale": "நன்னூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "131",
+        "rationale": "இலக்கணக் கொத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "rationale": "இறையனார் களவியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறுக்கு ஒன்று குறைவு."
+  },
+  {
+    "questionNumber": 292,
+    "question": "நன்னூல் எத்தனை நூற்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "462",
+        "rationale": "நன்னூல் 462 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "99",
+        "rationale": "நேமிநாதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "131",
+        "rationale": "இலக்கணக் கொத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "1,610",
+        "rationale": "தொல்காப்பியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நானூற்று அறுபத்து இரண்டு."
+  },
+  {
+    "questionNumber": 293,
+    "question": "பிரயோக விவேகம் எத்தனை காரிகைகளைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "51",
+        "rationale": "பிரயோக விவேகம் 51 காரிகைகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "99",
+        "rationale": "நேமிநாதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "131",
+        "rationale": "இலக்கணக் கொத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "44",
+        "rationale": "யாப்பருங்கலக் காரிகை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐம்பத்து ஒன்று."
+  },
+  {
+    "questionNumber": 294,
+    "question": "இறையனார் களவியல் எத்தனை நூற்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "60",
+        "rationale": "இறையனார் களவியல் 60 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "252",
+        "rationale": "நம்பியகப்பொருள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "rationale": "தமிழ்நெறி விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "363",
+        "rationale": "மாறனகப்பொருள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறுபது."
+  },
+  {
+    "questionNumber": 295,
+    "question": "நம்பியகப்பொருள் எத்தனை நூற்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "252",
+        "rationale": "நம்பியகப்பொருள் 252 நூற்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "rationale": "இறையனார் களவியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "363",
+        "rationale": "மாறனகப்பொருள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "rationale": "தமிழ்நெறி விளக்கம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருநூற்று ஐம்பத்து இரண்டு."
+  },
+  {
+    "questionNumber": 296,
+    "question": "யாப்பருங்கலக் காரிகை எத்தனை காரிகைகளைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "44",
+        "rationale": "யாப்பருங்கலக் காரிகை 44 காரிகைகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "96",
+        "rationale": "யாப்பருங்கலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "89",
+        "rationale": "காக்கை பாடினியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "361",
+        "rationale": "புறப்பொருள் வெண்பா மாலை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாற்பத்து நான்கு."
+  },
+  {
+    "questionNumber": 297,
+    "question": "வெண்பாப் பாட்டியல் எத்தனை வெண்பாக்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "103",
+        "rationale": "வெண்பாப் பாட்டியல் 103 வெண்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "360",
+        "rationale": "பன்னிரு பாட்டியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "இந்திரகாளியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "108",
+        "rationale": "நவநீதப் பாட்டியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று மூன்று."
+  },
+  {
+    "questionNumber": 298,
+    "question": "நவநீதப் பாட்டியல் எத்தனை செய்யுள்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "108",
+        "rationale": "நவநீதப் பாட்டியல் 108 செய்யுள்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "103",
+        "rationale": "வெண்பாப் பாட்டியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "360",
+        "rationale": "பன்னிரு பாட்டியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "இந்திரகாளியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூற்று எட்டு."
+  },
+  {
+    "questionNumber": 299,
+    "question": "வரையறுத்த பாட்டியல் எத்தனை பாடல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10",
+        "rationale": "வரையறுத்த பாட்டியல் 10 கட்டளைக் கலித்துறைப் பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "40",
+        "rationale": "இந்திரகாளியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "108",
+        "rationale": "நவநீதப் பாட்டியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "47",
+        "rationale": "சிதம்பரப் பாட்டியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்து."
+  },
+  {
+    "questionNumber": 300,
+    "question": "வண்ணத்தியல்பு நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குலாம் காதிறுப் புலவர்",
+        "rationale": "வண்ணத்தியல்பை குலாம் காதிறுப் புலவர் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தண்டபாணி சுவாமிகள்",
+        "rationale": "அறுவகை இலக்கணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரப்ப முதலியார்",
+        "rationale": "விருத்தப் பாவியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்துவீர உபாத்தியாயர்",
+        "rationale": "முத்துவீரியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புலவர்."
+  }
+]
