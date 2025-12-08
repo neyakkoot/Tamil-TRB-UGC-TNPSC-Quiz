@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தமிழ்நாட்டில் கடைச்சங்கம் எந்த நூற்றாண்டின் தொடக்கத்தில் அழிந்ததாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 5ஆம் நூற்றாண்டு",
+        "rationale": "கி.பி. 5ஆம் நூற்றாண்டு என்பது தவறான கணிப்பு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 3ஆம் நூற்றாண்டு",
+        "rationale": "கி.பி. 3ஆம் நூற்றாண்டின் தொடக்கத்தில் கடைச்சங்கம் அழிந்து போயிற்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 2ஆம் நூற்றாண்டு",
+        "rationale": "இது சங்க காலத்தின் ஒரு பகுதியாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 8ஆம் நூற்றாண்டு",
+        "rationale": "இது மிகவும் பிற்காலத்தைச் சார்ந்தது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பல்லவர்கள் காஞ்சியைக் கைப்பற்றிய காலத்திற்கு முந்தையது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "சங்கம் முடிவடைந்ததைத் தொடர்ந்த காலம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பக்தி காலம்",
+        "rationale": "பக்தி காலம் பல்லவர் காலத்தோடு தொடர்புடையது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கம் மருவிய காலம்",
+        "rationale": "சங்கம் முடிவடைந்ததைத் தொடர்ந்த காலகட்டம் 'சங்கம் மருவிய காலம்' எனப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடைச்சங்க காலம்",
+        "rationale": "இது சங்கம் இருந்த காலத்தைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நவீன காலம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சங்க காலத்திற்கு அடுத்த நிலை."
+  },
+  {
+    "questionNumber": 3,
+    "question": "தமிழ் இலக்கிய வரலாற்றில் 'இருண்ட காலம்' என்று அழைக்கப்படுவது எவருடைய ஆட்சிக்காலம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோழர் காலம்",
+        "rationale": "சோழர் காலம் பொற்காலம் எனப்படுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "களப்பிரர் காலம்",
+        "rationale": "களப்பிரர் படையெடுப்பால் கலைகள் பாழ்பட்டதால் இக்காலம் 'இருண்ட காலம்' எனப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பல்லவர் காலம்",
+        "rationale": "பல்லவர் காலம் பக்தி இலக்கியங்களின் காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாண்டியர் காலம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர்கள் பாலி, பிராகிருத மொழிகளை ஆதரித்தனர்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "கி.பி. 470-இல் மதுரையில் சங்கம் நிறுவியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வச்சிரநந்தி",
+        "rationale": "வச்சிரநந்தி என்ற சமண முனிவர் மதுரையில் சங்கம் நிறுவினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இளங்கோவடிகள்",
+        "rationale": "இவர் சிலப்பதிகார ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீத்தலைச் சாத்தனார்",
+        "rationale": "இவர் மணிமேகலை ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருத்தக்கதேவர்",
+        "rationale": "இவர் சீவகசிந்தாமணி ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் ஒரு சமணத் துறவி."
+  },
+  {
+    "questionNumber": 5,
+    "question": "பதினெண்கீழ்க்கணக்கு நூல்கள் எந்தப் பாவகையால் ஆனவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "சங்கப் பாடல்கள் ஆசிரியப்பாவால் ஆனவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "பதினெண்கீழ்க்கணக்கு நூல்கள் வெண்பா யாப்பில் அமைந்தவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "விருத்தப்பா",
+        "rationale": "காப்பியங்கள் விருத்தப்பாவால் ஆனவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "கலித்தொகை மட்டுமே கலிப்பாவால் ஆனது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டு அல்லது நான்கு அடிகளைக் கொண்டது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "இலக்கிய வழக்கில் 'கணக்கு' என்னும் சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எண்",
+        "rationale": "இது கணிதப் பொருள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூல்",
+        "rationale": "கணக்கு என்னும் சொல் 'நூல்' (Book) எனப் பொருள்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கணக்காயர் என்றால் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "பதினெண்கீழ்க்கணக்கு நூல்களின் இலக்கணத்தை வகுத்துக் கூறும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "இது பழந்தமிழ் இலக்கண நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னிருபாட்டியல்",
+        "rationale": "'அடிநிமிர் பில்லாச் செய்யுட் டொகுதி' என பன்னிருபாட்டியல் இலக்கணம் வகுக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "இது பிற்கால இலக்கண நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "இது யாப்பு இலக்கண நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாட்டியல் வகையைச் சார்ந்த நூல்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "பதினெண்கீழ்க்கணக்கில் உள்ள அகநூல்களின் எண்ணிக்கை எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "11",
+        "rationale": "11 நூல்கள் அறநூல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "rationale": "கார்நாற்பது, ஐந்திணை உள்ளிட்ட 6 நூல்கள் அகநூல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "rationale": "1 நூல் (களவழி) புறநூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "மொத்த நூல்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொத்த நூல்களில் மூன்றில் ஒரு பங்கு."
+  },
+  {
+    "questionNumber": 9,
+    "question": "பதினெண்கீழ்க்கணக்கில் உள்ள ஒரே ஒரு புறநூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா நாற்பது",
+        "rationale": "இது அறநூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "களவழி நாற்பது",
+        "rationale": "போர் பற்றி எழுந்த களவழி நாற்பது மட்டுமே புறநூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கார் நாற்பது",
+        "rationale": "இது அகநூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனியவை நாற்பது",
+        "rationale": "இது அறநூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போர்க்களத்தைப் பற்றிய நூல்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "திருக்குறளில் உள்ள மொத்த அதிகாரங்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1330",
+        "rationale": "இது குறட்பாக்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "133",
+        "rationale": "திருக்குறள் 133 அதிகாரங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "இது பால்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "1330 குறள்கள் உள்ளன."
+  },
+  {
+    "questionNumber": 11,
+    "question": "திருக்குறளின் 'அறத்துப்பால்' எத்தனை அதிகாரங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "70",
+        "rationale": "இது பொருட்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "38",
+        "rationale": "அறத்துப்பால் 38 அதிகாரங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "rationale": "இது காமத்துப்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "rationale": "இது துறவறவியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாயிரம், இல்லறம், துறவறம், ஊழ் ஆகியவற்றை உள்ளடக்கியது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "திருக்குறளுக்கு உரை எழுதிய பதின்மருள் யாருடைய உரை சிறந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணக்குடவர்",
+        "rationale": "இவர் முதன்மையானவர் ஆனால் சிறந்த உரை பரிமேலழகருடையது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிமேலழகர்",
+        "rationale": "பரிமேலழகர் உரையே மிக விளக்கமானது மற்றும் சிறந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தருமர்",
+        "rationale": "பழைய உரையாசிரியருள் ஒருவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காலிங்கர்",
+        "rationale": "பழைய உரையாசிரியருள் ஒருவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ப-வில் தொடங்கும் பெயர்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "திருக்குறளைப் போற்றிப் பாடும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாலடியார்",
+        "rationale": "இது மற்றொரு நீதி நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவள்ளுவ மாலை",
+        "rationale": "புலவர் பலர் பாடிய தொகுப்பு திருவள்ளுவ மாலை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழமொழி",
+        "rationale": "இது பதினெண்கீழ்க்கணக்கு நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரிகடுகம்",
+        "rationale": "இது மருந்துப் பெயர் கொண்ட நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வள்ளுவர் பெயரில் அமைந்த மாலை."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'அணுவைத் துளைத்தேழ் கடலைப் புகட்டிக் குறுகத் தரித்த குறள்' என்று பாடியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஔவையார்",
+        "rationale": "திருவள்ளுவ மாலையில் ஔவையார் இவ்வாறு பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிரபலமான பெண்பாற் புலவர்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "திருக்குறளை 'உலகப் பொதுமறை' என்று போற்றிய மேலைநாட்டு அறிஞர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஜி.யு. போப்",
+        "rationale": "இவர் ஆங்கிலத்தில் மொழிபெயர்த்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆல்பர்ட் ஷ்வைட்சர்",
+        "rationale": "இவர் திருக்குறளின் மனிதநேயத்தைப் போற்றியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கால்டுவெல்",
+        "rationale": "திராவிட மொழிகளை ஆராய்ந்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறத்துப்பால், பொருட்பாலின் ஞானத்தை வியந்தவர்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'உள்ளுதொறு உள்ளுதொறு உள்ளம் உருக்குமே' என்று திருக்குறளைப் பாராட்டியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாங்குடி மருதனார்",
+        "rationale": "திருவள்ளுவ மாலையில் மாங்குடி மருதனார் இவ்வாறு பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நப்பாலத்தனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரைத் தமிழ்நாகனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மதுரைக்காஞ்சி பாடியவர்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "திருக்குறளில் 'காமத்துப்பால்' எத்தனை அதிகாரங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "25",
+        "rationale": "களவியல் 7, கற்பியல் 18 என மொத்தம் 25 அதிகாரங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "38",
+        "rationale": "இது அறத்துப்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "rationale": "இது பொருட்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "133",
+        "rationale": "மொத்த அதிகாரங்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மிகக்குறைந்த அதிகாரங்களைக் கொண்ட பால்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'நாலும் இரண்டும் சொல்லுக்குறுதி' என்ற பழமொழியில் 'நாலும்' எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நானூறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாலடியார்",
+        "rationale": "நான்கு அடிகளைக் கொண்ட நாலடியாரைக் குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்மணிக்கடிகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாற்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமண முனிவர்கள் பாடிய நூல்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "நாலடியாரைத் தொகுத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பதுமனார்",
+        "rationale": "நாலடியாரை இயல் வகுத்துத் தொகுத்தவர் பதுமனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விளம்பி நாகனார்",
+        "rationale": "இவர் நான்மணிக்கடிகை ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூதன் சேந்தனார்",
+        "rationale": "இவர் இனியவை நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்றுறை அரையனார்",
+        "rationale": "இவர் பழமொழி ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாமரை என்ற பொருள் தரும் பெயர்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "நாலடியார் எத்தனை பாடல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "rationale": "நாலடியார் 400 வெண்பாக்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "500",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1330",
+        "rationale": "இது திருக்குறள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நானூறு பாடல்கள்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "நாலடியார் எந்தச் சமயத்தைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "சமண முனிவர்களால் பாடப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துறவறத்தை வலியுறுத்தும் சமயம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'கல்வி கரையில கற்பவர் நாள்சில' என்ற புகழ்பெற்ற வரி இடம்பெற்ற நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாலடியார்",
+        "rationale": "கல்வியின் சிறப்பைக் கூறும்போது நாலடியார் இவ்வாறு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழமொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்கு அடிகளைக் கொண்ட நூல்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "நான்மணிக்கடிகை நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காரியாசான்",
+        "rationale": "இவர் சிறுபஞ்சமூலம் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளம்பி நாகனார்",
+        "rationale": "விளம்பி என்ற ஊரைச் சேர்ந்த நாகனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "இவர் ஏலாதி ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "இவர் திரிகடுகம் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாம்பு என்ற பொருள் தரும் பெயரைக் கொண்டவர்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'கடிகை' என்ற சொல்லின் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடகம் அல்லது காப்பு",
+        "rationale": "கடிகை என்பது கையில் அணியும் அணிகலன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மோதிரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டியாணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கையில் அணியும் அணிகலன்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "நான்மணிக்கடிகைப் பாடல்களில் எத்தனை கருத்துகள் மணியாகக் கோக்கப்பட்டுள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "இது திரிகடுகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "ஒவ்வொரு பாடலிலும் நான்கு உண்மைகள் கூறப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "இது சிறுபஞ்சமூலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "இது ஏலாதி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரிலேயே விடை உள்ளது."
+  },
+  {
+    "questionNumber": 26,
+    "question": "இனியவை நாற்பது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூதன் சேந்தனார்",
+        "rationale": "மதுரைத் தமிழாசிரியர் மகனார் பூதன் சேந்தனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் இன்னா நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொய்கையார்",
+        "rationale": "இவர் களவழி நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணன் கூத்தனார்",
+        "rationale": "இவர் கார் நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பூதம் என்ற சொல் பெயரில் வரும்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'குழவி தளர்நடை காண்டல் இனிது' என்று கூறும் நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா நாற்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனியவை நாற்பது",
+        "rationale": "குழந்தையின் தளர்நடையைக் காண்பது இனிது என்று கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திரிகடுகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏலாதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இனிது என முடியும் பாடல்களைக் கொண்டது."
+  },
+  {
+    "questionNumber": 28,
+    "question": "இன்னா நாற்பது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் சங்க காலக் கபிலர் அல்லர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவ்வையார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறிஞ்சி பாடுவதில் வல்லவர்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'ஊனைத் தின்று ஊனைப் பெருக்குதல் முன்னின்னா' என்று பாடியவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வள்ளுவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இன்னா நாற்பதில் கபிலர் இவ்வாறு பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமூலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பட்டிணத்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இன்னா நாற்பது ஆசிரியர்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "கார் நாற்பது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரைக் கண்ணங் கூத்தனார்",
+        "rationale": "இவர் கார் காலத்தை வருணித்துப் பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூதன் சேந்தனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளம்பி நாகனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொய்கையார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கூத்துக்கலைஞரின் பெயர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "கார் நாற்பது எந்தத் திணைக்குரிய நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "கார்காலம் முல்லைத் திணைக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருதம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காடும் காடு சார்ந்த இடமும்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "களவழி நாற்பது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொய்கையார்",
+        "rationale": "இவர் கணைக்காலிரும்பொறையை விடுவிக்கப் பாடினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூதத்தாழ்வார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேயாழ்வார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நம்மாழ்வார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரு குளத்தின் பெயர்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "களவழி நாற்பது யாரைப் புகழ்ந்து பாடப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேரன் செங்குட்டுவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழன் செங்கணான்",
+        "rationale": "கழுமலப் போரில் வென்ற சோழன் செங்கணானைப் புகழ்ந்து பாடப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகால சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிலந்தி சோழனாகப் பிறந்த கதையுடையவர்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "களவழி நாற்பது பாடி விடுவிக்கப்பட்ட சிறைக்கைதி யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இராஜராஜ சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணைக்காலிரும்பொறை",
+        "rationale": "சிறைப்பட்ட சேர மன்னன் கணைக்காலிரும்பொறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "அதியமான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சேர மன்னர்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "திருக்குறளில் 'ஊழியல்' எந்தப் பாலில் அமைந்துள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருட்பால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறத்துப்பால்",
+        "rationale": "அறத்துப்பாலின் இறுதியில் ஊழியல் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காமத்துப்பால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனிபால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் பாலின் கடைசி பகுதி."
+  },
+  {
+    "questionNumber": 36,
+    "question": "நாலடியார் குறிப்பிடும் 'முத்தரையர்' எந்த நூற்றாண்டைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 7 அல்லது 8ஆம் நூற்றாண்டு",
+        "rationale": "இதனால் நாலடியார் இக்காலத்தில் எழுந்திருக்கலாம் எனக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 2ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 12ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.மு. 5ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பல்லவர் காலத்தின் பிற்பகுதி."
+  },
+  {
+    "questionNumber": 37,
+    "question": "கீழ்க்கணக்கு நூல்கள் எதனை முக்கியமாக வலியுறுத்துகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறம் (நீதி)",
+        "rationale": "சமுதாயச் சீர்கேட்டை நீக்க நீதி நெறிகள் வலியுறுத்தப்பட்டன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாழ்க்கைக்குத் தேவையான ஒழுக்கம்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'எண்ணும் எழுத்தும் இரண்டு கண்கள்' என்று கூறும் நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குறள்",
+        "rationale": "பொருட்பாலில் கல்வி அதிகாரத்தில் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆத்திசூடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வள்ளுவர் எழுதிய நூல்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'எல்லாப் பொருளும் இதன்பாலுள' என்று பாடியவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரைத் தமிழ்நாகனார்",
+        "rationale": "திருவள்ளுவ மாலையில் இவர் இவ்வாறு பாடியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்லாடர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இடைக்காடர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாகனார் என முடியும்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "திருக்குறள் தோன்றிய காலம் எதுவாக இருக்கலாம் எனக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சங்க காலம்",
+        "rationale": "சங்க மருவிய காலத்தின் தொடக்கம் அல்லது சங்க காலத்தை ஒட்டித் தோன்றியிருக்கலாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாயக்கர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மராத்தியர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நவீன காலம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கி.பி. 2ஆம் நூற்றாண்டை ஒட்டியது."
+  },
+  {
+    "questionNumber": 41,
+    "question": "நான்மணிக்கடிகை ஆசிரியர் எந்தச் சமயத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "திருமாலை (மாயவன்) போற்றிப் பாடியுள்ளதால் இவர் வைணவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சக்கரம் ஏந்திய கடவுளை வணங்குபவர்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "நாலடியாரில் 'கீழோர் செல்வம்' எதோடு ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொன்னால் செய்த செருப்பு",
+        "rationale": "கீழோர் செல்வம் பொன்னால் செய்த செருப்பு என்று நாலடியார் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குப்பையில் கிடக்கும் மணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விஷப் பாம்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாழடைந்த கிணறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காலில் அணியும் பொருள்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'ஆ வேறு உருவின ஆயினும்' - இந்த உவமை உணர்த்தும் உண்மை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பால் ஒன்றே",
+        "rationale": "இது உவமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறநெறி ஒன்று",
+        "rationale": "உருவங்கள் பலவாக இருந்தாலும் மெய்ம்மை (அறம்) ஒன்றே.",
+        "isCorrect": true
+      },
+      {
+        "text": "பசுக்கள் பல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிறங்கள் பல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடவுள் ஒருவரே போன்ற தத்துவம்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "பெண்ணுக்கு அழகு எது என்று நான்மணிக்கடிகை கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாணம்",
+        "rationale": "'பெண்மை நலத்துக் கணியென்ப நாணம்' என்று கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெட்கம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "கள்ளி வயிற்றில் பிறப்பது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகில்",
+        "rationale": "கள்ளி வயிற்றில் அகில் பிறக்கும் என்று நான்மணிக்கடிகை கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முத்து",
+        "rationale": "இது கடல் வயிற்றில் பிறப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாசனைத் திரவியம்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "இனியவை நாற்பது கடவுள் வாழ்த்து யாரைப் போற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மும்மூர்த்திகள்",
+        "rationale": "சிவன், திருமால், நான்முகன் ஆகிய மூவரையும் போற்றுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "படைத்தல், காத்தல், அழித்தல் கடவுளர்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "இன்னா நாற்பதில் 'ஆற்றல் இலாதான் பிடித்த படை' எப்படிப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா (துன்பம்)",
+        "rationale": "வலிமை இல்லாதவன் பிடித்த ஆயுதம் துன்பம் தரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழகு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பயனற்றது அல்லது ஆபத்தானது."
+  },
+  {
+    "questionNumber": 48,
+    "question": "நாய் நம்மைக் கடித்தால் நாம் திரும்பக் கடிக்கலாமா என்று வினவும் நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாலடியார்",
+        "rationale": "சினம் இன்மையை வலியுறுத்தும்போது இவ்வாறு கேட்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழமொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏலாதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமண முனிவர்கள் எழுதியது."
+  },
+  {
+    "questionNumber": 49,
+    "question": "திருக்குறளில் 'இல்லறம்' எத்தனை அதிகாரங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "20",
+        "rationale": "அறத்துப்பாலில் இல்லறவியல் 20 அதிகாரங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "38",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருபது."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'வள்ளுவனைப் பெற்றதால் பெற்றதே புகழ் வையகமே' என்று பாடியவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாரதிதாசன்",
+        "rationale": "பாரதிதாசன் இவ்வாறு பாடினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாரதியார்",
+        "rationale": "இவர் 'வான்புகழ் கொண்ட தமிழ்நாடு' என்றார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிமணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாமக்கல் கவிஞர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புரட்சிக்கவிஞர்."
+  }
+]

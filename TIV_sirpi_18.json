@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "பொய்கையார் யாரை மீட்கக் கருதிப் பாடியதாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இராஜராஜ சோழன்",
+        "rationale": "ஆவணத்தில் இராஜராஜ சோழன் பற்றிய குறிப்பு இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன் கணைக்காலிரும்பொறை",
+        "rationale": "உண்ணுநீர் வேண்டிப் பெறாது உயிர் துறந்ததாகப் புறநானூறு கூறும் சேரன் கணைக்காலிரும்பொறையை மீட்க பொய்கையார் பாடியிருக்கலாம் எனக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "இது தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "கரிகாலன் சோழ மன்னன், சேரன் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புறநானூற்றில் தண்ணீர் கிடைக்காமல் உயிர் துறந்ததாகக் கூறப்படும் சேர மன்னர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "யானையின் தும்பிக்கையிலிருந்து குருதி வழிவதை எதைப் பையிலிருந்து சொரிவது போல் உள்ளதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்து",
+        "rationale": "முத்து வெண்மை நிறமுடையது, குருதி சிவப்பானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவளம்",
+        "rationale": "கவளங்கொள் யானையின் கை துணிக்கப்பட்டு பவளம் சொரிதரும் பை போல் குருதி உமிழும் என்று பாடலில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "தங்கம் குருதி நிறத்திற்கு உவமையாகாது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாணிக்கம்",
+        "rationale": "மாணிக்கம் சிவப்பு என்றாலும், நூலில் பவளம் என்றே குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடலில் கிடைக்கும் ஒரு சிவந்த விலையுயர்ந்த பொருள்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "‘ஐந்திணை ஐம்பது’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூவாதியார்",
+        "rationale": "மூவாதியார் ஐந்திணை எழுபது நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாறன்பொறையனார்",
+        "rationale": "ஐந்திணை ஐம்பது நூலின் ஆசிரியர் மாறன்பொறையனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கண்ணன் சேந்தனார்",
+        "rationale": "கண்ணன் சேந்தனார் திணைமொழி ஐம்பது நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "கணிமேதாவியார் ஏலாதி மற்றும் திணைமாலை நூற்றைம்பது நூல்களின் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் அரசர்க்கு வரவு செலவு கணக்கெழுதும் பணியாளராய் இருந்திருக்கலாம் எனக் கருதப்படுகிறது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "ஐந்திணை ஐம்பது நூலில் கருமேகங்கள் யாருடைய நிறத்தைப் போன்றவை என்று வருணிக்கப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "சிவன் செம்மை நிறத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாயோன் (திருமால்)",
+        "rationale": "மாயோன் நிறம் போன்ற கருமுகில்கள் என்று நூலில் வருணிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "முருகன் ஒப்புமை வேலுக்குக் கூறப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இந்திரன் பற்றிய குறிப்பு இதில் இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விஷ்ணுவின் மற்றொரு பெயர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "ஐந்திணை ஐம்பது நூலில் முல்லை நிலத்து மலர்கள் யாருடைய மாலையைப் போல் மலர்ந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவனார் அணியும் கொன்றை",
+        "rationale": "சிவனார் அணியும் கொன்றை மலருமாறு வந்தன என்று காரின் எழுச்சி வருணிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால் அணியும் துளசி",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன் அணியும் கடம்பு",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசன் அணியும் வேம்பு",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சடைமுடித் தாதர் அணியும் மலர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "‘ஐந்திணை எழுபது’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காரியாசான்",
+        "rationale": "காரியாசான் சிறுபஞ்சமூலம் நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூவாதியார்",
+        "rationale": "ஐந்திணை எழுபது நூலின் ஆசிரியர் மூவாதியார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விளம்பிநாகனார்",
+        "rationale": "இவர் நான்மணிக்கடிகை ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "இவர் இனியவை நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமண முனிவர் என்று கருதப்படுபவர், ஆனால் சான்றுகள் இல்லை."
+  },
+  {
+    "questionNumber": 7,
+    "question": "ஐந்திணை எழுபது நூலில் தற்போது எத்தனை பாடல்கள் கிடைக்கின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "70",
+        "rationale": "நூல் 70 பாடல்களைக் கொண்டது என்றாலும் அனைத்தும் கிடைக்கவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "66",
+        "rationale": "70 பாடல்களில் தற்போது 66 பாடல்களே கிடைக்கின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "rationale": "இது ஐந்திணை ஐம்பதின் பாடல் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "இது தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொத்த பாடல்களான 70-ல் 4 குறைவு."
+  },
+  {
+    "questionNumber": 8,
+    "question": "ஐந்திணை எழுபது நூலின் கடவுள் வாழ்த்து யாரைப் போற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "ஆலம்சேர் கண்டத்தான் ஈன்ற களிற்றை (விநாயகரை) வாழ்த்துகிறது, சிவனை நேரடியாக அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "விநாயகர்",
+        "rationale": "‘ஆலம்சேர் கண்டத்தான் ஈன்ற களிற்றைக்’ கடவுள் வாழ்த்துப்பா ஏத்துகின்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யானை முகக் கடவுள்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "தலைவியின் கண்கள் சிவந்ததற்குக் காரணமாகத் தோழி கூறுவது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அழுதுகொண்டிருந்ததால்",
+        "rationale": "இது உண்மையான காரணம், ஆனால் தோழி கூறிய காரணம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூக்கமில்லாததால்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காட்டாற்றில் குளித்ததால்",
+        "rationale": "தலைவி அருவியில் குடைந்தாடியதால் கண்கள் சிவந்தன என்று தோழி அன்னைக்குக் காரணம் கூறுகிறாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெயிலில் நடந்ததால்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீராடுதல் தொடர்பான காரணம்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "‘திணைமொழி ஐம்பது’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்ணன் சேந்தனார்",
+        "rationale": "திணைமொழி ஐம்பது நூலின் ஆசிரியர் கண்ணன் சேந்தனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "நல்லாதனார் திரிகடுகம் நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்றுறையரையனார்",
+        "rationale": "இவர் பழமொழி நானூறு நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூடலூர்க்கிழார்",
+        "rationale": "இவர் முதுமொழிக்காஞ்சி நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சாத்தந்தையார் மகனார் என்று குறிப்பிடப்படுபவர்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "திணைமொழி ஐம்பது நூலில் அருவியின் ஒலிக்கு எதனை உவமையாகக் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இடி முழக்கம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசைக்கருவிகள் (யாழ், குழல், முழவு)",
+        "rationale": "யாழும் குழலும் முழவும் இயைந்தென வீழும் அருவி என்று இசைக்கருவிகளுடன் உவமிக்கின்றார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல் அலை",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை பிளிறல்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இனிய ஓசை எழுப்பும் கருவிகள்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "திணைமொழி ஐம்பதில் வரும் 'ஊரறி கௌவை' என்ற தொடர் எந்த நூலின் அடியுடன் ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்தொள்ளாயிரம்",
+        "rationale": "முத்தொள்ளாயிரத்தில் காணப்படும் 'நாடறி கௌவை தரும்' என்ற அடியுடன் ஒப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பராமாயணம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூவேந்தர்களைப் பற்றிப் பாடும் நூல்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "‘திணைமாலை நூற்றைம்பது’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "திணைமாலை நூற்றைம்பது மற்றும் ஏலாதி நூல்களின் ஆசிரியர் கணிமேதாவியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் குறிஞ்சிப்பாட்டு ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இவர் திருமுருகாற்றுப்படை ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "இவர் சங்கப் புலவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் ஏலாதி நூலையும் இயற்றியவர்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "கணிமேதாவியார் எந்தச் சமயத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "இவர் சமணராயிருந்தும் அகச்சுவை கனிந்த பாடல்களை இயற்றியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காரியாசானும் இவரும் ஒரே சமயத்தைச் சார்ந்தவர்கள்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "திணைமாலை நூற்றைம்பது நூலில் வெண்மணலுக்கு யாரை உவமையாகக் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாயோன்",
+        "rationale": "மாயோன் (திருமால்) மறிகடலுக்கு உவமையாகக் கூறப்பட்டுள்ளார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பலராமன்",
+        "rationale": "வெண்மணலுக்குப் பலராமனையும், கடலுக்கு மாயோனையும் உவமிக்கின்றார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணனின் அண்ணன்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "இம்மை வினை மறுமையில் பயன்தரும் என்பதை மறுத்து, இம்மையிலேயே பயன்தரும் என்று கூறும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குறள்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திணைமாலை நூற்றைம்பது",
+        "rationale": "‘இம்மையாற் செய்ததை இம்மையே ஆம்போலும்’ என்று திணைமாலை நூற்றைம்பது கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாலடியார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழமொழி",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கணிமேதாவியார் எழுதிய அகப்பொருள் நூல்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "‘திரிகடுகம்’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "திரிகடுகம் நூலின் ஆசிரியர் நல்லாதனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருத்து என்னும் ஊரைச் சார்ந்தவர்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "திரிகடுகம் குறிக்கும் மூன்று மருந்துப் பொருட்கள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஏலம், இலவங்கம், நாககேசரம்",
+        "rationale": "இவை ஏலாதிக்கு உரியவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுக்கு, மிளகு, திப்பிலி",
+        "rationale": "திரிகடுகம் என்பது சுக்கு, மிளகு, திப்பிலி ஆகிய மூன்று மருந்துப் பொருட்களைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடுக்காய், நெல்லிக்காய், தான்றிக்காய்",
+        "rationale": "இது திரிபலா.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீரகம், வெந்தயம், ஓமம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காரமான மூன்று மருத்துவப் பொருட்கள்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "திரிகடுகம் ஆசிரியர் நல்லாதனார் எந்தச் சமயத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "‘பூவைப் பூவண்ணன் அடி’யைப் புகழ்வதால் இவர் வைணவர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "காரியாசான், கணிமேதாவியார் சமணர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமாலை வழிபடுபவர்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "‘தாளாளன்’ என்பவன் யார் என்று திரிகடுகம் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்வம் உடையவன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடன்படாது வாழ்பவன்",
+        "rationale": "‘தாளாளன் என்பான் கடன்படா வாழ்பவன்’ என்று திரிகடுகம் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிஞன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிறரிடம் கடன் வாங்காமல் வாழும் முயற்சி உடையவன்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "திரிகடுகம் நூலின் படி, செல்வத்தை உடைக்கும் படை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோம்பல்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தன்னை வியந்து தருக்கல் (கர்வம்)",
+        "rationale": "‘தன்னை வியந்து தருக்கலும் செல்வம் உடைக்கும் படை’ என்று நூல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடை",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தன்னைப் பெரிதாக நினைத்து அகங்காரம் கொள்ளுதல்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "‘ஆசாரக்கோவை’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருவாயின் முள்ளியார்",
+        "rationale": "ஆசாரக்கோவையின் ஆசிரியர் கயத்தூர்ப் பெருவாயின் முள்ளியார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொய்கையார்",
+        "rationale": "இவர் களவழி நாற்பது பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கயத்தூர் என்னும் ஊரைச் சார்ந்தவர்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "ஆசாரக்கோவை எந்த மொழியின் நூல்களைத் தழுவி எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெலுங்கு",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி",
+        "rationale": "வடநூல்களில் இருடிகள் கூறிய ஆசாரங்களைத் தொகுத்துக் கூறுவதாகக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கன்னடம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையாளம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமஸ்கிருதம்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "ஆசாரக்கோவை கடவுள் வாழ்த்தில் யாரைப் போற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவபெருமான்",
+        "rationale": "கடவுள் வாழ்த்தில் சிவபிரானைப் போற்றுகின்றார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விநாயகர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முக்கண்ணன்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "ஆசாரக்கோவை நீராடும் போது தவிர்க்க வேண்டியதாக எதைக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குளிர்ந்த நீரில் குளிப்பது",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலை ஒழிந்து ஆடுதல் (தலையை நனைக்காமல் குளித்தல்)",
+        "rationale": "‘காய்ந்த தெனினும் தலையொழிந் தாடாரே’ என்று ஆசாரக்கோவை கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மஞ்சள் பூசி குளிப்பது",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பர்களுடன் குளிப்பது",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடல் முழுதும் நனைந்தும் இதை நனைக்காமல் இருக்கக் கூடாது."
+  },
+  {
+    "questionNumber": 26,
+    "question": "பெரியோர் முன் செய்யக்கூடாத செயல்களில் ஒன்று எது என ஆசாரக்கோவை கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வணங்குதல்",
+        "rationale": "இது செய்ய வேண்டிய செயல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொட்டாவி விடுதல்",
+        "rationale": "நகையொடு கொட்டாவி, காறிப்பு, தும்மல் ஆகியவற்றை பெரியோர் முன் செய்யக்கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அமைதியாக இருத்தல்",
+        "rationale": "இது நல்ல பண்பு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேசுதல்",
+        "rationale": "தேவையெனில் பேசலாம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தூக்கம் வரும்போது வருவது."
+  },
+  {
+    "questionNumber": 27,
+    "question": "‘பழமொழி நானூறு’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்றுறையரையனார்",
+        "rationale": "பழமொழியின் ஆசிரியர் முன்றுறையரையனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒளவையார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முன்றுறை என்னும் ஊரைச் சேர்ந்த அரையர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "பழமொழி நானூறு நூலில் ஒவ்வொரு பாடலின் இறுதியில் என்ன இடம்பெறும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விடுகதை",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழமொழி",
+        "rationale": "ஒவ்வொரு வெண்பாவின் இறுதியிலும் ஒரு பழமொழி இடம்பெறும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமை",
+        "rationale": "உவமை இருக்கலாம், ஆனால் பழமொழி கட்டாயம் இருக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேள்வி",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதுமொழி."
+  },
+  {
+    "questionNumber": 29,
+    "question": "முன்றுறையரையனார் எந்தச் சமயத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "இவர் அருகதேவனைப் பாடியுள்ளதால் சமணர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிறித்தவம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அருகனை வழிபடுபவர்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "‘நுணலும் தன் வாயால் கெடும்’ என்ற பழமொழியில் ‘நுணல்’ என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாம்பு",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவளை",
+        "rationale": "நுணல் என்பது தவளையைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மீன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆமை",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீரிலும் நிலத்திலும் வாழும், சத்தம் போடும் உயிரி."
+  },
+  {
+    "questionNumber": 31,
+    "question": "‘சிறுபஞ்சமூலம்’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காரியாசான்",
+        "rationale": "சிறுபஞ்சமூலத்தின் ஆசிரியர் காரியாசான் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "இவர் ஏலாதி ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "இவர் திரிகடுகம் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "இவர் இனியவை நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மாக்காயனாரின் மாணவர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "சிறுபஞ்சமூலம் குறிப்பிடும் மருந்துப் பொருட்களின் எண்ணிக்கை யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "இது திரிகடுகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "கண்டங்கத்திரி, சிறுவழுதுணை, சிறுமல்லி, பெருமல்லி, நெருஞ்சி என 5 வேர்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "rationale": "இது ஏலாதி.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "இது நான்மணிக்கடிகை (கருத்துக்கள்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பஞ்ச பாண்டவர் எண்ணிக்கை."
+  },
+  {
+    "questionNumber": 33,
+    "question": "சிறுபஞ்சமூலத்தின் படி உண்மையான வனப்பு (அழகு) எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண் வனப்பு",
+        "rationale": "இது நிலையற்றது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூற்கிசைந்த சொல்லின் வனப்பு",
+        "rationale": "கண், மார்பு, உகிர், காது வனப்பை விட சொல்லின் வனப்பே உண்மையான வனப்பு என்று நூல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தோள் வனப்பு",
+        "rationale": "இது நிலையற்றது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல் வனப்பு",
+        "rationale": "இது நிலையற்றது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுடையோர் பேசும் பேச்சு."
+  },
+  {
+    "questionNumber": 34,
+    "question": "பசுவை ஏமாற்றிப் பால் கறக்க எதைக் காட்டுவதை சிறுபஞ்சமூலம் கண்டிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்",
+        "rationale": "இது இயல்பானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோற்கன்று (தோலால் செய்த கன்று)",
+        "rationale": "‘தோற்கன்று காட்டிக் கறவார்’ என்று போலித்தனத்தைச் சாடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தண்ணீர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பருத்தி",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உயிரில்லாத கன்று பொம்மை."
+  },
+  {
+    "questionNumber": 35,
+    "question": "‘முதுமொழிக்காஞ்சி’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கூடலூர்க்கிழார்",
+        "rationale": "முதுமொழிக்காஞ்சியின் ஆசிரியர் கூடலூர்க்கிழார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாங்குடி மருதனார்",
+        "rationale": "இவர் மதுரைக்காஞ்சி ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒளவையார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புலத்துறை முற்றிய என்ற அடைமொழியால் சிறப்பிக்கப்படுபவர்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "முதுமொழிக்காஞ்சியில் உள்ள பாடல்களின் எண்ணிக்கை எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "50",
+        "rationale": "இது ஐந்திணை ஐம்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "10 அதிகாரங்கள், ஒவ்வொன்றிலும் 10 பாடல்கள் என மொத்தம் 100 பாடல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "400",
+        "rationale": "இது பழமொழி.",
+        "isCorrect": false
+      },
+      {
+        "text": "81",
+        "rationale": "இது ஏலாதி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்து பத்துகள்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "முதுமொழிக்காஞ்சி பாடல்கள் எவ்வாறு தொடங்குகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாழிய செந்தமிழ்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆர்கலி உலகத்து மக்கட்கெல்லாம்",
+        "rationale": "ஒவ்வொரு பாடலும் 'ஆர்கலி யுலகத்து மக்கட் கெல்லாம்' என்று தொடங்குகின்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உலகம் யாவையும்",
+        "rationale": "இது கம்பராமாயணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகர முதல",
+        "rationale": "இது திருக்குறள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடல் சூழ்ந்த உலகின் மக்களுக்கு."
+  },
+  {
+    "questionNumber": 38,
+    "question": "‘கற்றலிற் சிறந்தது’ எது என்று முதுமொழிக்காஞ்சி கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்வம் ஈட்டல்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கற்றாரை வழிபடுதல்",
+        "rationale": "‘கற்றலிற் கற்றாரை வழிபடுதல் சிறந்தன்று’ என்று நூல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தானம் செய்தல்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் செய்தல்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுடையோரைப் போற்றுதல்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "‘ஏலாதி’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "ஏலாதி மற்றும் திணைமாலை நூற்றைம்பது நூல்களின் ஆசிரியர் கணிமேதாவியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காரியாசான்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூவாதியார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திணைமாலை நூற்றைம்பது பாடியவர்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "ஏலாதி மருந்துப் பொருளில் ‘ஏலம்’ எத்தனை பங்கு இருக்க வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரு பங்கு",
+        "rationale": "ஏலம் ஒரு பங்கும், இலவங்கம் இரண்டு, நாககேசரம் மூன்று என நூல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு பங்கு",
+        "rationale": "இது இலவங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று பங்கு",
+        "rationale": "இது நாககேசரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு பங்கு",
+        "rationale": "இது மிளகு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் பொருள்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "ஏலாதி எத்தகைய செயலின் சிறப்பை வலியுறுத்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவம் செய்தல்",
+        "rationale": "முக்கியத்துவம் கொடுத்தாலும், உணவு வழங்கலே முதன்மையானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உணவும் உடையும் வழங்குதல் (தானம்)",
+        "rationale": "எளியோர்க்கு உணவும் உடையும் வழங்குவதன் சிறப்பை எடுத்துரைத்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோயில் கட்டுதல்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல் பாடுதல்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பசித்தவர்களுக்கு சோறிடுதல்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "ஏலாதியில் 'தொண்டு' என்ற சொல் எந்த எண்ணைக் குறிக்கப் பயன்படுத்தப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒன்பது",
+        "rationale": "தொண்டு என்ற சொல்லை ஒன்பது என்ற பொருளில் கையாண்டுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பத்து",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆயிரம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூறு",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்துக்கு ஒன்று குறைவு."
+  },
+  {
+    "questionNumber": 43,
+    "question": "‘கைந்நிலை’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லங்காடனார்",
+        "rationale": "கைந்நிலையின் ஆசிரியர் மாறோகத்து முள்ளிநாட்டு நல்லூர்க் காவிதியார் மகனார் புல்லங்காடனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொய்கையார்",
+        "rationale": "இவர் இன்னிலை பாடியதாகக் கூறுவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மாறோகத்து நல்லூரைச் சேர்ந்தவர்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "கைந்நிலை நூலின் மற்றொரு பெயர் என்னவாக இருக்கலாம் எனக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்திணை அறுபது",
+        "rationale": "ஐந்திணைக்கு 12 பாடல்கள் வீதம் 60 பாடல்கள் உள்ளதால் இதனை 'ஐந்திணை அறுபது' என்பாரும் உளர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்திணை எழுபது",
+        "rationale": "இது வேறு நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திணைமாலை ஐம்பது",
+        "rationale": "இப்பெயரில் நூலில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திணைமொழி அறுபது",
+        "rationale": "இப்பெயரில் நூலில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் எண்ணிக்கையை அடிப்படையாகக் கொண்ட பெயர்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "‘கை’ என்ற சொல்லுக்குக் கைந்நிலையில் என்ன பொருள் கொள்ளப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உறுப்பு",
+        "rationale": "இது பொதுப்பொருள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒழுக்கம்",
+        "rationale": "‘கை’ என்ற சொல்லுக்கு ஒழுக்கம் என்பது பொருள். நல்லொழுக்க நெறி கூறுவதால் இப்பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறிய",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழகு",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்ல நடத்தை."
+  },
+  {
+    "questionNumber": 46,
+    "question": "‘இன்னிலை’ நூலை இயற்றியவர் யார் எனக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொய்கையார்",
+        "rationale": "பொய்கையார் இதனைப் பாடினார் என்பர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூதத்தாழ்வார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேயாழ்வார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமழிசையாழ்வார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "களவழி நாற்பது பாடியவர்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "இன்னிலை நூலில் எத்தனை பாடல்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "40",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "45",
+        "rationale": "இன்னிலை நூலில் 45 பாடல்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "rationale": "இது கைந்நிலை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாற்பத்து ஐந்து."
+  },
+  {
+    "questionNumber": 48,
+    "question": "ஆசாரக்கோவை ஆசிரியர் பெருவாயின் முள்ளியார் எந்த ஊரைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரை",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கயத்தூர்",
+        "rationale": "இவர் கயத்தூர் என்னும் ஊரினர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கயத்தாறு என்று இன்று அழைக்கப்படலாம்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "திணைமொழி ஐம்பதில் தலைவி தன்னை எதற்கு உவமையாகக் கூறுகிறாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கரும்பின் கோது (சக்கை)",
+        "rationale": "‘கரும்பின் கோதாயினேம் யாம்’ என்று தலைவி தன்னைப் பற்றிக் கூறுகிறாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாடிய மலர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உடைந்த வளையல்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காய்ந்த இலை",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சாறு பிழிந்த கரும்பு."
+  },
+  {
+    "questionNumber": 50,
+    "question": "சிறுபஞ்சமூலம் நூலின் படி, நகைப்புக்குரிய செயல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாணமில்லாதவன் சால்பு",
+        "rationale": "‘நாணிலான் சால்பும்... நகை’ என்று பாடல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரனின் வெற்றி",
+        "rationale": "இது பெருமைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவனின் பாட்டு",
+        "rationale": "இது சிறப்பானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வள்ளலின் கொடை",
+        "rationale": "இது சிறப்பானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெட்கம் இல்லாதவன் பெருமை பேசுவது."
+  }
+]
