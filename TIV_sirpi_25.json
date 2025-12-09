@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தமிழக வரலாற்றில் எக்காலம் 'காப்பிய காலம்' என்று அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சங்க காலம்",
+        "rationale": "சங்க காலம் தனிப்பாடல்களுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவர் காலம்",
+        "rationale": "பல்லவர் காலம் பக்தி இலக்கியத்திற்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழர் காலம்",
+        "rationale": "சோழர் ஆட்சியில்தான் பல காப்பியங்கள் தோன்றின.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாயக்கர் காலம்",
+        "rationale": "நாயக்கர் காலம் சிற்றிலக்கியங்களுக்கு உரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இக்காலத்தில் தான் கம்பராமாயணம், பெரியபுராணம் போன்றவை தோன்றின."
+  },
+  {
+    "questionNumber": 2,
+    "question": "பெருங்காப்பியத்தின் இலக்கணத்தை வகுத்துக் கூறும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "இது பொதுவான இலக்கண நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "இது எழுத்து, சொல் இலக்கணம் சார்ந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தண்டியலங்காரம்",
+        "rationale": "இது காப்பியத்தின் இலக்கணத்தை விரிவாகக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாப்பருங்கலக்காரிகை",
+        "rationale": "இது யாப்பு இலக்கணம் சார்ந்தது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது வடமொழி நூலைத் தழுவி எழுதப்பட்ட அணி இலக்கண நூல்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "'ஐம்பெருங்காப்பியம்' என்ற தொடரை முதன்முதலில் கையாண்டவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயிலைநாதர்",
+        "rationale": "நன்னூல் உரையாசிரியர் மயிலைநாதரே இத்தொடரை முதலில் கையாண்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "இவர் உரையாசிரியர், ஆனால் இத்தொடரை முதலில் கையாண்டவர் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடியார்க்கு நல்லார்",
+        "rationale": "சிலப்பதிகார உரையாசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தொல்காப்பிய உரையாசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் நன்னூலுக்கு உரை எழுதியவர்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "ஐம்பெருங்காப்பியங்களின் பெயர்களைக் குறிப்பிட்ட பிற்கால நூலாசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கந்தப்பத் தேசிகர்",
+        "rationale": "திருத்தணிகைலாயாவுலாவில் இவர் பெயர்களைக் குறிப்பிடுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவஞான முனிவர்",
+        "rationale": "இவர் வேறு காலத்தைச் சேர்ந்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீனாட்சிசுந்தரம் பிள்ளை",
+        "rationale": "இவர் 19ஆம் நூற்றாண்டு மகாவித்வான்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறுமுக நாவலர்",
+        "rationale": "இவர் உரைநடை முன்னோடி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் 19-ஆம் நூற்றாண்டைச் சேர்ந்தவர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "இரட்டைக் காப்பியங்கள் என்று அழைக்கப்படுபவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலப்பதிகாரம் - சீவகசிந்தாமணி",
+        "rationale": "கதைத் தொடர்பு இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணிமேகலை - குண்டலகேசி",
+        "rationale": "இரண்டும் பௌத்த நூல்கள், ஆனால் இரட்டை காப்பியம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம் - மணிமேகலை",
+        "rationale": "கதை மற்றும் காலத் தொடர்புடையதால் இவை இரட்டைக் காப்பியங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வளையாபதி - குண்டலகேசி",
+        "rationale": "வேறு வேறு சமய நூல்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கோவலன், கண்ணகி, மாதவி கதையோடு தொடர்புடைய இரு நூல்கள்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "சீவகசிந்தாமணியின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கம்பர்",
+        "rationale": "கம்பர் இராமாயணம் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருத்தக்க தேவர்",
+        "rationale": "சோழர் குலத்தைச் சேர்ந்த இவர் சிந்தாமணியை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சேக்கிழார்",
+        "rationale": "பெரியபுராணம் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டக்கூத்தர்",
+        "rationale": "மூவருலா பாடியவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் 'நரி விருத்தம்' என்ற நூலையும் எழுதியுள்ளார்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "சீவகசிந்தாமணிக்கு வழங்கப்படும் சிறப்புப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காதல் நூல்",
+        "rationale": "பொதுவான பெயர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணநூல்",
+        "rationale": "சீவகன் பல திருமணங்களைச் செய்வதால் இப்பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறநூல்",
+        "rationale": "பொதுவான பெயர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மறநூல்",
+        "rationale": "வீரத்தை மட்டும் கூறுவதல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாயகனின் திருமணங்களை மையமாகக் கொண்டது."
+  },
+  {
+    "questionNumber": 8,
+    "question": "சீவகசிந்தாமணி எத்தனை இலம்பகங்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10",
+        "rationale": "தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "rationale": "நாமகள் இலம்பகம் முதல் முக்தி இலம்பகம் வரை 13 பிரிவுகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "rationale": "தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது பதின்மூன்று பிரிவுகளைக் கொண்டது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "சீவகசிந்தாமணியில் சீவகன் எத்தனை மகளிரை மணக்கிறான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "பஞ்சபாண்டவர் மனைவி திரௌபதி போல அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "எண்மர் மனைவியர் என்று குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "தசாவதாரம் போல அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காந்தருவதத்தை முதல் இலக்கணை வரை."
+  },
+  {
+    "questionNumber": 10,
+    "question": "சீவகசிந்தாமணிக்குச் சிறந்த உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "இவர் சிந்தாமணிக்கு விரிவான உரை எழுதியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரிமேலழகர்",
+        "rationale": "திருக்குறள் உரையாசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடியார்க்கு நல்லார்",
+        "rationale": "சிலப்பதிகார உரையாசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேராசிரியர்",
+        "rationale": "தொல்காப்பிய உரையாசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உச்சிமேற் புலவர்கொள் என்று போற்றப்படுபவர்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "திருத்தக்க தேவர் எழுதிய மற்றொரு நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சூளாமணி",
+        "rationale": "தோலாமொழித்தேவர் எழுதியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நரி விருத்தம்",
+        "rationale": "நிலையாமையை உணர்த்தும் சிறிய நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யசோதர காவியம்",
+        "rationale": "வேறு ஆசிரியர் எழுதியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலகேசி",
+        "rationale": "ஆசிரியர் பெயர் தெரியவில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரு விலங்கின் பெயரைத் தலைப்பில் கொண்டது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "வளையாபதி காப்பியம் எந்தச் சமயத்தைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பௌத்தம்",
+        "rationale": "குண்டலகேசி பௌத்தம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "வளையாபதி ஒரு சமணக் காப்பியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சைவம்",
+        "rationale": "பெரியபுராணம் சைவம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "கம்பராமாயணம் வைணவம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐம்பெருங்காப்பியங்களில் மூன்று இச்சமயத்தைச் சார்ந்தவை."
+  },
+  {
+    "questionNumber": 13,
+    "question": "வளையாபதியில் தற்போது எத்தனை பாடல்கள் கிடைத்துள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "72",
+        "rationale": "புறத்திரட்டு மற்றும் உரைகள் மூலம் கிடைத்தவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறான தகவல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "35",
+        "rationale": "இது வைசிய புராண சருக்க எண்.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "இவ்வளவு பாடல்கள் கிடைக்கவில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூல் முழுமையாகக் கிடைக்கவில்லை."
+  },
+  {
+    "questionNumber": 14,
+    "question": "வளையாபதியின் கதை எந்த புராணத்தில் காணப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெரிய புராணம்",
+        "rationale": "சைவ அடியார்கள் வரலாறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைசிய புராணம்",
+        "rationale": "நவகோடி நாராயணன் கதையாக இதில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கந்த புராணம்",
+        "rationale": "முருகன் வரலாறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மச்ச புராணம்",
+        "rationale": "விஷ்ணு அவதாரம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வணிகர் குலத்தைப் பற்றிய புராணம்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "குண்டலகேசி காப்பியத்தின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாதகுத்தனார்",
+        "rationale": "நாகுதத்தனார் என்றும் அழைக்கப்படுவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருத்தக்க தேவர்",
+        "rationale": "சிந்தாமணி ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளங்கோவடிகள்",
+        "rationale": "சிலப்பதிகார ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீத்தலைச் சாத்தனார்",
+        "rationale": "மணிமேகலை ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் ஒரு பௌத்த துறவி."
+  },
+  {
+    "questionNumber": 16,
+    "question": "குண்டலகேசிக்கு மறுப்பாக எழுந்த நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணிமேகலை",
+        "rationale": "இது பௌத்த நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலகேசி",
+        "rationale": "பௌத்தத்தை மறுத்து சமணத்தை நிலைநாட்ட எழுந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சூளாமணி",
+        "rationale": "கதை தழுவிய காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யசோதர காவியம்",
+        "rationale": "நீதி நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது ஐஞ்சிறு காப்பியங்களில் ஒன்று."
+  },
+  {
+    "questionNumber": 17,
+    "question": "குண்டலகேசியின் கணவன் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கோவலன்",
+        "rationale": "கண்ணகியின் கணவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காளன்",
+        "rationale": "கள்வனாக இருந்து கணவனானவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சீவகன்",
+        "rationale": "சிந்தாமணி நாயகன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதயணன்",
+        "rationale": "உதயண குமார காவிய நாயகன்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் ஒரு கள்வன்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "ஐஞ்சிறு காப்பியங்கள் அனைத்தும் எந்தச் சமயத்தைச் சார்ந்தவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "ஐஞ்சிறு காப்பியங்கள் அனைத்தும் சமண நூல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறம், பொருள், இன்பம், வீடு என்பதில் குறைபாடுடைய சமண நூல்கள்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "ஐஞ்சிறு காப்பியங்களில் இலக்கியச் செறிவு மிக்கதாகக் கருதப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நீலகேசி",
+        "rationale": "வாதம் நிறைந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூளாமணி",
+        "rationale": "சிந்தாமணிக்கு நிகரான சுவை உடையது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாககுமார காவியம்",
+        "rationale": "சிறிய நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யசோதர காவியம்",
+        "rationale": "அறக்கருத்து முதன்மையானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விருத்தப்பாவால் அமைந்த பெரிய நூல்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "சூளாமணியின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தோலாமொழித்தேவர்",
+        "rationale": "இவர் சூளாமணியை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருத்தக்க தேவர்",
+        "rationale": "சிந்தாமணி ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஜயங்கொண்டார்",
+        "rationale": "கலிங்கத்துப்பரணி ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழேந்தி",
+        "rationale": "நளவெண்பா ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆர்க்கும் தோலாத நாவினர்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "சூளாமணி கதை யாரை ஒத்துள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இராமன் - இலக்குவன்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணன் - பலராமன்",
+        "rationale": "திவிட்டன் - விசயன் கதை இவர்களை ஒத்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பீமன் - அருச்சுனன்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வல்லி - சுக்ரீவன்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாகவத புராணக் கதையைத் தழுவியது."
+  },
+  {
+    "questionNumber": 22,
+    "question": "நீலகேசியின் உரையாசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சமய திவாகர வாமன முனிவர்",
+        "rationale": "இவர் நீலகேசிக்கு உரை எழுதியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அடியார்க்கு நல்லார்",
+        "rationale": "சிலப்பதிகார உரை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "சிந்தாமணி உரை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெரியவாச்சான் பிள்ளை",
+        "rationale": "நாலாயிர திவ்ய பிரபந்த உரை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மணிப்பிரவாள நடையில் உரை எழுதியவர்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "நீலகேசியில் நீலி யாரை மயக்க முயன்றாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முனிசந்திரர்",
+        "rationale": "பாலாலயத்தில் இருந்த இம்முனிவரை மயக்க முயன்றாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அர்த்தசந்திரன்",
+        "rationale": "வாதம் செய்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொக்கலன்",
+        "rationale": "பௌத்தத் துறவி.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூரணர்",
+        "rationale": "ஆசீவகத் தலைவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சயம்பவை என்ற உருவம் கொண்டு மயக்கினாள்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "யசோதர காவியம் எதனை முக்கியமாகக் கண்டிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உயிர்க்கொலை",
+        "rationale": "உயிர்பலி இடுவது தீது என உணர்த்துகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொய்மை",
+        "rationale": "இதுவும் தவறுதான், ஆனால் முதன்மை மையக்கருத்து உயிர்க்கொலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "களவு",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூது",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சண்டமாரிக்கு பலியிடுவதைத் தடுக்கும் கதை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "யசோதர காவியத்தில் வரும் மன்னன் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாரிதத்தன்",
+        "rationale": "இவன் உயிர்ப்பலி கொடுக்க முயன்றான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உதயணன்",
+        "rationale": "வேறு காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாககுமாரன்",
+        "rationale": "வேறு காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பயாபதி",
+        "rationale": "சூளாமணி மன்னன்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவன் அபயருசி, அபயமதியைக் கொல்ல முயன்றான்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "உதயண குமார காவியம் எத்தனை காண்டங்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "ஆறு காண்டங்களை உடையது.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிலப்பதிகாரத்தை விட இரண்டு மடங்கு காண்டங்கள் (எண்ணிக்கையில் மட்டும்)."
+  },
+  {
+    "questionNumber": 27,
+    "question": "நாககுமார காவியம் எந்த வடமொழி நூலைத் தழுவியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாகபஞ்சமி",
+        "rationale": "மல்லிசேனர் எழுதிய நாகபஞ்சமி.",
+        "isCorrect": true
+      },
+      {
+        "text": "குமாரசம்பவம்",
+        "rationale": "காளிதாசர் நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரகுவம்சம்",
+        "rationale": "காளிதாசர் நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிசுபாலவதம்",
+        "rationale": "மகாகவி நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாம்புகளோடு தொடர்புடைய பெயர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "சீவகசிந்தாமணியின் மூல நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "க்ஷத்ர சூடாமணி",
+        "rationale": "வடமொழியில் உள்ள இந்நூலைத் தழுவியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இராமாயணம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகாபாரதம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாகவதம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாதீப சிம்மர் இயற்றிய வடமொழி நூல்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "சீவகசிந்தாமணியில் 'பேதைமை என்னும் வித்திற்...' பாடல் எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாழ்க்கை தத்துவம்",
+        "rationale": "வாழ்க்கையை ஒரு மரமாக உருவகப்படுத்தித் துன்பத்தை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் முறை",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காதல் சுவை",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயற்கை வளம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆசையே துன்பத்திற்குக் காரணம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "வளையாபதியை 'கவியழகு வேண்டி' நினைத்ததாகக் கூறியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தக்கயாகப்பரணி உரையாசிரியர்",
+        "rationale": "இவர் வளையாபதியின் சிறப்பைப் பாராட்டியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அடியார்க்கு நல்லார்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேராசிரியர்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பரணி நூலுக்கு உரை எழுதியவர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "நீலகேசியில் கூறப்படும் அறிவியல் உண்மை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒளியினும் ஒலி வேகம் குறைவு",
+        "rationale": "ஒளியை விட ஒலி குறைந்த வேகமுடையது என்று கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூமி உருண்டை",
+        "rationale": "இக்கருத்து இதில் முதன்மையாகப் பேசப்படவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுப்பிளப்பு",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் நீரோட்டம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மின்னல் மற்றும் இடி பற்றிய கருத்து."
+  },
+  {
+    "questionNumber": 32,
+    "question": "சூளாமணி எந்த மன்னனின் அவையில் அரங்கேற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேந்தன்",
+        "rationale": "சேந்தன் என்ற மன்னனின் அவையில் அரங்கேறியதாகப் பாயிரம் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இராஜராஜன்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகேந்திரவர்மன்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவன் ஒரு பாண்டிய மன்னனாக இருக்கலாம்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "நாககுமார காவியத்தில் எத்தனை சருக்கங்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "ஐந்து சருக்கங்களை உடையது.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மிகச் சிறிய காப்பியம்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "குண்டலகேசி முடிவில் எந்தச் சமயத்தைத் தழுவினாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பௌத்தம்",
+        "rationale": "சாரிபுத்தரிடம் வாதாடி பௌத்தம் தழுவினாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "முதலில் சமணத்தில் இருந்தாள், பின் மாறினாள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சைவம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சாரிபுத்தர் இச்சமயத் துறவி."
+  },
+  {
+    "questionNumber": 35,
+    "question": "சீவகசிந்தாமணியின் மொத்த பாடல்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3145",
+        "rationale": "இதுவே மொத்தப் பாடல் எண்ணிக்கை.",
+        "isCorrect": true
+      },
+      {
+        "text": "2700",
+        "rationale": "இது தேவர் பாடியதாக நச்சினார்க்கினியர் கருதுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "5000",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "1000",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூவாயிரத்துக்கும் மேல்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "சீவகனின் தந்தை பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சச்சந்தன்",
+        "rationale": "ஏமாங்கத நாட்டு மன்னன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பயாபதி",
+        "rationale": "சூளாமணி மன்னன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாசுதேவன்",
+        "rationale": "கண்ணனின் தந்தை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதயணன்",
+        "rationale": "வேறொரு காப்பிய நாயகன்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கட்டியங்காரனால் கொல்லப்பட்டவர்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "வளையாபதியில் சிறப்பித்துக் கூறப்படும் பண்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கற்பு",
+        "rationale": "பெண்களின் கற்புநெறி போற்றப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "முதன்மை இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடை",
+        "rationale": "முதன்மை இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "முதன்மை இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணகிக்கு உரிய பண்பு."
+  },
+  {
+    "questionNumber": 38,
+    "question": "சூளாமணி எத்தனை விருத்தப் பாடல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2132",
+        "rationale": "இரண்டாயிரத்துக்கும் மேற்பட்ட பாடல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "3145",
+        "rationale": "சிந்தாமணி பாடல் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "1000",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2100 - 2200 இடையில்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "தோலாமொழித்தேவர் எந்த சமயத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சமணம்",
+        "rationale": "சூளாமணி ஒரு சமணக் காப்பியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சைவம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் சமண முனிவர்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "யசோதர காவியத்தில் இசை பற்றி என்ன கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காமத்தை விளைவிக்கும்",
+        "rationale": "சங்கீதம் காமத்தை விளைவிக்கும் என்று கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீடுபேறு தரும்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நோயைத் தீர்க்கும்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவை வளர்க்கும்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இசையால் விளையும் தீமை."
+  },
+  {
+    "questionNumber": 41,
+    "question": "நீலகேசி வாதம் செய்த பௌத்தத் துறவி யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொக்கலன்",
+        "rationale": "இவரிடம் நீலகேசி வாதம் செய்தாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சாரிபுத்தர்",
+        "rationale": "இவர் குண்டலகேசியை மாற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறவண அடிகள்",
+        "rationale": "மணிமேகலையில் வருபவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தருமபாலர்",
+        "rationale": "நாளந்தா பேராசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புத்தரின் சீடர்களில் ஒருவர்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "சிந்தாமணியில் நடனமாடிய கணிகையின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அனங்கமாலை",
+        "rationale": "இவளது நடனத்தை தேவர் வர்ணிக்கிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாதவி",
+        "rationale": "சிலப்பதிகார பாத்திரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணிமேகலை",
+        "rationale": "மாதவியின் மகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குந்தவை",
+        "rationale": "சோழ இளவரசி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவள் சீவகன் முன் ஆடினாள்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "சிந்தாமணி எந்தப் பா வகையால் ஆனது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருத்தப்பா",
+        "rationale": "விருத்தப்பாவின் வெற்றிக்கு வழிகாட்டி.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "சங்க இலக்கிய பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "நீதி நூல் பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "துள்ளல் ஓசை உடையது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கம்பராமாயணமும் இப்பா வகையே."
+  },
+  {
+    "questionNumber": 44,
+    "question": "குண்டலகேசி என்பதற்கு என்ன பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுருண்ட கூந்தலை உடையவள்",
+        "rationale": "தலைமுடி சுருண்டு வளர்ந்ததால் இப்பெயர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீண்ட கூந்தலை உடையவள்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கருமையான கூந்தலை உடையவள்",
+        "rationale": "நீலகேசி என்றால் அது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூந்தல் இல்லாதவள்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குண்டலம் என்றால் சுருள்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "உ.வே.சா. தேடி அலைந்த காப்பியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வளையாபதி",
+        "rationale": "சிறுவயதில் பார்த்துவிட்டுப் பின் கிடைக்காமல் தேடினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சீவகசிந்தாமணி",
+        "rationale": "இதை அவர் பதிப்பித்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "இதையும் பதிப்பித்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணிமேகலை",
+        "rationale": "இதையும் பதிப்பித்தார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'கண்ணிலான் பெற்றிழந்தான்' என்று அவர் வருந்திய நூல்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "நீலகேசியின் மூலப் பெயர் என்னவாக இருக்கலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நீலகேசித் தெருட்டு",
+        "rationale": "இப்பெயரும் உண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீலகேசி புராணம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலகேசி காவியம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலகேசி மாலை",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தெருட்டு என்றால் தெளிவு."
+  },
+  {
+    "questionNumber": 47,
+    "question": "குண்டலகேசியின் தந்தை எந்த நாட்டு அமைச்சர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இராசகிருகம்",
+        "rationale": "இராசகிருக நாட்டு அமைச்சர் மகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவந்தி",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகதம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விதேகம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பீகார் பகுதியில் உள்ள ஒரு வரலாற்று இடம்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "சீவகன் யாரைப் பழிவாங்கி அரசுரிமை பெற்றான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கட்டியங்காரன்",
+        "rationale": "தந்தையைக் கொன்ற இவனைக் கொன்று அரசுரிமை பெற்றான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சச்சந்தன்",
+        "rationale": "சீவகனின் தந்தை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அச்சுவக்கண்டன்",
+        "rationale": "சூளாமணியில் வருபவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நந்தன்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சூழ்ச்சிக்காரன்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "திவிட்டன் எந்த ஆயுதத்தால் அச்சுவக்கண்டனை வென்றான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சக்கராயுதம்",
+        "rationale": "கண்ணனைப் போல சக்கராயுதம் கொண்டு வென்றான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வில்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமாலின் ஆயுதம்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "ஐஞ்சிறு காப்பியங்களில் 'மணி' என்று முடியும் மற்றொரு நூல் எது (சூளாமணி தவிர)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எதுவுமில்லை",
+        "rationale": "ஐஞ்சிறு காப்பியங்களில் சூளாமணி மட்டுமே 'மணி' என முடிகிறது. சிந்தாமணி ஐம்பெருங்காப்பியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீலகேசி",
+        "rationale": "மணி என்று முடியல.",
+        "isCorrect": false
+      },
+      {
+        "text": "யசோதரகாவியம்",
+        "rationale": "மணி என்று முடியல.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதயணகுமார காவியம்",
+        "rationale": "மணி என்று முடியல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பட்டியலில் சூளாமணி ஒன்றுதான் மணி விகுதி கொண்டது."
+  }
+]
