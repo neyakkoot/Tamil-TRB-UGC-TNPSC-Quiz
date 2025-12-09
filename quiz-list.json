@@ -1,86 +1,151 @@
 [
-  {
-    "category": "தமிழ்த் தகவல் களஞ்சியம் - தேவிரா",
-    "quizzes": [
-      { "file": "Tamil_Language_Literture-quiz_Mozhi-1.json", "title": "மொழி" },
-      { "file": "Tamil_Language_Literture-quiz_Muchangam-2.json", "title": "முச்சங்கம்" },
-      { "file": "Tamil_Language_Literture-quiz_Sanga Ilakkiyam-3.json", "title": "சங்க இலக்கியங்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Sanga Maruviya-4.json", "title": "சங்க மருவிய இலக்கியங்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Kaappiyam-5.json", "title": "காப்பியங்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Samya Ilakkiyam-6.json", "title": "சமய இலக்கியங்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Grammars-7.json", "title": "இலக்கணங்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Sittrilakkiyam-8.json", "title": "சிற்றிலக்கியங்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Folklore-9.json", "title": "நாட்டுபுறவியல்" },
-      { "file": "Tamil_Language_Literture-quiz_Pirkalap Pulavarkal-10.json", "title": "பிற்காலப் புலவர்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Modern Literature-11.json", "title": "இக்கால இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Uraiyar-12.json", "title": "உரையாசிரியர்" },
-      { "file": "Tamil_Language_Literture-quiz_Pirkalath tamizh-13.json", "title": "பிற்காலத் தமிழ் இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Sirukahai Ilakkiyam-14.json", "title": "சிறுகதை இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Novel Literature-15.json", "title": "நாவல் இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Drama Literature-16.json", "title": "நாடக இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Thalithilakkiyam-17.json", "title": "தலித் இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Katturai Ilakkiyam-18.json", "title": "கட்டுரை இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Kaditha Ilakkiyam-19.json", "title": "கடித இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Vaazhkkai varalaru-20.json", "title": "வாழ்க்கை வரலாற்று இலக்கியங்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Payana Ilakkiyam-21.json", "title": "பயண இலக்கியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Urai-22.json", "title": "உரை" },
-      { "file": "Tamil_Language_Literture-quiz_Urainadai-23.json", "title": "உரைநடை" },
-      { "file": "Tamil_Language_Literture-quiz_Thiranaivu-24.json", "title": "திறனாய்வு" },
-      { "file": "Tamil_Language_Literture-quiz_Feminism-25.json", "title": "பெண்ணியம்" },
-      { "file": "Tamil_Language_Literture-quiz_Journal-26.json", "title": "இதழ்" },
-      { "file": "Tamil_Language_Literture-quiz_Iyakkam-27.json", "title": "இயக்கம்" },
-      { "file": "Tamil_Language_Literture-quiz_Palkalai_Maanadu-28.json", "title": "பல்கலைக்கழகங்கள், மாநாடுகள், விருதுகள்" },
-      { "file": "Tamil_Language_Literture-quiz_Semmozhiththamizh-29.json", "title": "செம்மொழித் தமிழ்" },
-      { "file": "Tamil_Language_Literture-quiz_Archeaology-30.json", "title": "கல்வெட்டுத் தமிழ்" },
-      { "file": "Tamil_Language_Literture-quiz_Sience Tamil-31.json", "title": "அறிவியல் தமிழ்" },
-      { "file": "Tamil_Language_Literture-quiz_Ilakkiya Iyakkangal-32.json", "title": "இலக்கிய இயக்கங்கள்" },
-      { "file": "Tamil_Language_Literture-quiz_Thamizh varalaatru thagavanfkal-33.json", "title": "தமிழ் வரலாற்றுத் தகவல்கள்" }
-    ]
-  },
-  {
-    "category": "தமிழ் இலக்கிய வரலாறு - சிற்பி",
-    "quizzes": [
-      { "file": "Tamil_ilakkiya_varalaru_1.json", "title": "மொழித் தோற்றமும் தமிழின் சிறப்பும்" },
-      { "file": "Tamil_ilakkiya_varalaru_2.json", "title": "தமிழின் தனிச் சிறப்புகள்" },
-      { "file": "Tamil_ilakkiya_varalaru_3.json", "title": "பின்னிணைப்புகள் 1.1" },
-      { "file": "Tamil_ilakkiya_varalaru_4.json", "title": "பின்னிணைப்புகள் 1.2" },
-      { "file": "Tamil_ilakkiya_varalaru_5.json", "title": "பின்னிணைப்புகள் 2.1" },
-      { "file": "Tamil_ilakkiya_varalaru_6.json", "title": "பின்னிணைப்புகள் 2.2" },
-      { "file": "TIV_sirpi_6.1.json", "title": "பின்னிணைப்புகள் 3.1" },
-      { "file": "TIV_sirpi_6.2.json", "title": "பின்னிணைப்புகள் 3.2" },
-      { "file": "TIV_sirpi_7.json", "title": "பின்னிணைப்புகள் 4" },
-      { "file": "TIV_sirpi_8.json", "title": "பின்னிணைப்புகள் 5" },
-      { "file": "TIV_sirpi_9.json", "title": "பின்னிணைப்புகள் 6" },
-      { "file": "TIV_sirpi_10.json", "title": "முச்சங்கம்" },
-      { "file": "TIV_sirpi_11.json", "title": "அகத்தியம்" },
-      { "file": "TIV_sirpi_12.json", "title": "தொல்காப்பியம்" },
-      { "file": "TIV_sirpi_13.json", "title": "சங்க இலக்கியம் 1" },
-      { "file": "TIV_sirpi_14.json", "title": "சங்க இலக்கியம் 2" },
-      { "file": "TIV_sirpi_15.json", "title": "சங்க இலக்கியம் 3" },
-      { "file": "TIV_sirpi_16.json", "title": "சங்க இலக்கியச் சிறப்புகள்" },
-      { "file": "TIV_sirpi_17.json", "title": "பதினெண்கீழ்க்கணக்கு 1" },
-      { "file": "TIV_sirpi_18.json", "title": "பதினெண்கீழ்க்கணக்கு 2" },
-      { "file": "TIV_sirpi_19.json", "title": "இரட்டைக் காப்பியங்கள்" },
-      { "file": "TIV_sirpi_20.json", "title": "இடைக்கால இலக்கியங்கள் 1" },
-      { "file": "TIV_sirpi_21.json", "title": "இடைக்கால இலக்கியங்கள் 2" },
-      { "file": "TIV_sirpi_22.json", "title": "அகத்தியம்" }
-    ]
-  },
-  {
-    "category": "தமிழ் இலக்கிய வரலாறு - சி.சுப்பிரமணியன்",
-    "quizzes": [
-      { "file": "Tamil_ilakkiya_varalaru_subra_1.json", "title": "தமிழின் பழமையும் சிறப்பும் 1" },
-      { "file": "Tamil_ilakkiya_varalaru_subra_2.json", "title": "தமிழின் பழமையும் சிறப்பும் 2" },
-      { "file": "Tamil_ilakkiya_varalaru_subra_3.json", "title": "பொருளடக்கம் அடிப்படையில் 1" },
-      { "file": "TIV_subra_4.json", "title": "பொருளடக்கம் அடிப்படையில் 2" },
-      { "file": "TIV_subra_5.json", "title": "சங்ககாலம்" },
-      { "file": "TIV_subra_6.json", "title": "சங்க மருவிய காலம்" },
-      { "file": "TIV_subra_7.json", "title": "பல்லவர் காலம்" },
-      { "file": "TIV_subra_8.json", "title": "சோழர் காலம்" },
-      { "file": "TIV_subra_9.json", "title": "நாயக்கர் காலம்" },
-      { "file": "TIV_subra_10.json", "title": "ஐரோப்பியர் காலம்" },
-      { "file": "TIV_subra_11.json", "title": "இக்காலம்" },
-      { "file": "TIV_subra_12.json", "title": "பிற்சேர்க்கை" }
-    ]
-  }
+  {"file": "Language_Origin_Quiz 2.json", "title": "சிவபெருமான், தென்மொழி�"}
+,
+  {"file": "Language_Origin_Quiz.json", "title": "'மொழியின் தோற்றம் ஆய்வ"}
+,
+  {"file": "TIV_sirpi_10.json", "title": "சங்கங்களைப் பற்றிய வர�"}
+,
+  {"file": "TIV_sirpi_11.json", "title": "தமிழ்மொழியின் 'ஆதித்த�"}
+,
+  {"file": "TIV_sirpi_12.json", "title": "தமிழ் நூல்களிலேயே மிக�"}
+,
+  {"file": "TIV_sirpi_13.json", "title": "எட்டுத்தொகை நூல்களுள�"}
+,
+  {"file": "TIV_sirpi_14.json", "title": "பரத்தையிற் பிரிந்த தல�"}
+,
+  {"file": "TIV_sirpi_15.json", "title": "பத்துப்பாட்டு நூல்கள�"}
+,
+  {"file": "TIV_sirpi_16.json", "title": "தமிழ் நூல் மரபில் மங்க"}
+,
+  {"file": "TIV_sirpi_17.json", "title": "தமிழ்நாட்டில் கடைச்ச�"}
+,
+  {"file": "TIV_sirpi_18.json", "title": "பொய்கையார் யாரை மீட்க�"}
+,
+  {"file": "TIV_sirpi_19.json", "title": "தமிழில் 'இரட்டைக்காப்�"}
+,
+  {"file": "TIV_sirpi_20.json", "title": "தமிழ்நாட்டில் பக்தி இ�"}
+,
+  {"file": "TIV_sirpi_21.json", "title": "பதினோராம் திருமுறையி�"}
+,
+  {"file": "TIV_sirpi_22.json", "title": "சமணர் (ஸ்மரணர்) என்பதன�"}
+,
+  {"file": "TIV_sirpi_23.json", "title": "தமிழ்மொழிக்குச் செய்�"}
+,
+  {"file": "TIV_sirpi_24.json", "title": "ஆதியில் தோன்றியதாகக் �"}
+,
+  {"file": "TIV_sirpi_25.json", "title": "தமிழக வரலாற்றில் எக்க�"}
+,
+  {"file": "TIV_sirpi_26.json", "title": "பெருங்கதை நூலின் ஆசிர�"}
+,
+  {"file": "TIV_sirpi_27.json", "title": "சொல்லின் பொருளைத் தெள�"}
+,
+  {"file": "TIV_sirpi_6.1.json", "title": "முதல் சங்கம் நிலவியதா�"}
+,
+  {"file": "TIV_sirpi_6.2.json", "title": "இடைச்சங்கத்தில் இருந�"}
+,
+  {"file": "TIV_sirpi_7.json", "title": "திவாகர நிகண்டின் (சேந்"}
+,
+  {"file": "TIV_sirpi_8.json", "title": "மகாகவி பாரதியாரின் நூ�"}
+,
+  {"file": "TIV_sirpi_9.json", "title": "சாகித்திய அகாதமி விரு�"}
+,
+  {"file": "TIV_subra_10.json", "title": "திராவிட மொழிகள் அனைத்�"}
+,
+  {"file": "TIV_subra_11.json", "title": "இக்காலத்தை 'பாரதியுகம�"}
+,
+  {"file": "TIV_subra_12.json", "title": "ரோம் நாட்டு அரசன் அகஸ்"}
+,
+  {"file": "TIV_subra_4.json", "title": "தமிழ் இலக்கிய வரலாற்ற�"}
+,
+  {"file": "TIV_subra_5.json", "title": "இறையனார் அகப்பொருள் உ�"}
+,
+  {"file": "TIV_subra_6.json", "title": "சங்கம் மருவிய காலம் என"}
+,
+  {"file": "TIV_subra_7.json", "title": "பல்லவர் காலத்தின் கால "}
+,
+  {"file": "TIV_subra_8.json", "title": "தஞ்சையை ஆண்ட முத்தரைய�"}
+,
+  {"file": "TIV_subra_9.json", "title": "மதுரையில் நாயக்கர் ஆட�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Archeaology-30.json", "title": "கல்லில் பொறிக்கப்படு�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Drama Literature-16.json", "title": "'போலச் செய்தல்' என்ற பண�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Feminism-25.json", "title": "'பெமினிஸம்' (Feminism) என்ற ஆங"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Folklore-9.json", "title": "'Folk Lore' என்ற ஆங்கிலத் தொட�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Grammars-7.json", "title": "'இலக்கணம்' என்ற சொல்லி�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Ilakkiya Iyakkangal-32.json", "title": "'கலை வாழ்க்கைக்காகவே' �"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Iyakkam-27.json", "title": "'அலையோசை' நாவலின் ஆசிர�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Journal-26.json", "title": "மக்களாட்சியின் நான்க�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Kaappiyam-5.json", "title": "காப்பியத்தின் வேறுபெ�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Kaditha Ilakkiyam-19.json", "title": "கடித இலக்கியத்தின் வே�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Katturai Ilakkiyam-18.json", "title": "கட்டுரை எவ்வகை இலக்கி�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Modern Literature-11.json", "title": "பாரதியாரின் இயற்பெயர�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Mozhi-1.json", "title": "சிவபெருமானின் உடுக்க�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Muchangam-2.json", "title": "'இரங்கலும் இரங்கல் நிம"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Novel Literature-15.json", "title": "தமிழின் முதல் நாவல் எத"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Palkalai_Maanadu-28.json", "title": "சென்னைப் பல்கலைக்கழக�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Payana Ilakkiyam-21.json", "title": "தமிழின் முதல் பயண இலக்"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Pirkalap pulavarkal-10.json", "title": "பிற்காலப் புலவர்கள் ப�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Pirkalath tamizh-13.json", "title": "உ.வே.சாமிநாதையரின் இயற"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Samya Ilakkiyam-6.json", "title": "“தமிழைப் பக்திமொழி (இர"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Sanga Ilakkiyam-3.json", "title": "சங்க இலக்கியத்திற்கு �"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Sanga Maruviya-4.json", "title": "சங்க மருவிய காலம் என்ப"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Semmozhiththamizh-29.json", "title": "'செந்தமிழ்' என்ற சொல் எ�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Sience Tamil-31.json", "title": "அறிவியலின் வளர்ச்சிக�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Sirukahai Ilakkaiyam-14.json", "title": "சிறுகதைக் கூறுகளைப் ப�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Sittrilakkiyam-8.json", "title": "சிற்றிலக்கிய வகை மொத்�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Thalithilakkiyam-17.json", "title": "'பலி ஆடுகள்' என்ற நாடகம�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Thamizh varalaatru thagavanfkal-33.json", "title": "'தற்காலத் தமிழ் இலக்கி"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Thiranaivu-24.json", "title": "ஆராய்ச்சியின் அடிப்ப�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Urai-22.json", "title": "'உரை' என்பதற்குச் 'சொற்�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Urainadai-23.json", "title": "உரைநடை என்பதில் உள்ள '�"}
+,
+  {"file": "Tamil_Language_Literture-quiz_Uraiyar-12.json", "title": "தமிழில் தோன்றிய முதல் "}
+,
+  {"file": "Tamil_Language_Literture-quiz_Vaazhkkai varalaru-20.json", "title": "தமிழின் முதல் வாழ்க்க�"}
+,
+  {"file": "Tamil_ilakkiya_varalaru_1.json", "title": "வரலாற்றின் ஒளிக்கதிர�"}
+,
+  {"file": "Tamil_ilakkiya_varalaru_2.json", "title": "தமிழ்மொழி ஆங்கிலம், ஜெ"}
+,
+  {"file": "Tamil_ilakkiya_varalaru_3.json", "title": "முதல் சங்கம் அமைந்திர�"}
+,
+  {"file": "Tamil_ilakkiya_varalaru_4.json", "title": "முதல் சங்கம் நிலவியதா�"}
+,
+  {"file": "Tamil_ilakkiya_varalaru_5.json", "title": "திவாகர நிகண்டின் ஆசிர�"}
+,
+  {"file": "Tamil_ilakkiya_varalaru_6.json", "title": "திவாகர நிகண்டின் (சேந்"}
+,
+  {"file": "Tamil_ilakkiya_varalaru_subra_1.json", "title": "'மொழியே மக்களின் மனத்த"}
+,
+  {"file": "Tamil_ilakkiya_varalaru_subra_2.json", "title": "ஓவியம் எப்படி பின்னணி�"}
 ]
