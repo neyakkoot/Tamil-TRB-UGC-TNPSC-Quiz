@@ -15,15 +15,12 @@ document.addEventListener("DOMContentLoaded", function () {
     noteEl.id = "tv-note";
     noteEl.setAttribute("role", "status");
     noteEl.style.marginTop = "0.5rem";
-    if (resultsEl && resultsEl.parentNode) {
-      resultsEl.parentNode.insertBefore(noteEl, resultsEl.nextSibling);
+    // 👑 மாற்றம்: tv-note ஐ quiz-nav-க்கு கீழே வைக்கவும் 👑
+    const quizNav = document.querySelector('.quiz-nav');
+    if (quizNav && quizNav.parentNode) {
+      quizNav.parentNode.insertBefore(noteEl, quizNav.nextSibling);
     } else {
-      const appContainer = document.getElementById('app-container');
-      if (appContainer) {
-         appContainer.appendChild(noteEl);
-      } else {
-         document.body.appendChild(noteEl);
-      }
+      console.warn("tv-note fallback position changed to tv-main bottom.");
     }
     console.warn("tv-note not found — created fallback element.");
   }
@@ -79,6 +76,14 @@ document.addEventListener("DOMContentLoaded", function () {
       const data = await res.json();
       quizData = data.questions || data;
       if (!quizData || !quizData.length) throw new Error("No questions found");
+
+      // 👑 புதிய மாற்றம்: கேள்விகளைச் சீரற்ற முறையில் வரிசைப்படுத்தல் (Shuffle) 👑
+      // Fisher-Yates shuffle algorithm
+      for (let i = quizData.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [quizData[i], quizData[j]] = [quizData[j], quizData[i]];
+      }
+      // 👑 மாற்றம் முடிவு 👑
 
       quizData.forEach(q => {
         q.userChoice = undefined; 
@@ -245,6 +250,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 🔹 Results screen
   function showResults() {
+    // quiz-loader.js இல் உள்ள showResults ஐ வெளிப்படுத்துகிறது.
     if (typeof showCustomResults === 'function') {
       showCustomResults(score, quizData.length, currentQuizTitle);
     } else {
@@ -254,6 +260,9 @@ document.addEventListener("DOMContentLoaded", function () {
                              <p>முடிவுகளைக் காட்டுவதில் பிழை.</p>`;
     }
   }
+  
+  // 👑 வெளிப்படுத்தும் (export) showResults, இதனால் index.html இலிருந்து அழைக்க முடியும் 👑
+  window.showResults = showResults; 
 
   // 🔹 Quiz selection
   quizSelect.addEventListener("change", e => {
