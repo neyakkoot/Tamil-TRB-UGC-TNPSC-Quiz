@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>தமிழ்ப் போட்டித் தேர்வு வினாடி–வினா</title>
+<title>தமிழ் இலக்கிய வரலாறு வினாடி–வினா</title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil&display=swap" rel="stylesheet">
 
 <style>
@@ -126,8 +126,8 @@
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-    display: grid;
-    grid-template-columns: 1fr 320px;
+    /* 👑 மாற்றம்: பக்கவாட்டுப் பகுதியைக் குறைத்து நடுப்பகுதிக்கு அதிக இடம் வழங்குதல் 👑 */
+    grid-template-columns: 1fr 280px; 
     gap: 20px;
   }
   @media (max-width: 900px) { #tv-quiz-wrap { grid-template-columns: 1fr; } }
@@ -183,8 +183,9 @@
     background: #f5fcf8;
     border: 1px solid #cce5d3;
     border-radius: 10px;
-    padding: 15px;
-    font-size: 0.95rem;
+    /* 👑 மாற்றம்: பேடிங் குறைப்பு 👑 */
+    padding: 10px; 
+    font-size: 0.9rem; /* 👑 மாற்றம்: எழுத்துரு அளவு குறைப்பு 👑 */
     display: flex;
     flex-direction: column;
   }
@@ -218,7 +219,7 @@
     border-radius: 8px;
     padding: 10px;
     margin-top: 15px;
-    order: -1; 
+    /* order: -1; <-- நீக்கப்பட்டது */
   }
   #tv-timer-box h3 {
     margin: 0 0 10px 0;
@@ -316,6 +317,9 @@
           </tbody>
         </table>
         <p id="no-history-msg" style="text-align: center; display: none;">நீங்கள் இன்னும் எந்தப் பயிற்சியும் எடுக்கவில்லை.</p>
+        <button id="download-csv-btn" style="margin-top: 15px; padding: 10px 15px; border-radius: 8px; border: none; font-weight: 700; cursor: pointer; color: #fff; background: #007bff; transition: background 0.3s;">
+          வரலாற்றை CSV ஆகப் பதிவிறக்கு 💾
+        </button>
       </div>
     </div>
 
@@ -472,13 +476,23 @@
     }
 
     /**
-     * வினாக்களின் எண்ணிக்கைக்கு ஏற்ப நிமிடங்களைக் கணக்கிடுதல்
+     * வினாக்களின் எண்ணிக்கைக்கு ஏற்ப நிமிடங்களைக் கணக்கிடுதல் (மேம்படுத்தப்பட்டது)
      */
     function calculateMinutes(count) {
       if (count <= 0) return 0;
-      if (count <= 25) return count; 
-      else if (count > 50 && count <= 100) return 90; 
-      else return Math.round(count * 0.9);
+      
+      const maxMinutes = 60; // உச்ச வரம்பு 60 நிமிடங்கள் (உங்கள் கோரிக்கையின்படி)
+
+      // 10 கேள்விகளுக்கு 10 நிமிடங்கள் (1 வினாவுக்கு 1 நிமிடம்) - உங்கள் கோரிக்கையின் ஒரு பகுதி
+      if (count <= 10) return count; 
+      
+      // மற்ற கேள்விகளுக்கு (11 முதல் 60 வரை): ஒரு கேள்விக்கு தோராயமாக 1 நிமிடம்.
+      if (count <= 60) {
+        return count; 
+      } else {
+        // 60-க்கு மேற்பட்ட கேள்விகளுக்கு 60 நிமிடங்கள் (உச்ச வரம்பு)
+        return maxMinutes;
+      }
     }
 
     /**
@@ -594,6 +608,41 @@
         statAvgScoreEl.textContent = `${avgScore}%`;
       }
     }
+    
+    /**
+     * வரலாற்றுத் தரவை CSV வடிவத்தில் பதிவிறக்கம் செய்யும் செயல்பாடு
+     */
+    function downloadHistoryCsv() {
+      let history = JSON.parse(localStorage.getItem('quizHistory')) || [];
+      if (history.length === 0) {
+        alert("பதிவிறக்க வரலாறு எதுவும் இல்லை.");
+        return;
+      }
+
+      // CSV தலைப்புகள் (Header)
+      let csv = 'தேதி,வினாடி-வினா,மதிப்பெண்,மொத்த கேள்விகள்,விழுக்காடு\n';
+
+      // தரவு வரிசைகள் (Rows)
+      history.forEach(result => {
+        csv += `"${result.date}",`;
+        csv += `"${result.title}",`;
+        csv += `${result.score},`;
+        csv += `${result.total},`;
+        csv += `${result.percentage}%\n`;
+      });
+
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      const url = URL.createObjectURL(blob);
+      
+      link.setAttribute("href", url);
+      link.setAttribute("download", "QuizHistory_" + new Date().toISOString().slice(0, 10) + ".csv");
+      link.style.visibility = 'hidden';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      alert("வரலாறு வெற்றிகரமாக CSV கோப்பாகப் பதிவிறக்கம் செய்யப்பட்டது.");
+    }
 
     document.getElementById('tv-restart-btn').addEventListener('click', () => {
         stopTimer(); // 👑 மொத்த நேரங்காட்டியை நிறுத்து 👑
@@ -634,6 +683,8 @@
         window.location.reload();
       }
     });
+    
+    document.getElementById('download-csv-btn').addEventListener('click', downloadHistoryCsv);
 
     document.addEventListener('DOMContentLoaded', checkLogin);
 
