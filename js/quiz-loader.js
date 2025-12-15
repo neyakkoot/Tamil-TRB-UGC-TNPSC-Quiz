@@ -1,4 +1,4 @@
-// js/quiz-loader.js
+// js/quiz-loader.js (Full code including previous enhancements and NEW Answer Randomization)
 document.addEventListener("DOMContentLoaded", function () {
   const quizSelect = document.getElementById("quizSelect");
   const progressEl = document.getElementById("tv-progress");
@@ -15,12 +15,18 @@ document.addEventListener("DOMContentLoaded", function () {
     noteEl.id = "tv-note";
     noteEl.setAttribute("role", "status");
     noteEl.style.marginTop = "0.5rem";
-    // 👑 மாற்றம்: tv-note ஐ quiz-nav-க்கு கீழே வைக்கவும் 👑
+    // Modified note position (based on previous changes)
     const quizNav = document.querySelector('.quiz-nav');
     if (quizNav && quizNav.parentNode) {
       quizNav.parentNode.insertBefore(noteEl, quizNav.nextSibling);
     } else {
       console.warn("tv-note fallback position changed to tv-main bottom.");
+      const appContainer = document.getElementById('app-container');
+      if (appContainer) {
+         appContainer.appendChild(noteEl);
+      } else {
+         document.body.appendChild(noteEl);
+      }
     }
     console.warn("tv-note not found — created fallback element.");
   }
@@ -77,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
       quizData = data.questions || data;
       if (!quizData || !quizData.length) throw new Error("No questions found");
 
-      // 👑 புதிய மாற்றம்: கேள்விகளைச் சீரற்ற முறையில் வரிசைப்படுத்தல் (Shuffle) 👑
+      // 👑 கேள்விகளைச் சீரற்ற முறையில் வரிசைப்படுத்தல் (Shuffle) - Previous enhancement 👑
       // Fisher-Yates shuffle algorithm
       for (let i = quizData.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -86,7 +92,10 @@ document.addEventListener("DOMContentLoaded", function () {
       // 👑 மாற்றம் முடிவு 👑
 
       quizData.forEach(q => {
-        q.userChoice = undefined; 
+        q.userChoice = undefined;
+        // Clear previous state if re-loading the quiz (important for randomization)
+        q.shuffledOptions = undefined;
+        q.shuffledCorrectIndex = undefined;
       });
 
       currentQuizTitle = quizSelect.options[quizSelect.selectedIndex].text;
@@ -132,17 +141,43 @@ document.addEventListener("DOMContentLoaded", function () {
     nextBtn.style.display = "inline-block";
     prevBtn.style.display = idx > 0 ? "inline-block" : "none";
 
-    const options = q.answerOptions || q.options || [];
-    if (!options.length) {
-      optsEl.innerHTML = "<p>விருப்பங்கள் இல்லை.</p>";
-      return;
-    }
+    // --- 👑 புதிய மாற்றம்: விடைத் தெரிவுகளைச் சீரற்ற முறையில் வரிசைப்படுத்தல் 👑
+    let optionsToRender = q.answerOptions || q.options || [];
+    let correctOptionIndex;
 
-    const correctIndex = typeof q.answer === "number"
-        ? q.answer
-        : (q.answerOptions?.findIndex(o => o.isCorrect) ?? 0);
+    if (!q.shuffledOptions) {
+      // 1. விடைத் தெரிவுகளைப் பெறுக
+      if (!optionsToRender.length) {
+        optsEl.innerHTML = "<p>விருப்பங்கள் இல்லை.</p>";
+        return;
+      }
+      
+      // 2. சரியான விடையின் மூல குறியீட்டெண்ணைக் கண்டறிக
+      correctOptionIndex = typeof q.answer === "number"
+          ? q.answer
+          : (optionsToRender?.findIndex(o => o.isCorrect) ?? 0);
 
-    options.forEach((opt, i) => {
+      // 3. விருப்பங்களை அவற்றின் மூல குறியீட்டெண்ணுடன் இணைக்க
+      const optionsWithIndices = optionsToRender.map((opt, i) => ({ opt, originalIndex: i }));
+
+      // 4. விருப்பங்களைச் சீரமைக்க (Shuffle options)
+      // Fisher-Yates shuffle algorithm
+      for (let i = optionsWithIndices.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [optionsWithIndices[i], optionsWithIndices[j]] = [optionsWithIndices[j], optionsWithIndices[i]];
+      }
+
+      // 5. சீரமைக்கப்பட்ட விருப்பங்கள் மற்றும் புதிய சரியான குறியீட்டெண்ணைச் சேமிக்க
+      q.shuffledOptions = optionsWithIndices.map(item => item.opt);
+      q.shuffledCorrectIndex = optionsWithIndices.findIndex(item => item.originalIndex === correctOptionIndex);
+    } 
+
+    optionsToRender = q.shuffledOptions;
+    correctOptionIndex = q.shuffledCorrectIndex;
+    // --- 👑 மாற்றம் முடிவு 👑
+    
+    // Rendering logic uses the shuffled options and index
+    optionsToRender.forEach((opt, i) => {
       const btn = document.createElement("button");
       btn.type = "button";
       btn.className = "option-btn";
@@ -152,23 +187,32 @@ document.addEventListener("DOMContentLoaded", function () {
 
       if (hasAnswered) {
         btn.disabled = true;
-        if (i === correctIndex) {
+        if (i === correctOptionIndex) {
           btn.classList.add("correct");
         }
-        if (i === userChoice && userChoice !== correctIndex) {
+        // q.userChoice is the index in the *shuffled* list
+        if (i === userChoice && userChoice !== correctOptionIndex) {
           btn.classList.add("wrong");
         }
       } else {
+        // Pass the index 'i' from the shuffled list
         btn.onclick = () => selectAnswer(i, btn);
       }
       optsEl.appendChild(btn);
     });
 
     if (hasAnswered) {
+      // Explanation must use the original un-shuffled structure for lookup
+      const originalOptions = q.answerOptions || q.options || [];
+      const originalCorrectIndex = typeof q.answer === "number"
+        ? q.answer
+        : (originalOptions?.findIndex(o => o.isCorrect) ?? 0);
+        
       const explanation =
         q.explanation ||
-        q.answerOptions?.[correctIndex]?.rationale ||
+        originalOptions?.[originalCorrectIndex]?.rationale ||
         "விளக்கம் வழங்கப்படவில்லை.";
+        
       feedbackEl.style.display = "block";
       feedbackEl.innerHTML = `<strong>விளக்கம்:</strong> ${explanation}`;
       if (noteEl) noteEl.innerHTML = "✅❌ நீங்கள் ஏற்கனவே பதிலளித்த வினா.";
@@ -191,12 +235,11 @@ document.addEventListener("DOMContentLoaded", function () {
       return; 
     }
     
+    // 'choice' is the index in the *shuffled* list
     q.userChoice = choice;
 
-    const correctIndex =
-      typeof q.answer === "number"
-        ? q.answer
-        : (q.answerOptions?.findIndex(o => o.isCorrect) ?? 0);
+    // Use the stored shuffled correct index for comparison
+    const correctIndex = q.shuffledCorrectIndex; 
 
     const buttons = optsEl.querySelectorAll("button");
     buttons.forEach(b => (b.disabled = true)); 
@@ -211,10 +254,17 @@ document.addEventListener("DOMContentLoaded", function () {
       if (noteEl) noteEl.innerHTML = "❌ தவறான விடை.";
     }
 
+    // Explanation lookup using the original structure (as done in renderQuestion for consistency)
+    const originalOptions = q.answerOptions || q.options || [];
+    const originalCorrectIndex = typeof q.answer === "number"
+      ? q.answer
+      : (originalOptions?.findIndex(o => o.isCorrect) ?? 0);
+
     const explanation =
       q.explanation ||
-      q.answerOptions?.[correctIndex]?.rationale ||
+      originalOptions?.[originalCorrectIndex]?.rationale ||
       "விளக்கம் வழங்கப்படவில்லை.";
+      
     feedbackEl.style.display = "block";
     feedbackEl.innerHTML = `<strong>விளக்கம்:</strong> ${explanation}`;
   }
@@ -250,7 +300,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 🔹 Results screen
   function showResults() {
-    // quiz-loader.js இல் உள்ள showResults ஐ வெளிப்படுத்துகிறது.
     if (typeof showCustomResults === 'function') {
       showCustomResults(score, quizData.length, currentQuizTitle);
     } else {
@@ -261,7 +310,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
   
-  // 👑 வெளிப்படுத்தும் (export) showResults, இதனால் index.html இலிருந்து அழைக்க முடியும் 👑
+  // Export showResults for index.html timer
   window.showResults = showResults; 
 
   // 🔹 Quiz selection
