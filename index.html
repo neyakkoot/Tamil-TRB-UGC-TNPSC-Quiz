@@ -85,17 +85,17 @@
   }
   .stat-card h4 { margin: 0 0 5px 0; color: #555; }
   .stat-card p { margin: 0; font-size: 1.5rem; font-weight: 700; color: #007bff; }
-  #dashboard-history table {
+  #dashboard-history table, #leaderboard-table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 15px;
   }
-  #dashboard-history th, #dashboard-history td {
+  #dashboard-history th, #dashboard-history td, #leaderboard-table th, #leaderboard-table td {
     border: 1px solid #ddd;
     padding: 10px;
     text-align: left;
   }
-  #dashboard-history th { background-color: #f2f2f2; color: #333; }
+  #dashboard-history th, #leaderboard-table th { background-color: #f2f2f2; color: #333; }
   .header {
     display: flex;
     align-items: center;
@@ -126,8 +126,8 @@
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-    /* 👑 மாற்றம்: பக்கவாட்டுப் பகுதியைக் குறைத்து நடுப்பகுதிக்கு அதிக இடம் வழங்குதல் 👑 */
-    grid-template-columns: 1fr 280px; 
+    display: grid;
+    grid-template-columns: 1fr 320px;
     gap: 20px;
   }
   @media (max-width: 900px) { #tv-quiz-wrap { grid-template-columns: 1fr; } }
@@ -183,9 +183,8 @@
     background: #f5fcf8;
     border: 1px solid #cce5d3;
     border-radius: 10px;
-    /* 👑 மாற்றம்: பேடிங் குறைப்பு 👑 */
-    padding: 10px; 
-    font-size: 0.9rem; /* 👑 மாற்றம்: எழுத்துரு அளவு குறைப்பு 👑 */
+    padding: 15px;
+    font-size: 0.95rem;
     display: flex;
     flex-direction: column;
   }
@@ -212,16 +211,16 @@
     border-top: 2px solid #007bff;
     padding-top: 20px;
   }
-  #tv-timer-box {
+  #tv-timer-box, #tv-participants-box {
     text-align: center;
     background: #fff;
     border: 2px solid #007bff;
     border-radius: 8px;
     padding: 10px;
     margin-top: 15px;
-    /* order: -1; <-- நீக்கப்பட்டது */
+    /* order: -1; - removed for better flow */
   }
-  #tv-timer-box h3 {
+  #tv-timer-box h3, #tv-participants-box h3 {
     margin: 0 0 10px 0;
     color: #007bff;
     font-size: 1.1rem;
@@ -295,16 +294,16 @@
       </div>
       <div id="dashboard-stats">
         <div class="stat-card">
-          <h4>மொத்த பயிற்சிகள்</h4>
+          <h4>மொத்த பயிற்சிகள் (உங்களுடையது)</h4>
           <p id="stat-total-attempts">0</p>
         </div>
         <div class="stat-card">
-          <h4>சராசரி மதிப்பெண்</h4>
+          <h4>சராசரி மதிப்பெண் (உங்களுடையது)</h4>
           <p id="stat-avg-score">0%</p>
         </div>
       </div>
       <div id="dashboard-history">
-        <h3 style="text-align: center;">பயிற்சி வரலாறு</h3>
+        <h3 style="text-align: center;">உங்களின் பயிற்சி வரலாறு</h3>
         <table id="history-table">
           <thead>
             <tr>
@@ -317,11 +316,23 @@
           </tbody>
         </table>
         <p id="no-history-msg" style="text-align: center; display: none;">நீங்கள் இன்னும் எந்தப் பயிற்சியும் எடுக்கவில்லை.</p>
-        <button id="download-csv-btn" style="margin-top: 15px; padding: 10px 15px; border-radius: 8px; border: none; font-weight: 700; cursor: pointer; color: #fff; background: #007bff; transition: background 0.3s;">
-          வரலாற்றை CSV ஆகப் பதிவிறக்கு 💾
-        </button>
       </div>
-    </div>
+      
+      <div id="dashboard-leaderboard" style="margin-top: 30px;">
+        <h3 style="text-align: center; color: #007bff;">👥 பங்கேற்பாளர்களின் முயற்சிகள்</h3>
+        <table id="leaderboard-table">
+          <thead>
+            <tr>
+              <th>பெயர்</th>
+              <th>மொத்த முயற்சிகள்</th>
+            </tr>
+          </thead>
+          <tbody id="leaderboard-table-body">
+            <tr><td colspan="2" style="text-align: center;">தரவு ஏற்றப்படுகிறது...</td></tr>
+          </tbody>
+        </table>
+      </div>
+      </div>
 
     <div id="tv-quiz-wrap">
       <div id="tv-main">
@@ -345,6 +356,10 @@
         </div>
       </div>
       <div id="tv-side">
+        <div id="tv-participants-box">
+          <h3>👤 மொத்தப் பங்கேற்பாளர்கள்</h3>
+          <div id="tv-total-participants" style="font-size: 2.2rem; font-weight: 700; color: #28a745;">0</div>
+        </div>
         <div id="tv-timer-box" style="display:none;">
           <h3>⏰ நேரம் மீதமுள்ளது ⏰</h3>
           <div id="tv-timer-display">00:00</div>
@@ -361,12 +376,11 @@
   <script src="js/footer-history.js"></script>
 
   <script>
-    // --- 👑 புதிய மாறிகள் 👑 ---
-    let inactivityTimer; // செயல்படா நிலை நேரங்காட்டிக்கான ID
-    const INACTIVITY_MINUTES = 4; // 4 நிமிடங்கள்
-    // --- 👑 ---
+    // --- 👑 மாறிகள் 👑 ---
+    let inactivityTimer; 
+    const INACTIVITY_MINUTES = 4; 
 
-    let timerInterval; // இது ஏற்கனவே உள்ளது (மொத்த வினாடி-வினா நேரத்திற்கு)
+    let timerInterval; 
     let totalSeconds;
     
     const loginContainer = document.getElementById('login-container');
@@ -375,50 +389,48 @@
     const usernameInput = document.getElementById('username-input');
     const logoutBtn = document.getElementById('logout-btn');
     const welcomeMessageEl = document.getElementById('welcome-message');
-    const dashboardHistoryEl = document.getElementById('dashboard-history');
     const historyTableBodyEl = document.getElementById('history-table-body');
     const noHistoryMsgEl = document.getElementById('no-history-msg');
     const statTotalAttemptsEl = document.getElementById('stat-total-attempts');
     const statAvgScoreEl = document.getElementById('stat-avg-score');
+    const leaderboardTableBodyEl = document.getElementById('leaderboard-table-body');
+    const totalParticipantsEl = document.getElementById('tv-total-participants');
     
-    // --- 👑 புதிய செயல்பாடு 1: செயல்படா நிலை நேரங்காட்டியை Reset செய் 👑 ---
-    /**
-     * பயனர் ஒரு செயலைச் (click) செய்தவுடன் இந்த நேரங்காட்டியை மீண்டும் தொடங்கும்.
-     * (js/quiz-loader.js இலிருந்து இது அழைக்கப்படும்)
-     */
+    // --- 👑 செயல்படா நிலை நேரங்காட்டியை Reset செய் 👑 ---
     function resetInactivityTimer() {
-      // ஏற்கனவே இயங்கும் டைமரை நிறுத்து
       clearTimeout(inactivityTimer);
-
-      // ஒரு புதிய 4 நிமிட நேரங்காட்டியைத் தொடங்கு
       inactivityTimer = setTimeout(() => {
-        // 4 நிமிடங்கள் முடிந்ததும்...
         alert(`நீங்கள் ${INACTIVITY_MINUTES} நிமிடங்களாகச் செயல்படவில்லை. எனவே, இந்த வினாடி-வினா தானாகவே முடிக்கப்படுகிறது.`);
-        
-        // quiz-loader.js இல் உள்ள showResults() ஐ அழைக்கவும்
         if (typeof showResults === 'function') {
           showResults();
         } else {
           console.error("showResults (from quiz-loader.js) not found for inactivity timeout!");
         }
-      }, INACTIVITY_MINUTES * 60 * 1000); // மில்லி விநாடிகளாக மாற்று
+      }, INACTIVITY_MINUTES * 60 * 1000); 
     }
 
-    // --- 👑 புதிய செயல்பாடு 2: செயல்படா நிலை நேரங்காட்டியை நிறுத்து 👑 ---
-    /**
-     * வினாடி-வினா முடிந்ததும் அல்லது பயனர் வெளியேறும்போதும் இந்த நேரங்காட்டியை முழுமையாக நிறுத்து.
-     */
+    // --- 👑 செயல்படா நிலை நேரங்காட்டியை நிறுத்து 👑 ---
     function stopInactivityTimer() {
       clearTimeout(inactivityTimer);
     }
     // --- 👑 ---
 
     /**
+     * வினாக்களின் எண்ணிக்கைக்கு ஏற்ப நிமிடங்களைக் கணக்கிடுதல் (பழைய விதிகளின்படி)
+     */
+    function calculateMinutes(count) {
+      if (count <= 0) return 0;
+      if (count <= 25) return count; 
+      else if (count > 50 && count <= 100) return 90; 
+      else return Math.round(count * 0.9);
+    }
+
+    /**
      * வினாடி-வினா நேரத்தைக் கணக்கிட்டுத் தொடங்கும் செயல்பாடு
      */
     function startQuizTimer(questionCount) {
-      stopTimer(); // மொத்த நேரங்காட்டியை நிறுத்து
-      resetInactivityTimer(); // 👑 செயல்படா நிலை நேரங்காட்டியைத் தொடங்கு / Reset செய் 👑
+      stopTimer(); 
+      resetInactivityTimer(); 
       
       const timerBox = document.getElementById('tv-timer-box');
       if (!timerBox) return;
@@ -434,8 +446,8 @@
         updateTimerDisplay();
 
         if (totalSeconds <= 0) {
-          stopTimer(); // மொத்த நேரங்காட்டியை முடிந்தது
-          stopInactivityTimer(); // 👑 செயல்படா நிலை நேரங்காட்டியை நிறுத்து 👑
+          stopTimer(); 
+          stopInactivityTimer(); 
           alert('நேரம் முடிந்தது!');
           
           if (typeof showResults === 'function') {
@@ -476,27 +488,7 @@
     }
 
     /**
-     * வினாக்களின் எண்ணிக்கைக்கு ஏற்ப நிமிடங்களைக் கணக்கிடுதல் (மேம்படுத்தப்பட்டது)
-     */
-    function calculateMinutes(count) {
-      if (count <= 0) return 0;
-      
-      const maxMinutes = 60; // உச்ச வரம்பு 60 நிமிடங்கள் (உங்கள் கோரிக்கையின்படி)
-
-      // 10 கேள்விகளுக்கு 10 நிமிடங்கள் (1 வினாவுக்கு 1 நிமிடம்) - உங்கள் கோரிக்கையின் ஒரு பகுதி
-      if (count <= 10) return count; 
-      
-      // மற்ற கேள்விகளுக்கு (11 முதல் 60 வரை): ஒரு கேள்விக்கு தோராயமாக 1 நிமிடம்.
-      if (count <= 60) {
-        return count; 
-      } else {
-        // 60-க்கு மேற்பட்ட கேள்விகளுக்கு 60 நிமிடங்கள் (உச்ச வரம்பு)
-        return maxMinutes;
-      }
-    }
-
-    /**
-     * ஊக்கமளிக்கும் செய்தியை வழங்கும் செயல்பாடு
+     * ஊக்கமளிக்கும் செய்தியை வழங்கும் செயல்பாடு ( unchanged )
      */
     function getMotivationalMessage(percentage) {
       if (percentage === 100) return "💯 அருமை! முழுமையான மதிப்பெண்! உங்கள் உழைப்பு அபாரமானது!";
@@ -508,11 +500,11 @@
     }
 
     /**
-     * மேம்படுத்தப்பட்ட முடிவுகளைக் காட்டும் செயல்பாடு
+     * மேம்படுத்தப்பட்ட முடிவுகளைக் காட்டும் செயல்பாடு ( unchanged )
      */
     function showCustomResults(score, totalQuestions, quizTitle) {
-      stopTimer(); // 👑 மொத்த நேரங்காட்டியை நிறுத்து 👑
-      stopInactivityTimer(); // 👑 செயல்படா நிலை நேரங்காட்டியை நிறுத்து 👑
+      stopTimer(); 
+      stopInactivityTimer(); 
       
       const timerBox = document.getElementById('tv-timer-box');
       if (timerBox) timerBox.style.display = 'none';
@@ -563,12 +555,18 @@
       loginContainer.classList.add('hidden');
       appContainer.classList.remove('hidden');
       const userData = JSON.parse(localStorage.getItem('quizUser'));
-      welcomeMessageEl.textContent = `📈 என் முயற்சிகள் (வணக்கம், ${userData.name}!)`;
-      loadDashboardData();
+      welcomeMessageEl.textContent = `📈 என் முயற்சிகளும் கற்றல் பதிவுகளும் (வணக்கம், ${userData.name}!)`;
+      loadDashboardData(userData.name);
     }
 
+    /**
+     * வினாடி-வினா முடிவுகளைச் சேமித்து, அனைத்துப் பயனர்களின் வரலாற்றையும் புதுப்பிக்கிறது.
+     */
     function saveQuizResult(title, score, total, percentage) {
-      let history = JSON.parse(localStorage.getItem('quizHistory')) || [];
+      const userName = JSON.parse(localStorage.getItem('quizUser')).name;
+      
+      // 1. தற்போதைய பயனரின் வரலாற்றைப் புதுப்பிக்க
+      let myHistory = JSON.parse(localStorage.getItem('quizHistory_' + userName)) || [];
       const newResult = {
         title: title,
         score: score,
@@ -576,15 +574,26 @@
         percentage: percentage,
         date: new Date().toLocaleString('ta-IN')
       };
-      history.unshift(newResult);
-      localStorage.setItem('quizHistory', JSON.stringify(history));
-      loadDashboardData();
+      myHistory.unshift(newResult);
+      localStorage.setItem('quizHistory_' + userName, JSON.stringify(myHistory));
+
+      // 2. அனைத்துப் பயனர்களின் முயற்சிகளின் எண்ணிக்கையைப் புதுப்பிக்க
+      let allAttempts = JSON.parse(localStorage.getItem('allUserAttempts')) || {};
+      allAttempts[userName] = (allAttempts[userName] || 0) + 1;
+      localStorage.setItem('allUserAttempts', JSON.stringify(allAttempts));
+      
+      loadDashboardData(userName);
     }
 
-    function loadDashboardData() {
-      let history = JSON.parse(localStorage.getItem('quizHistory')) || [];
+    /**
+     * டாஷ்போர்டு மற்றும் பங்கேற்பாளர்கள் புள்ளிவிவரங்களைப் புதுப்பிக்கிறது.
+     */
+    function loadDashboardData(userName) {
+      // 1. உங்களின் சொந்த வரலாற்றை ஏற்றல்
+      let myHistory = JSON.parse(localStorage.getItem('quizHistory_' + userName)) || [];
       historyTableBodyEl.innerHTML = ""; 
-      if (history.length === 0) {
+      
+      if (myHistory.length === 0) {
         noHistoryMsgEl.style.display = "block";
         historyTableBodyEl.style.display = "none";
         statTotalAttemptsEl.textContent = "0";
@@ -593,7 +602,7 @@
         noHistoryMsgEl.style.display = "none";
         historyTableBodyEl.style.display = "";
         let totalPercentage = 0;
-        history.forEach(result => {
+        myHistory.forEach(result => {
           const row = document.createElement('tr');
           row.innerHTML = `
             <td>${result.date}</td>
@@ -603,50 +612,40 @@
           historyTableBodyEl.appendChild(row);
           totalPercentage += result.percentage;
         });
-        const avgScore = Math.round(totalPercentage / history.length);
-        statTotalAttemptsEl.textContent = history.length;
+        const avgScore = Math.round(totalPercentage / myHistory.length);
+        statTotalAttemptsEl.textContent = myHistory.length;
         statAvgScoreEl.textContent = `${avgScore}%`;
       }
-    }
-    
-    /**
-     * வரலாற்றுத் தரவை CSV வடிவத்தில் பதிவிறக்கம் செய்யும் செயல்பாடு
-     */
-    function downloadHistoryCsv() {
-      let history = JSON.parse(localStorage.getItem('quizHistory')) || [];
-      if (history.length === 0) {
-        alert("பதிவிறக்க வரலாறு எதுவும் இல்லை.");
-        return;
-      }
-
-      // CSV தலைப்புகள் (Header)
-      let csv = 'தேதி,வினாடி-வினா,மதிப்பெண்,மொத்த கேள்விகள்,விழுக்காடு\n';
-
-      // தரவு வரிசைகள் (Rows)
-      history.forEach(result => {
-        csv += `"${result.date}",`;
-        csv += `"${result.title}",`;
-        csv += `${result.score},`;
-        csv += `${result.total},`;
-        csv += `${result.percentage}%\n`;
-      });
-
-      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
-      const link = document.createElement("a");
-      const url = URL.createObjectURL(blob);
       
-      link.setAttribute("href", url);
-      link.setAttribute("download", "QuizHistory_" + new Date().toISOString().slice(0, 10) + ".csv");
-      link.style.visibility = 'hidden';
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      alert("வரலாறு வெற்றிகரமாக CSV கோப்பாகப் பதிவிறக்கம் செய்யப்பட்டது.");
+      // 2. பங்கேற்பாளர்கள் பட்டியலை ஏற்றல் (Leaderboard)
+      let allAttempts = JSON.parse(localStorage.getItem('allUserAttempts')) || {};
+      let leaderboardData = [];
+      
+      for (const [name, count] of Object.entries(allAttempts)) {
+        leaderboardData.push({ name: name, attempts: count });
+      }
+      
+      // அதிக முயற்சிகளின் அடிப்படையில் வரிசைப்படுத்துதல்
+      leaderboardData.sort((a, b) => b.attempts - a.attempts);
+
+      leaderboardTableBodyEl.innerHTML = "";
+      leaderboardData.forEach(user => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${user.name} ${user.name === userName ? ' (நீங்க)' : ''}</td>
+          <td>${user.attempts}</td>
+        `;
+        leaderboardTableBodyEl.appendChild(row);
+      });
+      
+      // 3. மொத்தப் பங்கேற்பாளர் எண்ணிக்கையைப் புதுப்பித்தல்
+      totalParticipantsEl.textContent = leaderboardData.length;
     }
+
 
     document.getElementById('tv-restart-btn').addEventListener('click', () => {
-        stopTimer(); // 👑 மொத்த நேரங்காட்டியை நிறுத்து 👑
-        stopInactivityTimer(); // 👑 செயல்படா நிலை நேரங்காட்டியை நிறுத்து 👑
+        stopTimer(); 
+        stopInactivityTimer(); 
 
         document.getElementById('tv-results').style.display = 'none';
         document.getElementById('tv-progress').style.display = 'none';
@@ -668,23 +667,24 @@
       }
       const userData = { name: username };
       localStorage.setItem('quizUser', JSON.stringify(userData));
-      if (!localStorage.getItem('quizHistory')) {
-        localStorage.setItem('quizHistory', JSON.stringify([]));
+      
+      // ஒவ்வொரு பயனருக்கும் தனி வரலாறு, பொதுவான முயற்சிக் கணக்கு
+      if (!localStorage.getItem('allUserAttempts')) {
+        localStorage.setItem('allUserAttempts', JSON.stringify({}));
       }
+      
       showApp();
     });
 
     logoutBtn.addEventListener('click', () => {
-      if (confirm("வெளியேற விரும்புகிறீர்களா? உங்கள் மதிப்பெண் வரலாறு அனைத்தும் நீக்கப்படும்.")) {
-        stopTimer(); // 👑 மொத்த நேரங்காட்டியை நிறுத்து 👑
-        stopInactivityTimer(); // 👑 செயல்படா நிலை நேரங்காட்டியை நிறுத்து 👑
+      if (confirm("வெளியேற விரும்புகிறீர்களா? உங்களின் மதிப்பெண் வரலாறு மட்டும் நீக்கப்படாது, ஆனால் நீங்கள் மீண்டும் உள்நுழைய வேண்டும்.")) {
+        stopTimer(); 
+        stopInactivityTimer(); 
         localStorage.removeItem('quizUser');
-        localStorage.removeItem('quizHistory');
+        // குறிப்பு: 'allUserAttempts' அல்லது உங்களின் 'quizHistory_<name>' நீக்கப்படவில்லை.
         window.location.reload();
       }
     });
-    
-    document.getElementById('download-csv-btn').addEventListener('click', downloadHistoryCsv);
 
     document.addEventListener('DOMContentLoaded', checkLogin);
 
