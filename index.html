@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>தமிழ் இலக்கிய வரலாறு வினாடி–வினா</title>
+<title>தமிழ்க் களஞ்சியம் வினாடி–வினா</title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil&display=swap" rel="stylesheet">
 
 <style>
@@ -12,12 +12,13 @@
     margin: 0;
     background: #f5f7fb;
     color: #222;
+    padding-bottom: 70px; /* 👑 புதிய மாற்றம்: நிலையான அடிக்குறிப்பிற்கு இடம் ஒதுக்க 👑 */
   }
   .hidden { display: none !important; }
   #login-container {
     max-width: 500px;
-    margin: 100px auto;
-    padding: 30px;
+    margin: 80px auto; 
+    padding: 25px; 
     background: #fff;
     border-radius: 10px;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
@@ -26,14 +27,14 @@
   #login-container h2 { color: #007bff; }
   #username-input {
     width: 90%;
-    padding: 12px;
+    padding: 10px; 
     border-radius: 8px;
     border: 1px solid #ccc;
     font-size: 1rem;
     margin-top: 10px;
   }
   #login-btn {
-    padding: 12px 25px;
+    padding: 10px 20px; 
     border-radius: 8px;
     border: none;
     font-weight: 700;
@@ -41,15 +42,15 @@
     color: #fff;
     background: #28a745;
     font-size: 1rem;
-    margin-top: 20px;
+    margin-top: 15px; 
     transition: background 0.3s;
   }
   #login-btn:hover { background: #218838; }
   #dashboard-container {
     max-width: 1000px;
-    margin: 20px auto;
+    margin: 15px auto; 
     background: #fff;
-    padding: 20px;
+    padding: 15px; 
     border-radius: 10px;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   }
@@ -58,33 +59,34 @@
     justify-content: space-between;
     align-items: center;
     border-bottom: 2px solid #007bff;
-    padding-bottom: 10px;
-    margin-bottom: 20px;
+    padding-bottom: 8px; 
+    margin-bottom: 15px; 
   }
-  #dashboard-header h2 { color: #007bff; margin: 0; }
+  #dashboard-header h2 { color: #007bff; margin: 0; font-size: 1.3rem; }
   #logout-btn {
-    padding: 8px 15px;
+    padding: 6px 12px; 
     border: none;
     border-radius: 6px;
     background: #dc3545;
     color: white;
     font-weight: 700;
     cursor: pointer;
+    font-size: 0.9rem; 
   }
   #dashboard-stats {
     display: flex;
-    gap: 20px;
-    margin-bottom: 20px;
+    gap: 15px; 
+    margin-bottom: 15px; 
     text-align: center;
   }
   .stat-card {
     flex: 1;
     background: #f4f4f4;
-    padding: 15px;
+    padding: 10px; 
     border-radius: 8px;
   }
-  .stat-card h4 { margin: 0 0 5px 0; color: #555; }
-  .stat-card p { margin: 0; font-size: 1.5rem; font-weight: 700; color: #007bff; }
+  .stat-card h4 { margin: 0 0 5px 0; color: #555; font-size: 0.9rem; }
+  .stat-card p { margin: 0; font-size: 1.3rem; font-weight: 700; color: #007bff; }
   #dashboard-history table, #leaderboard-table {
     width: 100%;
     border-collapse: collapse;
@@ -92,8 +94,9 @@
   }
   #dashboard-history th, #dashboard-history td, #leaderboard-table th, #leaderboard-table td {
     border: 1px solid #ddd;
-    padding: 10px;
+    padding: 8px; 
     text-align: left;
+    font-size: 0.9rem; 
   }
   #dashboard-history th, #leaderboard-table th { background-color: #f2f2f2; color: #333; }
   .header {
@@ -102,44 +105,82 @@
     justify-content: space-between;
     background: linear-gradient(90deg, #007bff, #00b894);
     color: white;
-    padding: 12px 20px;
+    padding: 8px 15px; 
     border-bottom: 4px solid #0a58ca;
   }
-  .header h1 { margin: 0; font-size: 1.6rem; text-align: center; }
-  .header p { margin: 4px 0 0; font-size: 1rem; text-align: center; }
+  .header h1 { margin: 0; font-size: 1.4rem; text-align: center; }
+  .header p { margin: 2px 0 0; font-size: 0.9rem; text-align: center; }
   .header img {
-    width: 90px;
-    height: 90px;
+    width: 60px; 
+    height: 60px; 
     border-radius: 50%;
-    border: 2px solid #fff;
+    border: 1px solid #fff; 
     background: white;
     object-fit: cover;
   }
   @media (max-width: 768px) {
     .header { flex-direction: column; text-align: center; }
-    .header img { width: 70px; height: 70px; margin: 6px 0; }
+    .header img { width: 50px; height: 50px; margin: 4px 0; }
   }
   #tv-quiz-wrap {
     max-width: 1000px;
-    margin: 30px auto;
+    margin: 15px auto; 
     background: #fff;
-    padding: 20px;
+    padding: 15px; 
     border-radius: 10px;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
     display: grid;
-    grid-template-columns: 1fr 320px;
-    gap: 20px;
+    /* 👑 பக்கவாட்டுப் பகுதியைக் குறைத்து வினாப் பகுதிக்கு அதிக இடம் 👑 */
+    grid-template-columns: 1fr 260px; 
+    gap: 15px; 
   }
   @media (max-width: 900px) { #tv-quiz-wrap { grid-template-columns: 1fr; } }
-  #tv-main { display: flex; flex-direction: column; }
+  
+  /* 👑 புதிய பாணி: நிலையான அடிக்குறிப்பு (Fixed Footer) 👑 */
+  #fixed-footer-nav {
+    display: none; /* ஆரம்பத்தில் மறைக்கவும் */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-width: 1000px; /* டாஷ்போர்டின் அதிகபட்ச அகலம் */
+    margin: 0 auto;
+    padding: 10px 15px;
+    background: #fefefe;
+    border-top: 1px solid #ddd;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    box-sizing: border-box;
+  }
+  @media (min-width: 1001px) {
+      /* திரையின் அகலம் 1000px ஐ விட அதிகமாக இருந்தால், மையப்படுத்தவும் */
+      #fixed-footer-nav {
+          left: 50%;
+          transform: translateX(-50%);
+      }
+  }
+
+  .quiz-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  /* 👑 End of New Style 👑 */
+
+  #tv-main { 
+    display: flex; 
+    flex-direction: column; 
+    padding-bottom: 5px; /* அடிக்குறிப்புக்குத் தயாராகக் கொஞ்சம் இடைவெளி */
+  }
+
   #quizSelect {
     display: block;
     width: 100%;
-    margin-bottom: 15px;
-    padding: 10px;
+    margin-bottom: 12px; 
+    padding: 9px; 
     border-radius: 8px;
     border: 1px solid #ccc;
-    font-size: 1rem;
+    font-size: 0.95rem; 
     background: #fefefe;
   }
   #tv-progress {
@@ -147,25 +188,25 @@
     font-weight: 700;
     color: #555;
     background: #eef4ff;
-    padding: 8px;
+    padding: 6px; 
     border-radius: 6px;
-    margin-bottom: 12px;
+    margin-bottom: 10px; 
   }
   #tv-question {
-    font-size: 1.15rem;
+    font-size: 1.1rem; 
     font-weight: 700;
-    line-height: 1.5;
-    margin-bottom: 12px;
+    line-height: 1.4; 
+    margin-bottom: 10px; 
   }
-  #tv-options { display: flex; flex-direction: column; gap: 10px; }
+  #tv-options { display: flex; flex-direction: column; gap: 8px; }
   .option-btn {
-    padding: 12px;
-    border-radius: 8px;
+    padding: 10px; 
+    border-radius: 6px; 
     border: 1px solid #ddd;
     background: #f9f9f9;
     text-align: left;
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 0.95rem; 
     transition: all 0.2s ease-in-out;
   }
   .option-btn:hover { background: #e7f0ff; }
@@ -173,63 +214,62 @@
   .option-btn.wrong { background: #fdecea; border-color: #dc3545; }
   #tv-feedback {
     display: none;
-    margin-top: 14px;
-    padding: 12px;
-    border-radius: 8px;
+    margin-top: 10px; 
+    padding: 10px; 
+    border-radius: 6px; 
     background: #f9f9f9;
     border: 1px solid #ddd;
+    font-size: 0.9rem; 
   }
   #tv-side {
     background: #f5fcf8;
     border: 1px solid #cce5d3;
     border-radius: 10px;
-    padding: 15px;
-    font-size: 0.95rem;
+    padding: 10px; 
+    font-size: 0.85rem; 
     display: flex;
     flex-direction: column;
   }
-  #tv-side h3 { color: #006644; margin-top: 0; }
-  .quiz-nav {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 15px;
-  }
+  #tv-side h3 { color: #006644; margin-top: 0; font-size: 1rem; }
   #tv-prev, #tv-next {
-    padding: 10px 16px;
-    border-radius: 8px;
+    padding: 8px 12px; 
+    border-radius: 6px; 
     border: none;
     font-weight: 700;
     cursor: pointer;
     color: #fff;
+    font-size: 0.9rem; 
   }
   #tv-prev { background: #ff9800; }
   #tv-next { background: #007bff; }
   #tv-results {
     display: none;
-    margin-top: 18px;
+    margin-top: 15px; 
     text-align: center;
     border-top: 2px solid #007bff;
-    padding-top: 20px;
+    padding-top: 15px; 
   }
   #tv-timer-box, #tv-participants-box {
     text-align: center;
     background: #fff;
-    border: 2px solid #007bff;
+    border: 1px solid #007bff; 
     border-radius: 8px;
-    padding: 10px;
-    margin-top: 15px;
-    /* order: -1; - removed for better flow */
+    padding: 8px; 
+    margin-top: 10px; 
   }
   #tv-timer-box h3, #tv-participants-box h3 {
-    margin: 0 0 10px 0;
+    margin: 0 0 5px 0; 
     color: #007bff;
-    font-size: 1.1rem;
+    font-size: 1rem; 
   }
-  #tv-timer-display {
-    font-size: 2.2rem;
+  #tv-timer-display, #tv-total-participants {
+    font-size: 1.8rem; 
     font-weight: 700;
     color: #333;
-    letter-spacing: 2px;
+    letter-spacing: 1px; 
+  }
+  #tv-total-participants {
+    color: #28a745;
   }
   #tv-timer-display.warning {
     color: #dc3545;
@@ -237,31 +277,31 @@
   }
   @keyframes pulse {
     0% { transform: scale(1); opacity: 1; }
-    50% { transform: scale(1.05); opacity: 0.7; }
+    50% { transform: scale(1.03); opacity: 0.7; }
     100% { transform: scale(1); opacity: 1; }
   }
-  #tv-result-title { font-size: 1.8rem; font-weight: 700; color: #28a745; }
-  #tv-result-score { font-size: 1.4rem; font-weight: 700; color: #007bff; margin: 10px 0; }
-  #tv-result-percentage { font-size: 1.2rem; font-weight: 700; color: #555; margin: 5px 0 15px 0; }
+  #tv-result-title { font-size: 1.6rem; font-weight: 700; color: #28a745; }
+  #tv-result-score { font-size: 1.2rem; font-weight: 700; color: #007bff; margin: 8px 0; }
+  #tv-result-percentage { font-size: 1rem; font-weight: 700; color: #555; margin: 5px 0 10px 0; }
   #tv-result-message {
-    font-size: 1.1rem;
+    font-size: 1rem; 
     font-style: italic;
     color: #333;
-    margin-top: 15px;
+    margin-top: 10px; 
     background: #f4f4f4;
-    padding: 10px;
+    padding: 8px; 
     border-radius: 6px;
   }
   #tv-restart-btn {
-    padding: 12px 20px;
+    padding: 10px 18px; 
     border-radius: 8px;
     border: none;
     font-weight: 700;
     cursor: pointer;
     color: #fff;
     background: #28a745;
-    font-size: 1rem;
-    margin-top: 20px;
+    font-size: 0.95rem; 
+    margin-top: 15px; 
     transition: background 0.3s;
   }
   #tv-restart-btn:hover { background: #218838; }
@@ -318,8 +358,8 @@
         <p id="no-history-msg" style="text-align: center; display: none;">நீங்கள் இன்னும் எந்தப் பயிற்சியும் எடுக்கவில்லை.</p>
       </div>
       
-      <div id="dashboard-leaderboard" style="margin-top: 30px;">
-        <h3 style="text-align: center; color: #007bff;">👥 பங்கேற்பாளர்களின் முயற்சிகள்</h3>
+      <div id="dashboard-leaderboard" style="margin-top: 25px;">
+        <h3 style="text-align: center; color: #007bff; font-size: 1.1rem;">👥 பங்கேற்பாளர்களின் முயற்சிகள்</h3>
         <table id="leaderboard-table">
           <thead>
             <tr>
@@ -343,10 +383,7 @@
         <div id="tv-question"></div>
         <div id="tv-options"></div>
         <div id="tv-feedback"></div>
-        <div class="quiz-nav">
-          <button id="tv-prev" style="display:none;">👈❓ முந்தைய வினா</button>
-          <button id="tv-next" style="display:none;">அடுத்த வினா 👉❓</button>
-        </div>
+        
         <div id="tv-results">
           <h2 id="tv-result-title">🎉 வாழ்த்துக்கள்! 🎉</h2>
           <p id="tv-result-score">உங்கள் மதிப்பெண்: 0 / 0</p>
@@ -358,7 +395,7 @@
       <div id="tv-side">
         <div id="tv-participants-box">
           <h3>👤 மொத்தப் பங்கேற்பாளர்கள்</h3>
-          <div id="tv-total-participants" style="font-size: 2.2rem; font-weight: 700; color: #28a745;">0</div>
+          <div id="tv-total-participants" style="font-size: 1.8rem; font-weight: 700; color: #28a745;">0</div>
         </div>
         <div id="tv-timer-box" style="display:none;">
           <h3>⏰ நேரம் மீதமுள்ளது ⏰</h3>
@@ -366,6 +403,13 @@
         </div>
         <h2>👨‍💻 உருவாக்குநர் 👨‍💻</h2>
         <p>👨‍💻 முனைவர் சத்தியராசு தங்கச்சாமி, பயிற்றுநர், தமிழ்நாடு, இந்தியா ✍️</p>
+      </div>
+    </div>
+    
+    <div id="fixed-footer-nav" class="hidden"> 
+      <div class="quiz-nav">
+        <button id="tv-prev">👈❓ முந்தைய வினா</button>
+        <button id="tv-next">அடுத்த வினா 👉❓</button>
       </div>
     </div>
 
@@ -396,6 +440,9 @@
     const leaderboardTableBodyEl = document.getElementById('leaderboard-table-body');
     const totalParticipantsEl = document.getElementById('tv-total-participants');
     
+    // 👑 புதிய மாறிகள் 👑
+    const fixedFooterNav = document.getElementById('fixed-footer-nav');
+
     // --- 👑 செயல்படா நிலை நேரங்காட்டியை Reset செய் 👑 ---
     function resetInactivityTimer() {
       clearTimeout(inactivityTimer);
@@ -414,6 +461,20 @@
       clearTimeout(inactivityTimer);
     }
     // --- 👑 ---
+    
+    // 👑 புதிய செயல்பாடு: அடிக்குறிப்பை மறை/காட்டு 👑
+    function toggleFixedFooter(show) {
+      if (show) {
+        fixedFooterNav.classList.remove('hidden');
+        // மொபைல்/சிறிய திரைகளில், வினாடி-வினா பகுதியை footer-க்கு மேல் வைக்கவேண்டியிருக்கலாம்
+        if (window.innerWidth <= 900) { 
+            document.body.style.paddingBottom = '70px';
+        }
+      } else {
+        fixedFooterNav.classList.add('hidden');
+        document.body.style.paddingBottom = '0'; // அடிக்குறிப்பு தேவையில்லை என்றால் நீக்கவும்
+      }
+    }
 
     /**
      * வினாக்களின் எண்ணிக்கைக்கு ஏற்ப நிமிடங்களைக் கணக்கிடுதல் (பழைய விதிகளின்படி)
@@ -431,6 +492,7 @@
     function startQuizTimer(questionCount) {
       stopTimer(); 
       resetInactivityTimer(); 
+      toggleFixedFooter(true); // 👑 வினாடி-வினா தொடங்கும் போது அடிக்குறிப்பைக் காட்டு 👑
       
       const timerBox = document.getElementById('tv-timer-box');
       if (!timerBox) return;
@@ -505,6 +567,7 @@
     function showCustomResults(score, totalQuestions, quizTitle) {
       stopTimer(); 
       stopInactivityTimer(); 
+      toggleFixedFooter(false); // 👑 வினாடி-வினா முடிந்தவுடன் அடிக்குறிப்பை மறை 👑
       
       const timerBox = document.getElementById('tv-timer-box');
       if (timerBox) timerBox.style.display = 'none';
@@ -513,7 +576,7 @@
       document.getElementById('tv-question').style.display = 'none';
       document.getElementById('tv-options').style.display = 'none';
       document.getElementById('tv-feedback').style.display = 'none';
-      document.querySelector('.quiz-nav').style.display = 'none';
+      // document.querySelector('.quiz-nav').style.display = 'none'; // இது நீக்கப்பட்டது, இப்போது fixed-footer-nav உள்ளது
 
       const resultsContainer = document.getElementById('tv-results');
       const titleEl = document.getElementById('tv-result-title');
@@ -646,6 +709,7 @@
     document.getElementById('tv-restart-btn').addEventListener('click', () => {
         stopTimer(); 
         stopInactivityTimer(); 
+        toggleFixedFooter(false); // 👑 புதிய மாற்றம் 👑
 
         document.getElementById('tv-results').style.display = 'none';
         document.getElementById('tv-progress').style.display = 'none';
@@ -680,6 +744,7 @@
       if (confirm("வெளியேற விரும்புகிறீர்களா? உங்களின் மதிப்பெண் வரலாறு மட்டும் நீக்கப்படாது, ஆனால் நீங்கள் மீண்டும் உள்நுழைய வேண்டும்.")) {
         stopTimer(); 
         stopInactivityTimer(); 
+        toggleFixedFooter(false); // 👑 புதிய மாற்றம் 👑
         localStorage.removeItem('quizUser');
         // குறிப்பு: 'allUserAttempts' அல்லது உங்களின் 'quizHistory_<name>' நீக்கப்படவில்லை.
         window.location.reload();
